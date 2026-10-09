@@ -238,5 +238,45 @@
     "key": "copertina|spectral|30",
     "attempt": 0,
     "minDistance": 7
-  }
+  },
+  "pages": [
+    {
+      "id": "tecniche-di-colore",
+      "section": "services",
+      "label": "Approfondisci: Colore capelli a Verona",
+      "title": "Colore capelli a Verona: tecniche personalizzate",
+      "lead": "Nel salone di Alessandra Di Marco a Verona il colore si sceglie in base a incarnato, base naturale e stile desiderato, per un risultato armonioso.",
+      "paragraphs": [
+        "La colorazione è uno dei servizi distintivi del salone. Le tecniche comprendono colorazioni complete, ritocchi mirati e colpi di sole pensati per dare movimento e profondità, sempre nel rispetto della naturalezza del risultato.",
+        "Le tonalità vengono scelte in base all'incarnato, al colore naturale di partenza e allo stile desiderato. L'obiettivo è un colore armonioso e personalizzato, coerente con l'identità della cliente.",
+        "I colpi di sole servono a illuminare il viso e a dare tridimensionalità alla chioma, evitando contrasti eccessivi. I trattamenti sono pensati anche per la salute del capello nel tempo, oltre che per il risultato immediato, per mantenere luminosità e brillantezza."
+      ],
+      "images": [
+        {
+          "file": "pagina-tecniche-di-colore-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1066,
+          "luma": 0.34,
+          "alt": "Area lavaggio del salone con scaffale dei prodotti per la colorazione e un grande ritratto alla parete"
+        }
+      ]
+    },
+    {
+      "id": "servizi-professionali",
+      "section": "services",
+      "label": "Approfondisci: Parrucchiere a Verona",
+      "title": "Parrucchiere a Verona: tagli, colore e consulenza su misura",
+      "lead": "Il salone di Alessandra Di Marco a Verona propone servizi per capelli donna e uomo, costruiti sull'analisi del capello e sul dialogo con il cliente.",
+      "paragraphs": [
+        "Alessandra Di Marco è un salone per donna e uomo a Verona. Propone tagli, colorazioni, colpi di sole, trattamenti tecnici e acconciature per spose ed eventi, sempre con una consulenza personalizzata.",
+        "Ogni servizio parte da un'analisi attenta del capello e da un confronto diretto con la cliente, per arrivare a un risultato armonioso e su misura. Il lavoro si basa su aggiornamento costante e tecniche professionali, con una visione sartoriale dello stile: espressione individuale, non replica di modelli standard.",
+        "Anche per gli uomini ci sono servizi dedicati, pensati per esaltare le caratteristiche personali con tagli precisi e soluzioni su misura. Al centro c'è la persona, non le tendenze."
+      ],
+      "images": []
+    }
+  ]
 }
