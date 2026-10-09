@@ -1,0 +1,69 @@
+{
+  "threshold": 6,
+  "sites": [
+    {
+      "slug": "esempio-idraulico",
+      "fingerprint": {
+        "palette": "cantiere",
+        "font": "barlow",
+        "shape": "tecnico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "filetto",
+        "hero": "split",
+        "intro": "margine",
+        "grid": "4-8",
+        "services": "righe",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "esempio-ristorante",
+      "fingerprint": {
+        "palette": "notte-ambra",
+        "font": "fraunces",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "trasparente",
+        "hero": "arco",
+        "intro": "sovrapposta",
+        "grid": "7-5",
+        "services": "menu",
+        "gallery": "colonne"
+      }
+    },
+    {
+      "slug": "esempio-parrucchiere",
+      "fingerprint": {
+        "palette": "cipria",
+        "font": "instrument",
+        "shape": "organico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "pillola",
+        "hero": "wordmark",
+        "intro": "sfalsata",
+        "grid": "5-7",
+        "services": "schede",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "idraulico-de-bortoli-massimo-dyj8",
+      "fingerprint": {
+        "palette": "dna:#119fc7",
+        "font": "besley",
+        "shape": "morbido",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "indice",
+        "gallery": "pila"
+      }
+    }
+  ]
+}

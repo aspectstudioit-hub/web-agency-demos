@@ -1,0 +1,149 @@
+{
+  "design": {
+    "seed": "Idraulico De Bortoli Massimo · Verona",
+    "sector": "operai",
+    "palette": "dna:#119fc7",
+    "font": "besley",
+    "shape": "morbido",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "scena",
+    "intro": "dichiarazione",
+    "grid": "7-5",
+    "services": "indice",
+    "gallery": "pila"
+  },
+  "business": {
+    "name": "Idraulico De Bortoli Massimo",
+    "tagline": "Idraulico a Verona",
+    "category": "idraulico",
+    "phone": "045 567673",
+    "whatsapp": null,
+    "email": null,
+    "address": "Via Albere, 73, 37138 Verona VR",
+    "mapsQuery": "Idraulico De Bortoli Massimo, Via Albere, 73, 37138 Verona VR",
+    "hours": null,
+    "rating": 4.3,
+    "reviewCount": 49,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Idraulico a Verona",
+    "heroSub": "Impresa idraulica a Verona. Chiama per un guasto o per programmare un lavoro.",
+    "introTitle": "Idraulico a Verona: chiama per un guasto o un sopralluogo",
+    "introText": "Quando in casa c'è una perdita o uno scarico che non va, serve qualcuno che risponda. L'impresa idraulica De Bortoli Massimo lavora a Verona, con base in Via Albere, e si occupa di impianti idraulici.\n\nPer un guasto o per un lavoro da programmare, chiama o chiedi un sopralluogo.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Hai un guasto? Chiamaci adesso"
+  },
+  "images": [],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-09T18:48:01.212Z",
+    "seed": "Idraulico De Bortoli Massimo · Verona",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "scena",
+    "palette": {
+      "paper": "#f1f8f1",
+      "ink": "#122915",
+      "accent": "#119fc7",
+      "surprise": "#65bc95",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 9,
+      "titleLh": 0.85,
+      "track": "-0.03em",
+      "italicWord": true
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "nessuna",
+      "ratio": "3/2"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "indice",
+      "gallery": "pila",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "denso",
+        "gallery": "respiro",
+        "trust": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "scena",
+      "intro": "dichiarazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "pila"
+    },
+    "fingerprint": {
+      "palette": "dna:#119fc7",
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "scena",
+      "intro": "dichiarazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "pila"
+    },
+    "key": "scena|besley|195",
+    "attempt": 0,
+    "minDistance": 10
+  }
+}
