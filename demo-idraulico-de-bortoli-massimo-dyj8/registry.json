@@ -64,6 +64,22 @@
         "services": "indice",
         "gallery": "pila"
       }
+    },
+    {
+      "slug": "parrucchiere-alessandra-di-marco-pt8u",
+      "fingerprint": {
+        "palette": "dna:#c4996e",
+        "font": "spectral",
+        "shape": "organico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "indice",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
     }
   ]
 }

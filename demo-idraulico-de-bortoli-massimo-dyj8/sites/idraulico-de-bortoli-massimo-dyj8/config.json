@@ -38,7 +38,22 @@
     "services": [],
     "ctaTitle": "Hai un guasto? Chiamaci adesso"
   },
-  "images": [],
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.33,
+      "alt": "Raccordi in rame e ottone e un rotolo di nastro sigillante su un banco da lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
   "dna": {
     "v": 1,
     "createdAt": "2026-10-09T18:48:01.212Z",
