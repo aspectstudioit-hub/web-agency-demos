@@ -1,0 +1,228 @@
+{
+  "design": {
+    "seed": "Parrucchiere Alessandra di Marco · Verona",
+    "sector": "fashion",
+    "palette": "dna:#c4996e",
+    "font": "spectral",
+    "shape": "organico",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "indice",
+    "hero": "copertina",
+    "intro": "dichiarazione",
+    "grid": "5-7",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Parrucchiere Alessandra di Marco",
+    "tagline": "Parrucchiere a Verona",
+    "category": "parrucchiere",
+    "phone": "045 258 0944",
+    "whatsapp": null,
+    "email": "alessandra.dimarco2016@gmail.com",
+    "address": "Via Pietro Meloni, 9, 37138 Verona VR",
+    "mapsQuery": "Parrucchiere Alessandra di Marco, Via Pietro Meloni, 9, 37138 Verona VR",
+    "hours": {
+      "lun": [],
+      "mar": [
+        "09:00-18:00"
+      ],
+      "mer": [],
+      "gio": [
+        "09:00-18:00"
+      ],
+      "ven": [
+        "09:00-21:00"
+      ],
+      "sab": [
+        "09:00-18:00"
+      ],
+      "dom": []
+    },
+    "rating": 5,
+    "reviewCount": 139,
+    "reviewSource": "Google",
+    "vat": "04368200236"
+  },
+  "copy": {
+    "heroTitle": "Stile su misura",
+    "heroSub": "Salone per donna e uomo in Via Pietro Meloni, a Verona. Taglio, colore e acconciature pensati attorno a chi li porta.",
+    "introTitle": "Un capello, uno stile",
+    "introText": "Alessandra Di Marco è un salone per donna e uomo a Verona. Ogni lavoro parte dall'ascolto e dall'osservazione del capello, perché lo stile è espressione personale e non copia di un modello.\n\nTaglio, colore e acconciature dialogano tra loro, dentro un'idea di cura attenta ai dettagli e di gusto sartoriale.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Parrucchiere donna",
+        "text": "Tagli e colore pensati per valorizzare i lineamenti e lo stile personale di ogni cliente."
+      },
+      {
+        "title": "Parrucchiere uomo",
+        "text": "Tagli precisi e soluzioni su misura, studiati per esaltare le caratteristiche di ciascuno."
+      },
+      {
+        "title": "Tagli",
+        "text": "Dalle linee classiche a quelle più contemporanee, calibrate sulla persona."
+      },
+      {
+        "title": "Colore",
+        "text": "Colorazioni, colpi di sole e tecniche personalizzate, scelte in base al capello."
+      },
+      {
+        "title": "Trattamenti",
+        "text": "Trattamenti tecnici per la cura del capello, accanto a taglio e colore."
+      },
+      {
+        "title": "Acconciature per spose ed eventi",
+        "text": "Acconciature curate per le occasioni importanti, pensate in armonia con l'abito e il momento."
+      }
+    ],
+    "ctaTitle": "Prenota il tuo appuntamento a Verona"
+  },
+  "images": [
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 2133,
+      "luma": 0.34,
+      "alt": "Acconciatura raccolta con onde morbide su una cliente, vista di spalle"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 2400,
+      "luma": 0.28,
+      "alt": "Interno del salone con specchi, sgabelli dorati e lampade sospese"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.27,
+      "alt": "Zona accoglienza del salone con lampade a sospensione e l'insegna Alessandra Di Marco"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-09T19:14:13.494Z",
+    "seed": "Parrucchiere Alessandra di Marco · Verona",
+    "family": "capelli",
+    "concept": {
+      "id": "specchio",
+      "frase": "Lo specchio del salone: ogni immagine è incorniciata come in uno specchio ovale e la parola le sta accanto, calma, come un riflesso.",
+      "extra": []
+    },
+    "archetype": "copertina",
+    "palette": {
+      "paper": "#13110e",
+      "ink": "#e8e2df",
+      "accent": "#c4996e",
+      "surprise": "#84aad0",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "spectral",
+      "display": "Spectral",
+      "body": "Karla",
+      "heroRatio": 11,
+      "titleLh": 0.84,
+      "track": "-0.035em",
+      "italicWord": true
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "indice",
+    "heads": "margine",
+    "button": "sottolineato",
+    "badge": "orologio",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "punto",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "colonne",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "respiro",
+        "gallery": "normale",
+        "trust": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "spectral",
+      "shape": "organico",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "indice",
+      "hero": "copertina",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#c4996e",
+      "font": "spectral",
+      "shape": "organico",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "indice",
+      "hero": "copertina",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "copertina|spectral|30",
+    "attempt": 0,
+    "minDistance": 7
+  }
+}
