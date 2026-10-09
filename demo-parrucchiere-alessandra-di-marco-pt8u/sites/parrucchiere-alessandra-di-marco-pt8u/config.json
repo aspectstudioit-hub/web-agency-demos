@@ -81,6 +81,20 @@
   },
   "images": [
     {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.45,
+      "alt": "Forbici da parrucchiere, pettine e spazzola appoggiati su un piano di marmo chiaro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
       "slot": "gallery-1",
       "file": "foto-1.webp",
       "widths": [
