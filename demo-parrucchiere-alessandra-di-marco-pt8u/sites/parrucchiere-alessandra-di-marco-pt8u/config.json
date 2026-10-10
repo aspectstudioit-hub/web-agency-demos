@@ -241,40 +241,210 @@
   },
   "pages": [
     {
-      "id": "tecniche-di-colore",
+      "id": "parrucchiere-donna",
       "section": "services",
-      "label": "Approfondisci: Colore capelli a Verona",
-      "title": "Colore capelli a Verona: tecniche personalizzate",
-      "lead": "Nel salone di Alessandra Di Marco a Verona il colore si sceglie in base a incarnato, base naturale e stile desiderato, per un risultato armonioso.",
+      "service": "Parrucchiere donna",
+      "label": "Approfondisci: Parrucchiere per donna",
+      "title": "Parrucchiere per donna a Verona: il salone di Alessandra Di Marco",
+      "lead": "Nel cuore di Verona, un salone per donna che propone tagli, colore e trattamenti pensati sulla personalità e sui tratti di ogni cliente.",
       "paragraphs": [
-        "La colorazione è uno dei servizi distintivi del salone. Le tecniche comprendono colorazioni complete, ritocchi mirati e colpi di sole pensati per dare movimento e profondità, sempre nel rispetto della naturalezza del risultato.",
-        "Le tonalità vengono scelte in base all'incarnato, al colore naturale di partenza e allo stile desiderato. L'obiettivo è un colore armonioso e personalizzato, coerente con l'identità della cliente.",
-        "I colpi di sole servono a illuminare il viso e a dare tridimensionalità alla chioma, evitando contrasti eccessivi. I trattamenti sono pensati anche per la salute del capello nel tempo, oltre che per il risultato immediato, per mantenere luminosità e brillantezza."
+        "Il salone di Alessandra Di Marco si trova nel centro di Verona ed è pensato per chi vuole valorizzare la propria immagine con tagli moderni, colorazioni personalizzate e trattamenti di ultima generazione. L'approccio è sartoriale: ogni cliente è accolta con un servizio dedicato, per esprimere personalità, stile e desideri individuali. Gli arredi sono studiati per mettere la cliente al centro e farla sentire a proprio agio.",
+        "Ogni taglio nasce dalla forma del viso e dalle caratteristiche del capello. Che si desideri un cambio radicale o un semplice refresh, Alessandra consiglia la soluzione più adatta, abbinata a una piega per ogni occasione. Il colore, dalle sfumature naturali ai contrasti più decisi, è scelto per valorizzare incarnato e personalità, con prodotti di alta qualità privi di ammoniaca. Tra le tecniche: shatush, gloss, tonalizzanti e balayage.",
+        "Per nutrire e proteggere i capelli il salone propone trattamenti a base di cheratina, botox capillare, oli naturali e maschere specifiche per ogni tipo di capello. Per la cute ci sono scrub e detossinanti mirati, utili anche nei periodi di stress stagionale. Alessandra Di Marco partecipa a corsi di aggiornamento e workshop internazionali, per proporre novità in fatto di taglio, colore e trattamenti."
       ],
       "images": [
         {
-          "file": "pagina-tecniche-di-colore-1.webp",
+          "file": "pagina-parrucchiere-donna-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1984,
+          "luma": 0.39,
+          "alt": "Postazioni di taglio con specchi e scaffale dei prodotti nel salone"
+        },
+        {
+          "file": "pagina-parrucchiere-donna-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1732,
+          "luma": 0.41,
+          "alt": "Capelli lunghi mossi con riflessi caramello"
+        },
+        {
+          "file": "pagina-parrucchiere-donna-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1320,
+          "luma": 0.41,
+          "alt": "Capelli castani mossi con riflessi ramati, visti di spalle"
+        }
+      ]
+    },
+    {
+      "id": "parrucchiere-uomo",
+      "section": "services",
+      "service": "Parrucchiere uomo",
+      "label": "Approfondisci: Parrucchiere per uomo",
+      "title": "Parrucchiere per uomo a Verona: taglio, barba e cura",
+      "lead": "Nel centro di Verona, Alessandra Di Marco segue ogni cliente con ascolto e personalizzazione, dal taglio alla cura della barba e della cute.",
+      "paragraphs": [
+        "Il salone si trova nel centro di Verona ed è uno spazio moderno e accogliente. Si parte dall'ascolto: il taglio viene pensato sulle caratteristiche morfologiche del viso, ma anche sullo stile di vita e sulle preferenze di ciascun cliente, con soluzioni su misura.",
+        "Oltre al taglio, il salone offre cura della barba, modellatura e rasatura tradizionale, con prodotti specifici e tecniche aggiornate. Ogni viso ha la propria forma ideale di barba: la consulenza serve a definire proporzioni e contorni che valorizzino i lineamenti.",
+        "Sono proposti anche trattamenti energizzanti, antiforfora, detossinanti e ristrutturanti, pensati per la salute della cute e per favorire una crescita sana dei capelli. I servizi sono eseguiti con prodotti professionali di elevata qualità, dalla consulenza iniziale alla definizione del look finale."
+      ],
+      "images": [
+        {
+          "file": "pagina-parrucchiere-uomo-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1735,
+          "luma": 0.28,
+          "alt": "Taglio uomo con barba curata, visto di profilo"
+        },
+        {
+          "file": "pagina-parrucchiere-uomo-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1320,
+          "luma": 0.37,
+          "alt": "Taglio uomo con ciuffo voluminoso"
+        }
+      ]
+    },
+    {
+      "id": "tagli",
+      "section": "services",
+      "service": "Tagli",
+      "label": "Approfondisci: Tagli professionali a Verona",
+      "title": "Tagli professionali a Verona su misura",
+      "lead": "Il salone propone tagli studiati per valorizzare i lineamenti e rendere il look facile da portare nel tempo.",
+      "paragraphs": [
+        "Le proposte vanno dalle linee classiche a soluzioni più contemporanee, sempre calibrate sulle caratteristiche individuali. Ogni taglio viene progettato per garantire equilibrio tra estetica e praticità e per mantenere la forma anche con la crescita del capello.",
+        "Ogni intervento è pensato come parte di un progetto di stile complessivo, in cui il taglio dialoga con il colore e con l'immagine personale."
+      ],
+      "images": []
+    },
+    {
+      "id": "colore",
+      "section": "services",
+      "service": "Colore",
+      "label": "Approfondisci: Colorazione e schiaritura",
+      "title": "Colorazione e schiaritura a Verona: balayage e air touch",
+      "lead": "Nel salone di Alessandra Di Marco a Verona il colore nasce da una consulenza e viene costruito su misura per la persona.",
+      "paragraphs": [
+        "Il colore viene progettato in base alla persona, al tipo di capello e al risultato desiderato. Si tiene conto di incarnato, base naturale e struttura del capello, per un effetto armonioso e naturale che accompagni il taglio e ne valorizzi le linee, senza contrasti eccessivi.",
+        "Balayage, colpi di sole e air touch servono a creare profondità, movimento e luminosità senza appesantire o stravolgere la chioma. L'obiettivo non è coprire, ma esaltare il colore nel rispetto dell'equilibrio complessivo dello stile.",
+        "L'air touch usa un flusso d'aria per separare i capelli più corti da quelli più lunghi prima del colore, con sfumature morbide e graduali. Il balayage crea riflessi senza linee nette, simulando l'effetto naturale della luce, ed è indicato per chi vuole più luminosità senza un cambiamento drastico. In entrambi i casi la consulenza iniziale valuta se la tecnica è adatta al tipo di capello."
+      ],
+      "images": [
+        {
+          "file": "pagina-colore-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2000,
+          "luma": 0.43,
+          "alt": "Capelli castani con sfumature calde e scaffale di prodotti sullo sfondo"
+        },
+        {
+          "file": "pagina-colore-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2000,
+          "luma": 0.45,
+          "alt": "Capelli castani con punte ramate, vista laterale"
+        },
+        {
+          "file": "pagina-colore-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2000,
+          "luma": 0.47,
+          "alt": "Capelli rame con onde morbide, vista laterale"
+        },
+        {
+          "file": "pagina-colore-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1723,
+          "luma": 0.4,
+          "alt": "Capelli mossi con balayage biondo, visti di spalle"
+        }
+      ]
+    },
+    {
+      "id": "trattamenti",
+      "section": "services",
+      "service": "Trattamenti",
+      "label": "Approfondisci: Trattamenti per capelli",
+      "title": "Trattamenti per capelli a Verona",
+      "lead": "Da Alessandra Di Marco ogni trattamento nasce da una valutazione del capello e dà vita a un percorso personalizzato, non a una soluzione standard.",
+      "paragraphs": [
+        "Presso il salone di Alessandra Di Marco, i trattamenti per capelli a Verona fanno parte di un percorso personalizzato. La scelta avviene dopo un'attenta valutazione dello stato del capello, delle abitudini quotidiane e dei servizi tecnici già eseguiti, nel rispetto della struttura naturale della chioma.",
+        "Non esiste un trattamento valido per tutti. Capelli secchi, trattati, fini o crespi richiedono approcci diversi, sia nei prodotti utilizzati sia nei tempi di applicazione. L'obiettivo è evitare interventi non necessari o poco adatti e ottenere risultati equilibrati e duraturi.",
+        "Tra i più richiesti ci sono i trattamenti alla cheratina, proteina naturalmente presente nei capelli che contribuisce a forza e compattezza. Se il capello appare sfibrato o spento, possono aiutare a restituire un aspetto più uniforme e curato. Prima si fa una consulenza, che può portare a più sedute e a un abbinamento con altri servizi, come taglio o colore."
+      ],
+      "images": [
+        {
+          "file": "pagina-trattamenti-1.webp",
           "widths": [
             800,
             1600
           ],
           "width": 1600,
           "height": 1066,
-          "luma": 0.34,
-          "alt": "Area lavaggio del salone con scaffale dei prodotti per la colorazione e un grande ritratto alla parete"
+          "luma": 0.35,
+          "alt": "Area lavaggio del salone con poltrone nere e un pannello decorativo alla parete"
+        },
+        {
+          "file": "pagina-trattamenti-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1397,
+          "luma": 0.43,
+          "alt": "Caschetto liscio e lucido, capelli castani visti di spalle"
         }
       ]
     },
     {
-      "id": "servizi-professionali",
+      "id": "acconciature-per-spose",
       "section": "services",
-      "label": "Approfondisci: Parrucchiere a Verona",
-      "title": "Parrucchiere a Verona: tagli, colore e consulenza su misura",
-      "lead": "Il salone di Alessandra Di Marco a Verona propone servizi per capelli donna e uomo, costruiti sull'analisi del capello e sul dialogo con il cliente.",
+      "service": "Acconciature per spose ed eventi",
+      "label": "Approfondisci: Acconciature per spose",
+      "title": "Acconciature per spose ed eventi a Verona",
+      "lead": "Un servizio dedicato a spose e occasioni speciali, con acconciature progettate in base all'abito, al viso e al tipo di evento.",
       "paragraphs": [
-        "Alessandra Di Marco è un salone per donna e uomo a Verona. Propone tagli, colorazioni, colpi di sole, trattamenti tecnici e acconciature per spose ed eventi, sempre con una consulenza personalizzata.",
-        "Ogni servizio parte da un'analisi attenta del capello e da un confronto diretto con la cliente, per arrivare a un risultato armonioso e su misura. Il lavoro si basa su aggiornamento costante e tecniche professionali, con una visione sartoriale dello stile: espressione individuale, non replica di modelli standard.",
-        "Anche per gli uomini ci sono servizi dedicati, pensati per esaltare le caratteristiche personali con tagli precisi e soluzioni su misura. Al centro c'è la persona, non le tendenze."
+        "Il salone offre acconciature per spose e occasioni speciali, pensate per accompagnare i momenti importanti con uno stile curato e armonioso. Ogni acconciatura viene progettata tenendo conto dell'abito, della morfologia del viso e del tipo di evento.",
+        "Sono previste prove dedicate e una definizione anticipata del risultato finale. Per chi cerca acconciature sposa a Verona, l'obiettivo è un risultato elegante e coerente con l'immagine desiderata.",
+        "Il servizio è indicato per matrimoni, cerimonie ed eventi formali, dove precisione, stabilità e coerenza estetica sono fondamentali. Ogni dettaglio viene studiato perché l'acconciatura mantenga forma e armonia per tutta la durata dell'evento."
       ],
       "images": []
     }
