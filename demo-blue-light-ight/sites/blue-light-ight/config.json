@@ -1,0 +1,236 @@
+{
+  "design": {
+    "seed": "Blue Light · Verona",
+    "sector": "fashion",
+    "palette": "dna:#2cd876",
+    "font": "hedvig",
+    "shape": "arco",
+    "imageTreatment": "caldo",
+    "motion": "quieta",
+    "nav": "live",
+    "hero": "colonne",
+    "intro": "dichiarazione",
+    "grid": "4-8",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Blue Light",
+    "tagline": "Centro estetico a Verona",
+    "category": "centro estetico",
+    "phone": "045 534111",
+    "whatsapp": null,
+    "email": "aspectstudio.it@gmail.com",
+    "address": "Via Montorio, 29, 37131 Verona VR",
+    "mapsQuery": "Blue Light, Via Montorio, 29, 37131 Verona VR",
+    "hours": {
+      "lun": [
+        "08:00-20:00"
+      ],
+      "mar": [
+        "08:00-20:00"
+      ],
+      "mer": [
+        "08:00-20:00"
+      ],
+      "gio": [
+        "08:00-20:00"
+      ],
+      "ven": [
+        "08:00-20:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.7,
+    "reviewCount": 148,
+    "reviewSource": "Google",
+    "vat": "02779350236"
+  },
+  "copy": {
+    "heroTitle": "Luce di cura",
+    "heroSub": "Trattamenti per viso, corpo, mani e piedi in via Montorio, a Verona. Un momento per sé, tra relax e attenzione ai dettagli.",
+    "introTitle": "Un tempo tutto per te",
+    "introText": "Blue Light è un istituto di bellezza e centro estetico a Verona, in via Montorio 29. Accoglie donne e uomini in cerca di momenti di relax e benessere.\n\nViso, corpo, mani e piedi: un catalogo di trattamenti da scegliere secondo ciò di cui hai bisogno, per ritrovare equilibrio tra mente e corpo.",
+    "servicesTitle": "I trattamenti",
+    "services": [
+      {
+        "title": "Trattamenti viso",
+        "text": "Trattamenti viso e di bellezza mirati, anche con azione anti età."
+      },
+      {
+        "title": "Trattamenti corpo",
+        "text": "Massaggi estetici rassodanti, tonificanti, rilassanti, dimagranti e anticellulite."
+      },
+      {
+        "title": "Manicure e pedicure",
+        "text": "Cura di mani e piedi, con ricostruzione in gel o semipermanente per unghie sempre in ordine."
+      },
+      {
+        "title": "Massaggi",
+        "text": "Massaggi personalizzabili della durata di 30 minuti o di un'ora."
+      },
+      {
+        "title": "Radiofrequenza",
+        "text": "Macchinario a radiofrequenza utilizzato per i trattamenti di viso e corpo."
+      },
+      {
+        "title": "Solarium",
+        "text": "Solarium viso, docce solari e lettino."
+      }
+    ],
+    "ctaTitle": "Prenota il tuo momento di benessere"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.7,
+      "alt": "Asciugamani bianchi, sassi levigati e petali in una ciotola d'acqua, in toni azzurri e calmi",
+      "origine": "generata",
+      "focus": "78% 72%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-11T10:36:35.276Z",
+    "seed": "Blue Light · Verona",
+    "family": "estetica",
+    "concept": {
+      "id": "rituale",
+      "frase": "Il rituale in passaggi: ogni sezione è un gesto numerato, lento, con molto respiro tra un passo e l'altro.",
+      "extra": []
+    },
+    "archetype": "colonne",
+    "palette": {
+      "paper": "#eff6f3",
+      "ink": "#14331d",
+      "accent": "#2cd876",
+      "surprise": "#c8679f",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "hedvig",
+      "display": "Hedvig Letters Serif",
+      "body": "Golos Text",
+      "heroRatio": 11,
+      "titleLh": 0.89,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "caldo",
+      "mask": "arco",
+      "ratio": "3/4"
+    },
+    "nav": "live",
+    "heads": "margine",
+    "button": "parentesi",
+    "badge": "punto",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "onda",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "gallery",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "numero",
+      "cta": "banda",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "gallery": "denso",
+        "services": "respiro",
+        "trust": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "hedvig",
+      "shape": "arco",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "colonne",
+      "intro": "dichiarazione",
+      "grid": "4-8",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#2cd876",
+      "font": "hedvig",
+      "shape": "arco",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "colonne",
+      "intro": "dichiarazione",
+      "grid": "4-8",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "colonne|hedvig|150",
+    "attempt": 0,
+    "minDistance": 8
+  },
+  "pages": [
+    {
+      "id": "i-nostri-trattamenti",
+      "section": "services",
+      "label": "Approfondisci: Trattamenti per viso corpo",
+      "title": "Trattamenti per viso, corpo, mani e piedi",
+      "lead": "Da Blue Light di B. Venezia trovi trattamenti per viso, corpo, mani e piedi, pensati per darti comfort, relax e benessere.",
+      "paragraphs": [
+        "Da Blue Light di B. Venezia puoi dedicare a te stessa momenti di comfort e relax, per recuperare il tuo benessere personale e ritrovare l'equilibrio naturale di mente e corpo. Sono obiettivi che riteniamo importanti per ciascuno.",
+        "Per raggiungerli proponiamo un catalogo ampio di trattamenti per viso, corpo, mani e piedi, tra cui puoi scegliere quelli di cui hai più bisogno: solarium viso, docce solari, lettino, manicure e pedicure.",
+        "Trovi inoltre trattamenti viso e corpo, trattamenti di bellezza mirati e trattamenti anti età, oltre a trattamenti e massaggi estetici dimagranti, anticellulite, rassodanti, rilassanti e tonificanti. Per informazioni e per prendere un appuntamento, puoi contattarci per telefono."
+      ],
+      "images": []
+    },
+    {
+      "id": "i-nostri-trattamenti-2",
+      "section": "services",
+      "label": "Approfondisci: Trattamenti per mani e piedi",
+      "title": "Trattamenti per mani e piedi da Blue Light",
+      "lead": "Al salone di bellezza Blue Light di B. Venezia, a Verona, trovi trattamenti mirati per avere mani e piedi curati, in ordine ed eleganti giorno dopo giorno.",
+      "paragraphs": [
+        "Per non dover più pensare alle unghie e allo smalto che si scheggia al minimo graffio, puoi scegliere i trattamenti completi per mani e piedi, con ricostruzione in gel o in semipermanente.",
+        "Se cerchi un momento di puro relax, puoi richiedere i massaggi personalizzabili, della durata di 1 ora o di 30 minuti. Nel centro è presente anche un macchinario a radiofrequenza, usato per i trattamenti viso e corpo.",
+        "Ti aspettiamo a Verona: siamo aperti dal lunedì al venerdì, con orario continuato dalle 08:00 alle 20:00."
+      ],
+      "images": []
+    }
+  ]
+}
