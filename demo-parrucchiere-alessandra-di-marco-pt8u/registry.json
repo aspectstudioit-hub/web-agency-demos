@@ -80,6 +80,22 @@
         "services": "colonne",
         "gallery": "copertina"
       }
+    },
+    {
+      "slug": "blue-light-ight",
+      "fingerprint": {
+        "palette": "dna:#2cd876",
+        "font": "hedvig",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "live",
+        "hero": "colonne",
+        "intro": "dichiarazione",
+        "grid": "4-8",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
     }
   ]
 }
