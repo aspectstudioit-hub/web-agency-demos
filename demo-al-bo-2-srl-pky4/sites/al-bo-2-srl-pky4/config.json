@@ -1,0 +1,177 @@
+{
+  "design": {
+    "seed": "Al.Bo 2 Srl · Verona",
+    "sector": "operai",
+    "palette": "dna:#70abdd",
+    "font": "bricolage",
+    "shape": "pillola",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "angoli",
+    "hero": "diviso",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Al.Bo 2 Srl",
+    "tagline": "Idraulico a Verona, impianti di riscaldamento",
+    "category": "idraulico",
+    "phone": "045 855 0775",
+    "whatsapp": null,
+    "email": "info@albo2.it",
+    "address": "Str. delle Trincee, 15a, 37135 Verona VR",
+    "mapsQuery": "Al.Bo 2 Srl, Str. delle Trincee, 15a, 37135 Verona VR",
+    "hours": null,
+    "rating": 4,
+    "reviewCount": 52,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Manutenzione e assistenza del riscaldamento a Verona",
+    "heroSub": "Manutenzione, assistenza e riparazione di impianti di riscaldamento civili e industriali. Chiama Al.Bo 2 per un guasto o per la manutenzione.",
+    "introTitle": "Riscaldamento civile e industriale a Verona",
+    "introText": "Al.Bo 2 si occupa di manutenzione e assistenza su impianti di riscaldamento civili e industriali, da oltre 30 anni. La sede è in Strada delle Trincee, 15a, a Verona.\n\nRiparamo caldaie di diversi marchi, tra cui Baltur, ICI, Savio, Biasi, Sime, Ecoflam, Rinnai e Hermann. Se l'impianto dà problemi, contattaci.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Manutenzione impianti",
+        "text": "Manutenzione degli impianti di riscaldamento civili e industriali, per tenerli in funzione."
+      },
+      {
+        "title": "Assistenza impianti",
+        "text": "Assistenza sugli impianti di riscaldamento quando qualcosa non funziona come dovrebbe."
+      },
+      {
+        "title": "Riparazione caldaie",
+        "text": "Riparazione di caldaie Baltur, ICI, Savio, Biasi, Sime, Ecoflam, Rinnai e Hermann."
+      }
+    ],
+    "ctaTitle": "Problemi con la caldaia o il riscaldamento? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.2,
+      "alt": "Valvola in ottone con testina termostatica bianca e tubo di rame su una superficie di ardesia scura",
+      "origine": "generata",
+      "focus": "68% 55%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-11T13:15:58.497Z",
+    "seed": "Al.Bo 2 Srl · Verona",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#16191a",
+      "ink": "#eaf0f3",
+      "accent": "#70abdd",
+      "surprise": "#68bbaa",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "bricolage",
+      "display": "Bricolage Grotesque",
+      "body": "Instrument Sans",
+      "heroRatio": 10,
+      "titleLh": 0.9,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "nessuna",
+      "ratio": "1/1"
+    },
+    "nav": "angoli",
+    "heads": "filetto",
+    "button": "contorno",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "trust",
+      "services",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "trust": "normale",
+        "services": "respiro",
+        "gallery": "denso",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "bricolage",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#70abdd",
+      "font": "bricolage",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "diviso|bricolage|210",
+    "attempt": 0,
+    "minDistance": 7
+  }
+}

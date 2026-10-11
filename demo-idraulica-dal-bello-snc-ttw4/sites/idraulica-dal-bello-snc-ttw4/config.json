@@ -1,0 +1,222 @@
+{
+  "design": {
+    "seed": "Idraulica Dal Bello snc · Castel d'Azzano",
+    "sector": "operai",
+    "palette": "dna:#e6961d",
+    "font": "anton",
+    "shape": "pillola",
+    "imageTreatment": "bn",
+    "motion": "scattante",
+    "nav": "indice",
+    "hero": "tipografia",
+    "intro": "dichiarazione",
+    "grid": "3-9",
+    "services": "indice",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Idraulica Dal Bello snc",
+    "tagline": "Idraulico a Castel d'Azzano",
+    "category": "idraulico",
+    "phone": "045 258 7807",
+    "whatsapp": null,
+    "email": "info@idraulicadalbello.com",
+    "address": "Via G. Verdi, 18G, 37060 Castel d'Azzano VR",
+    "mapsQuery": "Idraulica Dal Bello snc, Via G. Verdi, 18G, 37060 Castel d'Azzano VR",
+    "hours": {
+      "lun": [
+        "08:00-17:00"
+      ],
+      "mar": [
+        "08:00-17:00"
+      ],
+      "mer": [
+        "08:00-17:00"
+      ],
+      "gio": [
+        "08:00-17:00"
+      ],
+      "ven": [
+        "08:00-17:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": null,
+    "reviewCount": null,
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Impianti idraulici a Castel d'Azzano",
+    "heroSub": "Idraulica Dal Bello realizza e segue impianti idraulici, termici e antincendio. Chiamaci o scrivici dal lunedì al venerdì, dalle 8:00 alle 17:00.",
+    "introTitle": "Un'impresa idraulica nata negli anni Sessanta",
+    "introText": "Idraulica Dal Bello nasce dall'esperienza di Federico Dal Bello, che all'inizio degli anni Sessanta avvia la propria attività imprenditoriale. Oggi prosegue quel lavoro dalla sede di Castel d'Azzano, con circa quarant'anni di esperienza nell'impiantistica.\n\nNel tempo ha realizzato impianti in ambito residenziale e industriale: pompa di calore con fotovoltaico, solare ibrido, tubazioni antincendio. Per parlarci, chiama o scrivi dal lunedì al venerdì, dalle 8:00 alle 17:00.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Impianti a pompa di calore",
+        "text": "Riscaldamento invernale e climatizzazione estiva con pompa di calore, anche abbinata a pannelli fotovoltaici."
+      },
+      {
+        "title": "Solare termico e ibrido",
+        "text": "Impianti solari ibridi, con produzione elettrica e termica."
+      },
+      {
+        "title": "Impianti antincendio",
+        "text": "Posa di tubazioni in ferro con raccordi scanalati per impianti antincendio in ambito industriale."
+      },
+      {
+        "title": "Manutenzione degli impianti",
+        "text": "Assistenza e manutenzione dopo la realizzazione dell'impianto, per clienti privati."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un impianto da realizzare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.51,
+      "alt": "Tubazioni rosse fissate con staffe a una parete in cemento all'interno di un capannone luminoso",
+      "origine": "generata",
+      "focus": "70% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1600,
+      "luma": 0.42,
+      "alt": "Centrale termica con caldaia murale, bollitore blu e collettori con tubazioni isolate"
+    },
+    {
+      "slot": "cta",
+      "file": "foto-4.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1609,
+      "luma": 0.47,
+      "alt": "Bagno con lavabo da appoggio in ceramica, rubinetto alto e specchio retroilluminato"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-11T13:15:26.054Z",
+    "seed": "Idraulica Dal Bello snc · Castel d'Azzano",
+    "family": "acqua",
+    "concept": {
+      "id": "percorso",
+      "frase": "Il percorso dell'acqua: una linea continua scorre da una sezione all'altra come un impianto a vista, con raccordi nei punti di contatto.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#f2ece8",
+      "ink": "#2c2117",
+      "accent": "#e6961d",
+      "surprise": "#579bbf",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "anton",
+      "display": "Anton",
+      "body": "Public Sans",
+      "heroRatio": 10,
+      "titleLh": 0.84,
+      "track": "0em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "indice",
+    "heads": "filetto",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "onda",
+    "details": [
+      "motivo",
+      "orologio"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "indice",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "normale",
+        "trust": "respiro",
+        "intro": "respiro",
+        "gallery": "denso",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "anton",
+      "shape": "pillola",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "indice",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#e6961d",
+      "font": "anton",
+      "shape": "pillola",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "indice",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "key": "tipografia|anton|30",
+    "attempt": 0,
+    "minDistance": 8
+  }
+}

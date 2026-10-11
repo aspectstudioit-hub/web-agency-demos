@@ -1,0 +1,171 @@
+{
+  "design": {
+    "seed": "Idraulica Fiorini S.r.l. · Zai Bottura",
+    "sector": "operai",
+    "palette": "dna:#64d412",
+    "font": "archivo",
+    "shape": "filetto",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "angoli",
+    "hero": "indice",
+    "intro": "citazione",
+    "grid": "3-9",
+    "services": "colonne",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Idraulica Fiorini S.r.l.",
+    "tagline": "Idraulico a Zevio, Verona",
+    "category": "idraulico",
+    "phone": "045 873 1100",
+    "whatsapp": null,
+    "email": "info@idraulicafiorini.com",
+    "address": "Via Giosuè Carducci, 2, 37059 Campagnola di Zevio VR",
+    "mapsQuery": "Idraulica Fiorini, Via Giosuè Carducci, 2, 37059 Campagnola di Zevio VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "01809560236"
+  },
+  "copy": {
+    "heroTitle": "Impianti idraulici civili e industriali",
+    "heroSub": "Idraulica Fiorini lavora a Campagnola di Zevio, in provincia di Verona. Se hai un guasto o un impianto da realizzare, chiamaci.",
+    "introTitle": "Un idraulico a Campagnola di Zevio",
+    "introText": "Idraulica Fiorini S.r.l. realizza impianti civili e industriali. La sede è in Via Giosuè Carducci 2, a Campagnola di Zevio, in provincia di Verona.\n\nSe hai un problema all'impianto o un lavoro da pianificare, scrivici o telefonaci. Ti diciamo come possiamo aiutarti.",
+    "servicesTitle": "Di cosa ci occupiamo",
+    "services": [
+      {
+        "title": "Impianti civili",
+        "text": "Impianti idraulici in ambito civile."
+      },
+      {
+        "title": "Impianti industriali",
+        "text": "Impianti idraulici in ambito industriale."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un lavoro da fare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.6,
+      "alt": "Scaffale metallico con tubi in plastica bianchi e grigi e raccordi in un laboratorio luminoso",
+      "origine": "generata",
+      "focus": "65% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-11T13:16:19.052Z",
+    "seed": "Idraulica Fiorini S.r.l. · Zai Bottura",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#eceef6",
+      "ink": "#111321",
+      "accent": "#64d412",
+      "surprise": "#8463c7",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "archivo",
+      "display": "Archivo",
+      "body": "Archivo",
+      "heroRatio": 9,
+      "titleLh": 0.89,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "nessuna",
+      "ratio": "1/1"
+    },
+    "nav": "angoli",
+    "heads": "indice",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "colonne",
+      "gallery": "striscia",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "normale",
+        "intro": "respiro",
+        "gallery": "denso",
+        "trust": "respiro",
+        "contacts": "normale",
+        "cta": "denso"
+      }
+    },
+    "dims": {
+      "font": "archivo",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "indice",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#64d412",
+      "font": "archivo",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "indice",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "key": "indice|archivo|90",
+    "attempt": 1,
+    "minDistance": 7
+  }
+}
