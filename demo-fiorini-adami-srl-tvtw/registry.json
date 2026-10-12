@@ -304,6 +304,38 @@
         "services": "indice",
         "gallery": "ritmo"
       }
+    },
+    {
+      "slug": "officine-perusi-s-r-l-zhok",
+      "fingerprint": {
+        "palette": "dna:#d9592f",
+        "font": "schibsted",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "elastica",
+        "nav": "sipario",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "4-8",
+        "services": "scorrevole",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "impianti-elettrici-avesani-dario-cqvk",
+      "fingerprint": {
+        "palette": "dna:#e45d46",
+        "font": "anton",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
     }
   ]
 }

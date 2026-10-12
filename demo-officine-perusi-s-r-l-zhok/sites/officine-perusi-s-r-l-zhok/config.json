@@ -63,7 +63,22 @@
     ],
     "ctaTitle": "Hai un disegno da realizzare? Chiama o scrivici"
   },
-  "images": [],
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.47,
+      "alt": "Lamiere in acciaio tagliate e calandrate in un'officina di carpenteria metallica",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
   "dna": {
     "v": 1,
     "createdAt": "2026-10-12T20:55:49.556Z",
