@@ -1,0 +1,341 @@
+{
+  "threshold": 6,
+  "sites": [
+    {
+      "slug": "esempio-idraulico",
+      "fingerprint": {
+        "palette": "cantiere",
+        "font": "barlow",
+        "shape": "tecnico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "filetto",
+        "hero": "split",
+        "intro": "margine",
+        "grid": "4-8",
+        "services": "righe",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "esempio-ristorante",
+      "fingerprint": {
+        "palette": "notte-ambra",
+        "font": "fraunces",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "trasparente",
+        "hero": "arco",
+        "intro": "sovrapposta",
+        "grid": "7-5",
+        "services": "menu",
+        "gallery": "colonne"
+      }
+    },
+    {
+      "slug": "esempio-parrucchiere",
+      "fingerprint": {
+        "palette": "cipria",
+        "font": "instrument",
+        "shape": "organico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "pillola",
+        "hero": "wordmark",
+        "intro": "sfalsata",
+        "grid": "5-7",
+        "services": "schede",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "idraulico-de-bortoli-massimo-dyj8",
+      "fingerprint": {
+        "palette": "dna:#119fc7",
+        "font": "besley",
+        "shape": "morbido",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "indice",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "parrucchiere-alessandra-di-marco-pt8u",
+      "fingerprint": {
+        "palette": "dna:#c4996e",
+        "font": "spectral",
+        "shape": "organico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "indice",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "idraulica-dal-bello-snc-ttw4",
+      "fingerprint": {
+        "palette": "dna:#e6961d",
+        "font": "anton",
+        "shape": "pillola",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "indice",
+        "hero": "tipografia",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "indice",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "al-bo-2-srl-pky4",
+      "fingerprint": {
+        "palette": "dna:#70abdd",
+        "font": "bricolage",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "diviso",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "idraulica-fiorini-s-r-l-mc8q",
+      "fingerprint": {
+        "palette": "dna:#64d412",
+        "font": "archivo",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "indice",
+        "intro": "citazione",
+        "grid": "3-9",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "r-b-termoidraulica-ga1m",
+      "fingerprint": {
+        "palette": "dna:#2863c7",
+        "font": "hanken",
+        "shape": "pillola",
+        "imageTreatment": "naturale",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "colonne",
+        "intro": "dichiarazione",
+        "grid": "4-8",
+        "services": "elenco",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "maurizio-acconciature-estetica-4ti0",
+      "fingerprint": {
+        "palette": "dna:#e5558c",
+        "font": "gloock",
+        "shape": "organico",
+        "imageTreatment": "caldo",
+        "motion": "elastica",
+        "nav": "sipario",
+        "hero": "collage",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "scorrevole",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "new-capelli-di-sabrina-manganotti-e-stef-jcwu",
+      "fingerprint": {
+        "palette": "dna:#db8765",
+        "font": "hedvig",
+        "shape": "pillola",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "citazione",
+        "grid": "4-8",
+        "services": "colonne",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "hair-lab-wafq",
+      "fingerprint": {
+        "palette": "dna:#cc642c",
+        "font": "instrument",
+        "shape": "filetto",
+        "imageTreatment": "bn",
+        "motion": "elastica",
+        "nav": "indice",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "colonne",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "head-lab-hairdresser-ddz0",
+      "fingerprint": {
+        "palette": "dna:#af2b4e",
+        "font": "syne",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "manifesto",
+        "intro": "dichiarazione",
+        "grid": "4-8",
+        "services": "indice",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "avvocato-zeno-domaschio-xtzy",
+      "fingerprint": {
+        "palette": "dna:#22cf99",
+        "font": "onest",
+        "shape": "tecnico",
+        "imageTreatment": "bn",
+        "motion": "elastica",
+        "nav": "angoli",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "3-9",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "studio-legale-avanzi-ql0y",
+      "fingerprint": {
+        "palette": "dna:#65aae5",
+        "font": "fraunces",
+        "shape": "tecnico",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "sipario",
+        "hero": "colonne",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "elenco",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "valentina-beauty-studio-u2is",
+      "fingerprint": {
+        "palette": "dna:#57d59d",
+        "font": "bodoni",
+        "shape": "arco",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "angoli",
+        "hero": "collage",
+        "intro": "citazione",
+        "grid": "4-8",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "estetista-il-bistro-del-benessere-h8og",
+      "fingerprint": {
+        "palette": "dna:#dea455",
+        "font": "cormorant",
+        "shape": "arco",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "indice",
+        "hero": "tipografia",
+        "intro": "citazione",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "centro-estetico-gentleman-nt2c",
+      "fingerprint": {
+        "palette": "dna:#d59e39",
+        "font": "italiana",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "fiorini-adami-srl-tvtw",
+      "fingerprint": {
+        "palette": "dna:#3493c7",
+        "font": "funnel",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "diviso",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "indice",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "officine-perusi-s-r-l-zhok",
+      "fingerprint": {
+        "palette": "dna:#d9592f",
+        "font": "schibsted",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "elastica",
+        "nav": "sipario",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "4-8",
+        "services": "scorrevole",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "impianti-elettrici-avesani-dario-cqvk",
+      "fingerprint": {
+        "palette": "dna:#e45d46",
+        "font": "anton",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "design": {
+    "seed": "Officine Perusi S.R.L. · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#d9592f",
+    "font": "schibsted",
+    "shape": "pillola",
+    "imageTreatment": "duotone",
+    "motion": "elastica",
+    "nav": "sipario",
+    "hero": "indice",
+    "intro": "appunto",
+    "grid": "4-8",
+    "services": "scorrevole",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Officine Perusi S.R.L.",
+    "tagline": "Carpenteria e lamiere a Bussolengo",
+    "category": "meccanico",
+    "phone": "045 670 1949",
+    "whatsapp": null,
+    "email": "info@officineperusi.it",
+    "address": "Via dell' Industria, 8, 37012 Bussolengo VR",
+    "mapsQuery": "Officine Perusi S.R.L., Via dell' Industria, 8, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": 4.5,
+    "reviewCount": 32,
+    "reviewSource": "Google",
+    "vat": "02105790238"
+  },
+  "copy": {
+    "heroTitle": "Lamiere tagliate, piegate e saldate a Bussolengo dal 1919",
+    "heroSub": "Taglio e lavorazione di lamiere, carpenteria a disegno. Per un lavoro o un preventivo, telefona o scrivi all'officina di Bussolengo.",
+    "introTitle": "Un'officina nata nel 1919",
+    "introText": "Officine Perusi viene fondata nel 1919 da Emilio Perusi e produce reti metalliche e letti in ferro. Col tempo passa ai mobili in metallo e ai componenti per auto, fino alla carpenteria di oggi.\n\nOggi l'azienda, arrivata alla terza generazione, è centro di trasformazione con qualifica per la marcatura CE nelle strutture metalliche UNI EN 1090. Hai un disegno da realizzare? Telefona o scrivi: c'è un ufficio dedicato ai preventivi.",
+    "servicesTitle": "Lavorazioni",
+    "services": [
+      {
+        "title": "Taglio al plasma",
+        "text": "Taglio di lamiere e profili metallici con tecnologia al plasma, secondo il disegno del cliente."
+      },
+      {
+        "title": "Ossitaglio",
+        "text": "Taglio con ossitaglio per lamiere e pezzi in acciaio da lavorare su disegno."
+      },
+      {
+        "title": "Piegatura",
+        "text": "Piegatura di lamiere per ottenere i particolari previsti dal progetto."
+      },
+      {
+        "title": "Calandratura",
+        "text": "Curvatura di lamiere e profili per realizzare elementi arrotondati o cilindrici."
+      },
+      {
+        "title": "Saldatura",
+        "text": "Saldatura di componenti e strutture metalliche, nell'ambito della carpenteria a disegno."
+      },
+      {
+        "title": "Trattamenti",
+        "text": "Trattamenti sui manufatti metallici per completare il lavoro in officina."
+      }
+    ],
+    "ctaTitle": "Hai un disegno da realizzare? Chiama o scrivici"
+  },
+  "images": [],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-12T20:55:49.556Z",
+    "seed": "Officine Perusi S.R.L. · Bussolengo",
+    "family": "motori",
+    "concept": {
+      "id": "banco",
+      "frase": "Il banco di lavoro: attrezzi in fila, ogni servizio è un pezzo etichettato su una tavola a griglia.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#f4eeeb",
+      "ink": "#2d1e1b",
+      "accent": "#d9592f",
+      "surprise": "#5bc8c7",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "schibsted",
+      "display": "Schibsted Grotesk",
+      "body": "Schibsted Grotesk",
+      "heroRatio": 10,
+      "titleLh": 0.9,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "inciso",
+      "ratio": "4/5"
+    },
+    "nav": "sipario",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "trama",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "scorrevole",
+      "gallery": "striscia",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "trust": "denso",
+        "intro": "respiro",
+        "gallery": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "schibsted",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "elastica",
+      "nav": "sipario",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "scorrevole",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#d9592f",
+      "font": "schibsted",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "elastica",
+      "nav": "sipario",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "scorrevole",
+      "gallery": "striscia"
+    },
+    "key": "indice|schibsted|15",
+    "attempt": 10,
+    "minDistance": 7
+  }
+}

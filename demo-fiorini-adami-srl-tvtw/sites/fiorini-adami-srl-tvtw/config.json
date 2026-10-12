@@ -1,0 +1,261 @@
+{
+  "design": {
+    "seed": "Fiorini & Adami Srl · Zai Bottura",
+    "sector": "operai",
+    "palette": "dna:#3493c7",
+    "font": "funnel",
+    "shape": "filetto",
+    "imageTreatment": "contrasto",
+    "motion": "elastica",
+    "nav": "live",
+    "hero": "diviso",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "indice",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Fiorini & Adami Srl",
+    "tagline": "Elettricista a Santa Maria di Zevio",
+    "category": "elettricista",
+    "phone": "045 873 1573",
+    "whatsapp": null,
+    "email": "info@fioriniadami.it",
+    "address": "Viale Archimede, 17, 37059 Zai Bottura VR",
+    "mapsQuery": "Fiorini & Adami Srl, Viale Archimede, 17, 37059 Zai Bottura VR",
+    "hours": {
+      "lun": [
+        "08:30-12:30",
+        "14:00-18:00"
+      ],
+      "mar": [
+        "08:30-12:30",
+        "14:00-18:00"
+      ],
+      "mer": [
+        "08:30-12:30",
+        "14:00-18:00"
+      ],
+      "gio": [
+        "08:30-12:30",
+        "14:00-18:00"
+      ],
+      "ven": [
+        "08:30-12:30",
+        "14:00-18:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": null,
+    "reviewCount": null,
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Impianti elettrici industriali e civili",
+    "heroSub": "Cabine MT/BT, quadri elettrici, illuminazione e sicurezza. Dalla sede di Santa Maria di Zevio raggiungiamo tutta la provincia di Verona.",
+    "introTitle": "Impianti elettrici per aziende e abitazioni",
+    "introText": "Fiorini & Adami nasce dall'esperienza personale dei due soci e opera da oltre tre decenni nell'impiantistica elettrica industriale e civile. La sede è nella zona industriale di Santa Maria di Zevio, vicina alla tangenziale sud e alla Transpolesana.\n\nIn un fabbricato di proprietà trovano posto ufficio tecnico, magazzino con oltre 5000 articoli per ricambi e manutenzioni urgenti e officina per il cablaggio dei quadri. Se hai un guasto o un impianto da realizzare, chiama: l'ufficio è aperto dal lunedì al venerdì.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Cabine MT/BT",
+        "text": "Realizzazione e gestione di cabine di trasformazione in media e bassa tensione."
+      },
+      {
+        "title": "Distribuzione elettrica",
+        "text": "Impianti di distribuzione elettrica per ambienti industriali e civili."
+      },
+      {
+        "title": "Illuminazione",
+        "text": "Impianti di illuminazione per aziende, capannoni e abitazioni."
+      },
+      {
+        "title": "Rivelazione incendio e antintrusione",
+        "text": "Impianti di rivelazione incendio e impianti antintrusione."
+      },
+      {
+        "title": "Quadri elettrici",
+        "text": "Power center, distribuzione e automazione, cablati nella nostra officina elettrica."
+      },
+      {
+        "title": "Impianti fotovoltaici",
+        "text": "Realizzazione di impianti fotovoltaici."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un impianto da fare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.44,
+      "alt": "Foto di Fiorini & Adami Srl"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.32,
+      "alt": "Foto di Fiorini & Adami Srl"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.48,
+      "alt": "Foto di Fiorini & Adami Srl"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-12T20:54:27.182Z",
+    "seed": "Fiorini & Adami Srl · Zai Bottura",
+    "family": "elettricita",
+    "concept": {
+      "id": "circuito",
+      "frase": "Il circuito: un filo sottile collega titoli e pulsanti come una traccia stampata; quando passi sopra, la corrente si accende in colore.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#eef1ea",
+      "ink": "#203317",
+      "accent": "#3493c7",
+      "surprise": "#bea265",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "funnel",
+      "display": "Funnel Display",
+      "body": "Funnel Sans",
+      "heroRatio": 11,
+      "titleLh": 0.84,
+      "track": "-0.045em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "nessuna",
+      "ratio": "3/4"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "filo",
+    "details": [
+      "motivo",
+      "orologio"
+    ],
+    "order": [
+      "intro",
+      "trust",
+      "services",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "indice",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "trust": "normale",
+        "services": "respiro",
+        "gallery": "normale",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "funnel",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "live",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#3493c7",
+      "font": "funnel",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "live",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "key": "diviso|funnel|195",
+    "attempt": 4,
+    "minDistance": 7
+  },
+  "pages": [
+    {
+      "id": "servizi",
+      "section": "intro",
+      "label": "Approfondisci: Servizi di Fiorini & Adami",
+      "title": "Servizi di Fiorini & Adami: dalla consulenza alla manutenzione",
+      "lead": "Fiorini & Adami segue il cliente dalla consulenza iniziale alla manutenzione degli impianti elettrici, non solo con l'installazione.",
+      "paragraphs": [
+        "L'azienda è cresciuta grazie alla volontà dei due soci e oggi ha una struttura completa. Non si limita a installare impianti elettrici: offre un servizio che parte dalla consulenza pre-progettuale, per capire le reali necessità del cliente e illustrargli le soluzioni tecniche applicabili.",
+        "Seguono la progettazione di impianti elettrici in bassa e media tensione e di impianti speciali, come trasmissione dati, ricezione radiotelevisiva, diffusione sonora e rivelazione incendi. L'azienda si occupa poi dell'installazione di impianti elettrici e speciali e di impianti per la produzione di energia elettrica, come gruppi elettrogeni e impianti fotovoltaici.",
+        "Il servizio comprende anche la consulenza sulle pratiche burocratiche per l'avviamento degli impianti e sulla loro conduzione, oltre alle manutenzioni ordinarie e straordinarie. L'elenco non è esaustivo: per ogni cliente o impianto possono essere studiate soluzioni progettuali, impiantistiche e procedurali su misura."
+      ],
+      "images": []
+    },
+    {
+      "id": "chi-siamo",
+      "section": "services",
+      "label": "Approfondisci: Fiorini & Adami Srl impianti",
+      "title": "Fiorini & Adami Srl, impianti elettrici a Zevio",
+      "lead": "Fiorini & Adami Srl è una società di impiantistica elettrica industriale e civile con sede a Santa Maria di Zevio, nata dall'esperienza dei due soci.",
+      "paragraphs": [
+        "La società nasce dall'esperienza personale dei due soci e conta oltre tre decenni di attività nell'impiantistica elettrica industriale e civile.",
+        "La sede si trova nella nuova zona industriale di Santa Maria di Zevio, in località Campagnola. Il vicino svincolo della tangenziale sud e la Transpolesana la collocano in una posizione ideale per raggiungere tutta la provincia di Verona.",
+        "Il fabbricato di proprietà, di 1600 mq, ospita l'ufficio amministrativo per segreteria e contabilità, composto da un ragioniere e un geometra, e l'ufficio tecnico per progettazione e conduzione dei cantieri, con un perito industriale e un tecnico specializzato. Ci sono poi il magazzino, con oltre 5000 articoli per ricambi, manutenzioni urgenti e normale conduzione dei cantieri, e l'officina elettrica, dove due operai specializzati cablano i quadri elettrici e curano la manutenzione delle apparecchiature."
+      ],
+      "images": []
+    }
+  ]
+}

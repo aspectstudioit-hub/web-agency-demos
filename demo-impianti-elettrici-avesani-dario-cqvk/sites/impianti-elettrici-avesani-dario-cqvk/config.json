@@ -1,0 +1,147 @@
+{
+  "design": {
+    "seed": "Impianti Elettrici Avesani Dario · Verona",
+    "sector": "operai",
+    "palette": "dna:#e45d46",
+    "font": "anton",
+    "shape": "filetto",
+    "imageTreatment": "contrasto",
+    "motion": "elastica",
+    "nav": "live",
+    "hero": "copertina",
+    "intro": "dichiarazione",
+    "grid": "3-9",
+    "services": "elenco",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Impianti Elettrici Avesani Dario",
+    "tagline": "Elettricista a Lugagnano di Sona",
+    "category": "elettricista",
+    "phone": "045 858 0031",
+    "whatsapp": null,
+    "email": "avesani.dario@tiscali.it",
+    "address": "Via Liguria 47 Lugagnano di Sona, 37066 Verona VR",
+    "mapsQuery": "Impianti Elettrici Avesani Dario, Via Liguria 47 Lugagnano di Sona, 37066 Verona VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "02601780238"
+  },
+  "copy": {
+    "heroTitle": "Elettricista a Lugagnano di Sona, Verona",
+    "heroSub": "Impianti elettrici per chi vive e lavora a Sona e dintorni. Se hai un problema all'impianto, chiama: ti risponde chi fa il lavoro.",
+    "introTitle": "Impianti elettrici ad Avesani Dario",
+    "introText": "Impianti Elettrici Avesani Dario è un'attività di elettricisti con sede in Via Liguria 47, a Lugagnano di Sona, in provincia di Verona. Si occupa di impianti elettrici in ambito industriale e civile, di automazioni elettriche e di fotovoltaico.\n\nSe l'impianto ha un guasto o devi realizzarne uno nuovo, il primo passo è semplice: chiama e spiega di cosa hai bisogno. Un contatto diretto con chi conosce il mestiere è il modo più rapido per capire come procedere.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Hai un problema all'impianto? Chiama ora"
+  },
+  "images": [],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-12T20:56:32.285Z",
+    "seed": "Impianti Elettrici Avesani Dario · Verona",
+    "family": "elettricita",
+    "concept": {
+      "id": "circuito",
+      "frase": "Il circuito: un filo sottile collega titoli e pulsanti come una traccia stampata; quando passi sopra, la corrente si accende in colore.",
+      "extra": []
+    },
+    "archetype": "copertina",
+    "palette": {
+      "paper": "#140e0d",
+      "ink": "#e9dfde",
+      "accent": "#e45d46",
+      "surprise": "#cd659c",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "anton",
+      "display": "Anton",
+      "body": "Public Sans",
+      "heroRatio": 8,
+      "titleLh": 0.84,
+      "track": "0em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "inciso",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "margine",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile"
+    },
+    "motif": "filo",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "elenco",
+      "gallery": "ritmo",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "normale",
+        "intro": "respiro",
+        "gallery": "denso",
+        "trust": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "anton",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#e45d46",
+      "font": "anton",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "key": "copertina|anton|15",
+    "attempt": 61,
+    "minDistance": 6
+  }
+}
