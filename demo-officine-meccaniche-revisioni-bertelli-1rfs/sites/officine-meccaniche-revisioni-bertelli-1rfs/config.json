@@ -1,0 +1,190 @@
+{
+  "design": {
+    "seed": "Officine Meccaniche Revisioni Bertelli · San Giovanni Lupatoto",
+    "sector": "operai",
+    "palette": "dna:#d8c765",
+    "font": "besley",
+    "shape": "morbido",
+    "imageTreatment": "bn",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "tipografia",
+    "intro": "citazione",
+    "grid": "4-8",
+    "services": "elenco",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Officine Meccaniche Revisioni Bertelli",
+    "tagline": "Centro revisioni a San Giovanni Lupatoto",
+    "category": "meccanico",
+    "phone": "045 877 8530",
+    "whatsapp": null,
+    "email": "offbertelli@libero.it",
+    "address": "Via Monte Comun, 59, 37057 San Giovanni Lupatoto VR",
+    "mapsQuery": "Officine Meccaniche Revisioni Bertelli, Via Monte Comun, 59, 37057 San Giovanni Lupatoto VR",
+    "hours": null,
+    "rating": 4.6,
+    "reviewCount": 141,
+    "reviewSource": "Google",
+    "vat": "00441970233"
+  },
+  "copy": {
+    "heroTitle": "Revisioni auto e autocarri",
+    "heroSub": "Autofficina e centro di revisione autorizzato a San Giovanni Lupatoto. Chiama per prenotare la revisione o il prossimo tagliando.",
+    "introTitle": "Officine Bertelli, in Via Monte Comun",
+    "introText": "Officine Meccaniche Revisioni Bertelli è un'autofficina di San Giovanni Lupatoto, centro di revisione autorizzato per autovetture e autocarri. Si occupa di manutenzione e controllo di veicoli multimarca.\n\nSe la revisione è in scadenza o il veicolo ha bisogno di un controllo, chiama l'officina e prenota. Trovi l'indirizzo e i contatti in fondo alla pagina.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Revisione veicoli",
+        "text": "Centro di revisione autorizzato per autovetture e autocarri a San Giovanni Lupatoto."
+      },
+      {
+        "title": "Manutenzione autovetture",
+        "text": "Manutenzione e controllo di autoveicoli multimarca."
+      },
+      {
+        "title": "Manutenzione autocarri",
+        "text": "Manutenzione e controllo di autocarri multimarca."
+      },
+      {
+        "title": "Ricarica aria condizionata",
+        "text": "Ricarica con gas R134A e R1234YF, adatta anche alle vetture di ultima generazione."
+      }
+    ],
+    "ctaTitle": "Chiama e prenota la revisione"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.2,
+      "alt": "Dischi freno, molle e componenti meccanici su un banco da officina",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:40:44.903Z",
+    "seed": "Officine Meccaniche Revisioni Bertelli · San Giovanni Lupatoto",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#13140e",
+      "ink": "#e8eae2",
+      "accent": "#d8c765",
+      "surprise": "#9080d4",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 10,
+      "titleLh": 0.85,
+      "track": "-0.03em",
+      "italicWord": true
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "tondo",
+        "label": "Guarda",
+        "tilt": 4,
+        "magnet": 8,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "elenco",
+      "gallery": "ritmo",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "denso",
+        "trust": "respiro",
+        "gallery": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "tipografia",
+      "intro": "citazione",
+      "grid": "4-8",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#d8c765",
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "tipografia",
+      "intro": "citazione",
+      "grid": "4-8",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "key": "tipografia|besley|45",
+    "attempt": 89,
+    "minDistance": 7
+  }
+}

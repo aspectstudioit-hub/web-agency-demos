@@ -1,0 +1,192 @@
+{
+  "design": {
+    "seed": "Tepor di Poletto Geom. Paolo & C s.n.c. · San Giovanni Lupatoto",
+    "sector": "operai",
+    "palette": "dna:#24c7cf",
+    "font": "anton",
+    "shape": "filetto",
+    "imageTreatment": "naturale",
+    "motion": "quieta",
+    "nav": "angoli",
+    "hero": "diviso",
+    "intro": "citazione",
+    "grid": "5-7",
+    "services": "scorrevole",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Tepor di Poletto Geom. Paolo & C s.n.c.",
+    "tagline": "Idraulico a San Giovanni Lupatoto",
+    "category": "idraulico",
+    "phone": "045 877 8536",
+    "whatsapp": null,
+    "email": "tepor.snc@gmail.com",
+    "address": "Via Monte Corno, 9, 37057 San Giovanni Lupatoto VR",
+    "mapsQuery": "Tepor di Poletto Geom. Paolo & C s.n.c., Via Monte Corno, 9, 37057 San Giovanni Lupatoto VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Caldaie e scaldabagni a San Giovanni Lupatoto",
+    "heroSub": "Vendita e installazione di caldaie, scaldabagni, pompe di calore e climatizzatori. Chiamaci se hai un guasto o vuoi sostituire un impianto.",
+    "introTitle": "Impianti termoidraulici a San Giovanni Lupatoto",
+    "introText": "Tepor è un'azienda di impianti termoidraulici in Via Monte Corno, a San Giovanni Lupatoto. Si occupa della vendita e dell'installazione di caldaie, scaldabagni, pompe di calore e climatizzatori.\n\nCi sono anche la gestione delle pratiche per le detrazioni fiscali e i centri assistenza autorizzati per il post vendita. Se hai un guasto o devi sostituire un impianto, chiamaci.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Caldaie a gas",
+        "text": "Vendita e installazione di caldaie murali standard e a condensazione, caldaie a basamento e moduli di potenza."
+      },
+      {
+        "title": "Scaldabagni",
+        "text": "Scaldabagni a gas a camera aperta e a camera stagna, anche per esterno, e scaldabagni a pompa di calore."
+      },
+      {
+        "title": "Pompe di calore e climatizzatori",
+        "text": "Installazione di pompe di calore, climatizzatori e sistemi ibridi ad alta efficienza."
+      },
+      {
+        "title": "Impianti e solare",
+        "text": "Impianti a pavimento, radiatori in ghisa, termoarredi e sistemi solari naturali e forzati."
+      },
+      {
+        "title": "Detrazioni fiscali",
+        "text": "Gestione delle pratiche per ottenere le detrazioni fiscali del 65%, con A.P.E. e dichiarazioni di conformità."
+      }
+    ],
+    "ctaTitle": "Hai un guasto? Chiamaci adesso"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.68,
+      "alt": "Tubi in rame e raccordi in ottone assemblati su un banco da lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:56:30.066Z",
+    "seed": "Tepor di Poletto Geom. Paolo & C s.n.c. · San Giovanni Lupatoto",
+    "family": "acqua",
+    "concept": {
+      "id": "percorso",
+      "frase": "Il percorso dell'acqua: una linea continua scorre da una sezione all'altra come un impianto a vista, con raccordi nei punti di contatto.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#e8f1ee",
+      "ink": "#1b2f2c",
+      "accent": "#24c7cf",
+      "surprise": "#d1514b",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "anton",
+      "display": "Anton",
+      "body": "Public Sans",
+      "heroRatio": 10,
+      "titleLh": 0.85,
+      "track": "0em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "naturale",
+      "mask": "inciso",
+      "ratio": "4/5"
+    },
+    "nav": "angoli",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Guarda",
+        "tilt": 4,
+        "magnet": 9,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "onda",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "trust",
+      "services",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "scorrevole",
+      "gallery": "copertina",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "trust": "normale",
+        "services": "respiro",
+        "gallery": "normale",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "anton",
+      "shape": "filetto",
+      "imageTreatment": "naturale",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#24c7cf",
+      "font": "anton",
+      "shape": "filetto",
+      "imageTreatment": "naturale",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "key": "diviso|anton|180",
+    "attempt": 11,
+    "minDistance": 6
+  }
+}

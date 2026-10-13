@@ -1,0 +1,263 @@
+{
+  "design": {
+    "seed": "G.r. Impianti San Giovanni Lupatoto · San Giovanni Lupatoto",
+    "sector": "operai",
+    "palette": "dna:#bba224",
+    "font": "onest",
+    "shape": "pillola",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "indice",
+    "intro": "appunto",
+    "grid": "7-5",
+    "services": "scorrevole",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "G.r. Impianti San Giovanni Lupatoto",
+    "tagline": "Idraulico a San Giovanni Lupatoto",
+    "category": "idraulico",
+    "phone": "045 875 2942",
+    "whatsapp": null,
+    "email": "amministrazione@gr-impianti.it",
+    "address": "Via Dott. F. Garofoli, 183, 37057 San Giovanni Lupatoto VR",
+    "mapsQuery": "G.r. Impianti San Giovanni Lupatoto, Via Dott. F. Garofoli, 183, 37057 San Giovanni Lupatoto VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "03818130233"
+  },
+  "copy": {
+    "heroTitle": "Un guasto all'impianto idraulico a San Giovanni Lupatoto? Chiamaci",
+    "heroSub": "G.R. Impianti è un'impresa artigiana di San Giovanni Lupatoto, in provincia di Verona. Chiama e spiega il problema.",
+    "introTitle": "Impianti idraulici per casa e imprese",
+    "introText": "G.R. Impianti è un'impresa artigiana che opera nell'impiantistica civile e industriale, con sede in Via Garofoli a San Giovanni Lupatoto. Si occupa di impianti idraulici per abitazioni private, imprese ed enti pubblici.\n\nI lavori sono coperti da garanzia RCT, la responsabilità civile verso terzi. Se hai un guasto o un impianto da verificare, chiama e chiedi un sopralluogo.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Impianti idraulici",
+        "text": "Realizzazione di impianti idraulici per abitazioni, imprese ed enti pubblici, nel rispetto delle normative vigenti."
+      },
+      {
+        "title": "Impianti elettrici",
+        "text": "Impianti elettrici civili e industriali, con rilascio della Dichiarazione di conformità."
+      },
+      {
+        "title": "Impianti fotovoltaici",
+        "text": "Installazione di impianti fotovoltaici, con assistenza per gli incentivi fiscali previsti."
+      },
+      {
+        "title": "Ristrutturazione completa",
+        "text": "Interventi di ristrutturazione completa che comprendono la parte impiantistica."
+      },
+      {
+        "title": "Noleggio piattaforma aerea",
+        "text": "Noleggio di piattaforma aerea con operatore per lavori in quota."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un impianto da controllare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.73,
+      "alt": "Tubi in rame e raccordi in ottone assemblati con saldature pulite su una parete",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:54:31.428Z",
+    "seed": "G.r. Impianti San Giovanni Lupatoto · San Giovanni Lupatoto",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#f6f5f3",
+      "ink": "#272211",
+      "accent": "#bba224",
+      "surprise": "#6854ce",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "onest",
+      "display": "Onest",
+      "body": "Onest",
+      "heroRatio": 8,
+      "titleLh": 0.91,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "cerchio",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Guarda",
+        "tilt": 3,
+        "magnet": 4,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "scorrevole",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "trust": "denso",
+        "intro": "respiro",
+        "gallery": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "onest",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "7-5",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#bba224",
+      "font": "onest",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "7-5",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "key": "indice|onest|45",
+    "attempt": 265,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "impianti-idraulici",
+      "section": "services",
+      "service": "Impianti idraulici",
+      "label": "Approfondisci: Impianti idraulici chiavi",
+      "title": "Impianti idraulici chiavi in mano a San Giovanni Lupatoto",
+      "lead": "G.r. Impianti progetta e installa impianti idraulici su misura, pensati per funzionare bene e per far risparmiare energia.",
+      "paragraphs": [
+        "G.r. Impianti è abilitata alla progettazione e all'installazione di impianti idraulici chiavi in mano. Ogni impianto è calibrato sulle esigenze specifiche del cliente, con l'obiettivo di ottenere la massima funzionalità e, allo stesso tempo, un risparmio energetico.",
+        "Il lavoro comprende la progettazione e l'installazione di impianti idraulici e termoidraulici, le riparazioni e la sostituzione di tubature, il monitoraggio e la manutenzione ordinaria e straordinaria.",
+        "Ci si occupa anche della sostituzione delle caldaie, delle prove fumi e di combustione e della ricarica dei condizionatori."
+      ],
+      "images": []
+    },
+    {
+      "id": "impianti-elettrici",
+      "section": "services",
+      "service": "Impianti elettrici",
+      "label": "Approfondisci: Impianti affidabili dalla",
+      "title": "Impianti affidabili, dalla progettazione alla manutenzione",
+      "lead": "G.r. Impianti segue ogni tipo di intervento, dalla progettazione e realizzazione fino alla semplice riparazione e manutenzione degli impianti.",
+      "paragraphs": [
+        "Gli interventi comprendono impianti elettrici civili e industriali, impianti di sicurezza e allarmi, impianti domotici con gestione da remoto, climatizzazione e condizionamento, telecamere a circuito chiuso, automazione di cancelli e porte, rilevazione fumi, fuoco e antincendio.",
+        "Tutti gli interventi sono eseguiti in linea con la norma CEI (Comitato Elettrotecnico Italiano) 64-8V3. La manutenzione, ordinaria e straordinaria, riguarda anche corto circuito, sovraccarico e dispersione elettrica."
+      ],
+      "images": []
+    },
+    {
+      "id": "impianti-fotovoltaici",
+      "section": "services",
+      "service": "Impianti fotovoltaici",
+      "label": "Approfondisci: Fotovoltaico",
+      "title": "Fotovoltaico: energia pulita e risparmio energetico",
+      "lead": "G.r. Impianti investe nelle fonti rinnovabili e offre impianti fotovoltaici dalla progettazione alla manutenzione.",
+      "paragraphs": [
+        "L'impianto fotovoltaico sfrutta l'energia solare per produrre energia pulita a costi contenuti. Inoltre consente di usufruire di incentivi fiscali, a vantaggio del risparmio energetico.",
+        "Gr-impianti srl si occupa della progettazione e della posa in opera degli impianti fotovoltaici, oltre alle pratiche burocratiche necessarie per ottenere gli incentivi.",
+        "Il servizio comprende anche la manutenzione e la pulizia periodica dei pannelli e il rilascio della certificazione di gestione."
+      ],
+      "images": []
+    },
+    {
+      "id": "ristrutturazione-completa",
+      "section": "services",
+      "service": "Ristrutturazione completa",
+      "label": "Approfondisci: Servizio globale",
+      "title": "Servizio globale per ristrutturare casa, negozi e uffici",
+      "lead": "G.r. Impianti propone un unico interlocutore per ristrutturazioni complete o parziali di appartamenti, negozi, uffici e magazzini.",
+      "paragraphs": [
+        "Gr-impianti srl, a San Giovanni Lupatoto, offre un servizio globale per la ristrutturazione completa o parziale di appartamenti, negozi, uffici, magazzini e strutture più complesse, con un solo interlocutore per tutto il lavoro.",
+        "L'organizzazione si basa su una squadra di collaboratori qualificati e su un servizio integrato e completo: rifacimento del bagno e della cucina, posa di pavimenti e rivestimenti, con il relativo adeguamento dell'impianto elettrico e idraulico.",
+        "Tra le lavorazioni indicate: opere murarie, rifacimento totale o parziale degli impianti elettrico e idraulico, rivestimenti e pavimenti, tinteggiatura interni, controsoffitti e opere in cartongesso, falegnameria, lavori da fabbro e riparazione di elettrodomestici."
+      ],
+      "images": []
+    },
+    {
+      "id": "noleggio-piattaforma-aerea",
+      "section": "services",
+      "service": "Noleggio piattaforma aerea",
+      "label": "Approfondisci: Piattaforma aerea",
+      "title": "Piattaforma aerea con operatore, senza ponteggi",
+      "lead": "G.r. Impianti dispone di una piattaforma aerea con operatore per lavorare in quota in sicurezza, senza ricorrere ai ponteggi.",
+      "paragraphs": [
+        "La piattaforma aerea con operatore permette di raggiungere in condizioni di sicurezza le zone di lavoro in quota, evitando l'utilizzo di ponteggi.",
+        "Quando una prestazione impiantistica o edile prevede l'uso della piattaforma, il costo di noleggio non viene conteggiato.",
+        "Per i clienti questo significa un evidente risparmio di costi e un'ottimizzazione dei tempi di intervento."
+      ],
+      "images": []
+    }
+  ]
+}

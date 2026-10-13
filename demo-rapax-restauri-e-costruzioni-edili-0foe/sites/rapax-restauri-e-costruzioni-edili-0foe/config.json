@@ -1,0 +1,385 @@
+{
+  "design": {
+    "seed": "Rapax Restauri e Costruzioni Edili · Verona",
+    "sector": "operai",
+    "palette": "dna:#c26e21",
+    "font": "barlow",
+    "shape": "pillola",
+    "imageTreatment": "bn",
+    "motion": "quieta",
+    "nav": "angoli",
+    "hero": "indice",
+    "intro": "appunto",
+    "grid": "3-9",
+    "services": "colonne",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Rapax Restauri e Costruzioni Edili",
+    "tagline": "Impresa edile a Verona",
+    "category": "impresa edile",
+    "phone": "393 571 3933",
+    "whatsapp": "+393935713933",
+    "email": "melisalvo1976@yahoo.it",
+    "address": "Via Vittorio Piatti, 14, 37139 Verona VR",
+    "mapsQuery": "Rapax Restauri e Costruzioni Edili, Via Vittorio Piatti, 14, 37139 Verona VR",
+    "hours": {
+      "lun": [
+        "09:00-12:00",
+        "13:00-17:00"
+      ],
+      "mar": [
+        "09:00-12:00",
+        "13:00-17:00"
+      ],
+      "mer": [
+        "09:00-12:00",
+        "13:00-17:00"
+      ],
+      "gio": [
+        "09:00-12:00",
+        "13:00-17:00"
+      ],
+      "ven": [
+        "09:00-12:00",
+        "13:00-17:00"
+      ],
+      "sab": [
+        "09:00-12:00",
+        "13:00-17:00"
+      ],
+      "dom": []
+    },
+    "rating": null,
+    "reviewCount": null,
+    "vat": "04378200234"
+  },
+  "copy": {
+    "heroTitle": "Ristrutturiamo la tua casa a Verona con un unico referente",
+    "heroSub": "Ristrutturazioni e restauri chiavi in mano per appartamenti, locali commerciali ed edifici pubblici. Chiama per un sopralluogo senza impegno.",
+    "introTitle": "Dal progetto alla consegna, un solo interlocutore",
+    "introText": "Rapax realizza ristrutturazioni e restauri a Verona per appartamenti, immobili commerciali ed edifici pubblici. Con la formula chiavi in mano segue i lavori dall'inizio alla fine, con oltre 25 anni di esperienza nel settore edile.\n\nHai un progetto, grande o piccolo? Chiama: ti ascoltiamo e costruiamo insieme una soluzione su misura. Il sopralluogo è senza impegno.",
+    "servicesTitle": "Cosa realizziamo",
+    "services": [
+      {
+        "title": "Ristrutturazioni chiavi in mano",
+        "text": "Dalla demolizione alle finiture, gestiamo l'intero cantiere con un unico referente per tutte le maestranze."
+      },
+      {
+        "title": "Ristrutturazione bagno",
+        "text": "Rifacimento completo del bagno, eseguito con cura artigianale e con lavori sempre visibili al cliente."
+      },
+      {
+        "title": "Abbattimento barriere architettoniche",
+        "text": "Interventi mirati per rendere la casa più accessibile e sicura, adatti alle esigenze di chi la abita."
+      },
+      {
+        "title": "Impianti elettrici e idraulici",
+        "text": "Progettazione e realizzazione di impianti certificati, integrati con le opere murarie."
+      },
+      {
+        "title": "Pavimentazioni",
+        "text": "Posa di pavimenti interni ed esterni con materiali resistenti, dalle ceramiche ai rivestimenti tecnici."
+      },
+      {
+        "title": "Tetti e facciate",
+        "text": "Rifacimento di tetti e facciate con sistemi di isolamento per migliorare il comfort termico dell'immobile."
+      }
+    ],
+    "ctaTitle": "Chiama Rapax e chiedi un sopralluogo senza impegno"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.76,
+      "alt": "Piastrelle in ceramica e una cazzuola su una parete appena intonacata in un cantiere di ristrutturazione",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.68,
+      "alt": "Foto di Rapax Restauri e Costruzioni Edili"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1162,
+      "luma": 0.44,
+      "alt": "Foto di Rapax Restauri e Costruzioni Edili"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.55,
+      "alt": "Foto di Rapax Restauri e Costruzioni Edili"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:43:00.370Z",
+    "seed": "Rapax Restauri e Costruzioni Edili · Verona",
+    "family": "cantiere",
+    "concept": {
+      "id": "piombo",
+      "frase": "Il filo a piombo: tutto cade dritto su una griglia visibile; filetti verticali come livelle e titoli pesanti come travi.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#f4f4ec",
+      "ink": "#252214",
+      "accent": "#c26e21",
+      "surprise": "#6e9bc3",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "barlow",
+      "display": "Barlow Condensed",
+      "body": "Barlow",
+      "heroRatio": 9,
+      "titleLh": 0.9,
+      "track": "-0.01em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "nessuna",
+      "ratio": "3/4"
+    },
+    "nav": "angoli",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "orologio",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "rombo",
+        "label": "Lavori",
+        "tilt": 5,
+        "magnet": 12,
+        "shapes": [
+          "taglio",
+          "cerchio",
+          "arco"
+        ],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "orologio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "colonne",
+      "gallery": "striscia",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "denso",
+        "gallery": "respiro",
+        "trust": "denso",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "barlow",
+      "shape": "pillola",
+      "imageTreatment": "bn",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#c26e21",
+      "font": "barlow",
+      "shape": "pillola",
+      "imageTreatment": "bn",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "key": "indice|barlow|30",
+    "attempt": 14,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "ristrutturazioni-chiavi",
+      "section": "services",
+      "service": "Ristrutturazioni chiavi in mano",
+      "label": "Approfondisci: Ristrutturazioni chiavi",
+      "title": "Ristrutturazioni chiavi in mano a Verona e provincia",
+      "lead": "Rapax segue restauri e ristrutturazioni dal rilievo alla consegna, con un unico referente per tutto il cantiere.",
+      "paragraphs": [
+        "Rapax si occupa di restauro conservativo e ristrutturazione integrale di appartamenti, immobili commerciali ed edifici pubblici a Verona. Con la formula chiavi in mano si fa carico degli aspetti tecnici, burocratici e operativi, per un risultato in linea con estetica, funzionalità e budget prefissato.",
+        "Un referente unico coordina tutte le maestranze. Il servizio copre il ciclo completo: rilievo iniziale, demolizione controllata, impianti idraulici ed elettrici, finiture di pregio. Muratori, tecnici e posatori sono coordinati internamente, così da evitare i ritardi dovuti alla mancanza di coordinamento tra fornitori diversi.",
+        "Rapax realizza anche cartongesso su misura, contropareti e controsoffittature, che migliorano l'estetica e l'isolamento acustico e termico. Offre consulenza su benefici economici e detrazioni fiscali per il recupero edilizio e, per l'accessibilità, collabora con il proprio reparto dedicato all'abbattimento delle barriere architettoniche."
+      ],
+      "images": [
+        {
+          "file": "pagina-ristrutturazioni-chiavi-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.41,
+          "alt": "Foto di Rapax Restauri e Costruzioni Edili"
+        }
+      ]
+    },
+    {
+      "id": "ristrutturazione-bagno",
+      "section": "services",
+      "service": "Ristrutturazione bagno",
+      "label": "Approfondisci: Ristrutturazione bagno",
+      "title": "Ristrutturazione bagno a Verona, chiavi in mano",
+      "lead": "Rapax segue l'intero rifacimento del bagno a Verona, dalla demolizione alla posa dei sanitari, fino a un bagno pronto all'uso.",
+      "paragraphs": [
+        "Il bagno è un ambiente dedicato al relax e alla cura di sé, e richiede una progettazione attenta e materiali resistenti. Con la formula chiavi in mano Rapax si occupa di ogni fase: demolizione, smaltimento dei vecchi materiali, rifacimento degli impianti idraulici, posa dei rivestimenti e installazione dei sanitari. L'obiettivo è consegnare un bagno curato nei dettagli e realizzato nei tempi concordati.",
+        "Particolare attenzione va a ciò che non si vede. Gli impianti idraulici ed elettrici vengono rifatti con componenti certificati, mentre sottofondi e impermeabilizzazione delle zone umide sono eseguiti a regola d'arte per prevenire infiltrazioni e umidità. Il team aiuta a scegliere i materiali in base allo stile, moderno, classico o minimale, con pavimenti e rivestimenti posati con precisione millimetrica.",
+        "Oltre al rinnovo estetico, Rapax realizza la trasformazione da vasca a doccia e progetta bagni accessibili, senza barriere architettoniche, con ausili e sanitari specifici. Offre inoltre una consulenza sulle agevolazioni fiscali previste per il recupero edilizio. Per iniziare, è possibile richiedere un sopralluogo gratuito presso la sede di Verona."
+      ],
+      "images": []
+    },
+    {
+      "id": "abbattimento-barriere",
+      "section": "services",
+      "service": "Abbattimento barriere architettoniche",
+      "label": "Approfondisci: Abbattimento barriere",
+      "title": "Abbattimento barriere architettoniche a Verona",
+      "lead": "Rapax realizza lavori edili per rendere abitazioni, uffici ed edifici pubblici di Verona e provincia accessibili a chiunque.",
+      "paragraphs": [
+        "Rapax si occupa di abbattimento delle barriere architettoniche a Verona e provincia, in abitazioni private, uffici ed edifici pubblici. Interviene sia nella costruzione di nuovi immobili sia nella ristrutturazione di edifici esistenti, con personale esperto che offre una consulenza specifica per ogni esigenza di mobilità, curando anche l'integrazione estetica con il contesto originale.",
+        "Gli interventi comprendono rampe d'accesso e pedane, adeguamento di ingressi e corridoi, ristrutturazione completa dei servizi igienici. I lavori sono eseguiti con materiali di alta qualità e finiture di pregio, e ogni modifica strutturale segue le norme di sicurezza e accessibilità vigenti.",
+        "Rapax affianca il cliente nella scelta delle agevolazioni fiscali, dei contributi e delle detrazioni previste dalla legge per questi interventi, semplificando le pratiche burocratiche. Per studiare il progetto più adatto si può visitare la sede in Via Vittorio Piatti 14 a Verona, oppure richiedere un sopralluogo gratuito."
+      ],
+      "images": [
+        {
+          "file": "pagina-abbattimento-barriere-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 873,
+          "luma": 0.6,
+          "alt": "Foto di Rapax Restauri e Costruzioni Edili"
+        }
+      ]
+    },
+    {
+      "id": "impianti-elettrici",
+      "section": "services",
+      "service": "Impianti elettrici e idraulici",
+      "label": "Approfondisci: Impianti elettrici",
+      "title": "Impianti elettrici e idraulici a Verona",
+      "lead": "Rapax realizza impianti elettrici e idraulici a Verona e provincia, integrati nel progetto di ristrutturazione e consegnati con la dichiarazione di conformità.",
+      "paragraphs": [
+        "Gli impianti sono parte di ogni ristrutturazione Rapax. Il lavoro non si limita alla posa: ogni intervento rientra nel progetto complessivo di restauro ed è coordinato con le opere murarie e le finiture, dalla progettazione iniziale al collaudo finale.",
+        "Per la parte idraulica e termoidraulica, Rapax si occupa di distribuzione dell'acqua sanitaria, riscaldamento e manutenzione di sistemi complessi, con soluzioni su misura, dai sistemi tradizionali a quelli più innovativi. I tecnici possono consigliare anche come ridurre i consumi energetici.",
+        "Per la parte elettrica, Rapax realizza impianti civili e industriali, dai punti luce ai quadri generali, fino ad automazione e domotica. Ogni lavoro è accompagnato dalla dichiarazione di conformità, che attesta l'esecuzione a regola d'arte. L'installazione procede in parallelo con le altre opere edili."
+      ],
+      "images": []
+    },
+    {
+      "id": "pavimentazioni",
+      "section": "services",
+      "service": "Pavimentazioni",
+      "label": "Approfondisci: Posa pavimenti a Verona",
+      "title": "Posa pavimenti a Verona, per interni ed esterni",
+      "lead": "Rapax si occupa della posa di pavimentazioni interne ed esterne a Verona, seguendo ogni fase del lavoro, dai sottofondi alla finitura.",
+      "paragraphs": [
+        "Ogni superficie ha esigenze diverse. Per questo Rapax si fa carico di tutte le fasi: la preparazione dei sottofondi, la scelta dei collanti più adatti e la finitura finale. Si lavora in abitazioni e in spazi commerciali, dal salone al vialetto esterno esposto agli agenti atmosferici.",
+        "Per gli interni la posa riguarda gres porcellanato, ceramiche e rivestimenti tecnici. Le piastrelle vengono posate con precisione, curando la planarità e la regolarità delle fughe. Rapax offre inoltre consulenza sui trattamenti e sulla manutenzione, per avere una superficie facile da pulire che si integri con impianti e arredi già presenti.",
+        "All'esterno servono materiali antiscivolo, ingelivi e drenanti, adatti a terrazze, marciapiedi e aree cortilive, con attenzione a pendenza e deflusso delle acque per proteggere la struttura muraria e prevenire infiltrazioni. Con la formula \"chiavi in mano\" l'intervento può essere coordinato con opere di isolamento o abbattimento di barriere architettoniche. Per iniziare è previsto un sopralluogo tecnico."
+      ],
+      "images": []
+    },
+    {
+      "id": "tetti-e-facciate",
+      "section": "services",
+      "service": "Tetti e facciate",
+      "label": "Approfondisci: Rifacimento di tetti",
+      "title": "Rifacimento di tetti e facciate a Verona",
+      "lead": "Rapax Restauri e Costruzioni Edili interviene su coperture e facciate di edifici privati, commerciali e pubblici a Verona.",
+      "paragraphs": [
+        "Tetto e facciata formano l'involucro protettivo di un edificio e garantiscono sicurezza strutturale e decoro. Rapax si occupa del rifacimento e della manutenzione di coperture ed esterni, risolvendo infiltrazioni, degrado dei materiali e danni causati dal tempo con tecniche artigianali e materiali certificati.",
+        "Per le facciate si parte dalla pulizia delle superfici e dalla rimozione delle parti ammalorate, poi si passa al risanamento degli intonaci e al consolidamento delle murature, fino alla tinteggiatura con pitture traspiranti e protettive. Ogni progetto tiene conto dell'architettura originale e dei colori tipici del contesto urbano di Verona.",
+        "Per i tetti Rapax realizza il rifacimento integrale delle coperture, dalla sostituzione di tegole e coppi all'impermeabilizzazione delle guaine, con formula chiavi in mano e gestione della sicurezza del cantiere. Offre inoltre consulenza sulle detrazioni fiscali previste per il recupero edilizio e un'analisi tecnica gratuita e senza impegno."
+      ],
+      "images": [
+        {
+          "file": "pagina-tetti-e-facciate-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 947,
+          "luma": 0.49,
+          "alt": "Foto di Rapax Restauri e Costruzioni Edili"
+        }
+      ]
+    }
+  ]
+}

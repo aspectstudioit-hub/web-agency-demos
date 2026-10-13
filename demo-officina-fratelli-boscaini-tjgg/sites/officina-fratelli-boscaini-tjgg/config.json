@@ -1,0 +1,186 @@
+{
+  "design": {
+    "seed": "Officina Fratelli Boscaini · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#1f75c8",
+    "font": "anton",
+    "shape": "morbido",
+    "imageTreatment": "bn",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "manifesto",
+    "intro": "dichiarazione",
+    "grid": "7-5",
+    "services": "elenco",
+    "gallery": "pila"
+  },
+  "business": {
+    "name": "Officina Fratelli Boscaini",
+    "tagline": "Officina multimarca a Bussolengo",
+    "category": "meccanico",
+    "phone": "045 715 3068",
+    "whatsapp": null,
+    "email": "officina.boscaini@gmail.com",
+    "address": "Localita' Ca' di Mezzo, 148, 37012 Bussolengo VR",
+    "mapsQuery": "Officina Fratelli Boscaini, Localita' Ca' di Mezzo, 148, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": 4.9,
+    "reviewCount": 60,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "La tua auto in buone mani a Bussolengo",
+    "heroSub": "Officina multimarca dei fratelli Boscaini, in località Ca' di Mezzo. Chiama lo 045 715 3068 e racconta cosa succede alla tua auto.",
+    "introTitle": "Una realtà giovane con una lunga storia",
+    "introText": "L'Officina Boscaini è un'officina multimarca gestita dai fratelli Boscaini, a Bussolengo. Una realtà giovane che porta avanti una passione passata da generazioni.\n\nSe la tua auto ha un problema, chiamaci o passa in officina in località Ca' di Mezzo. Ti ascoltiamo e cerchiamo la soluzione giusta, con un occhio di riguardo al prezzo.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Autoriparazioni",
+        "text": "Interventi di riparazione e manutenzione su auto di diverse marche, in un'officina multimarca."
+      },
+      {
+        "title": "Elettrauto",
+        "text": "Controllo e riparazione dell'impianto elettrico e dei componenti elettrici del veicolo."
+      },
+      {
+        "title": "Gommista",
+        "text": "Servizio gomme per la tua auto, direttamente in officina a Bussolengo."
+      }
+    ],
+    "ctaTitle": "Chiama l'officina: 045 715 3068"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.55,
+      "alt": "Disco freno e componenti meccanici in metallo su un banco da lavoro di un'officina",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:45:54.393Z",
+    "seed": "Officina Fratelli Boscaini · Bussolengo",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "manifesto",
+    "palette": {
+      "paper": "#f0f7f8",
+      "ink": "#142427",
+      "accent": "#1f75c8",
+      "surprise": "#55b3a2",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "anton",
+      "display": "Anton",
+      "body": "Public Sans",
+      "heroRatio": 8,
+      "titleLh": 0.86,
+      "track": "0em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "sipario",
+    "heads": "margine",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Vedi",
+        "tilt": 3,
+        "magnet": 7,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "elenco",
+      "gallery": "pila",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "intro": "respiro",
+        "trust": "normale",
+        "gallery": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "anton",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "manifesto",
+      "intro": "dichiarazione",
+      "grid": "7-5",
+      "services": "elenco",
+      "gallery": "pila"
+    },
+    "fingerprint": {
+      "palette": "dna:#1f75c8",
+      "font": "anton",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "manifesto",
+      "intro": "dichiarazione",
+      "grid": "7-5",
+      "services": "elenco",
+      "gallery": "pila"
+    },
+    "key": "manifesto|anton|210",
+    "attempt": 25,
+    "minDistance": 6
+  }
+}

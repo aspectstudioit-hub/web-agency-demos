@@ -1,0 +1,245 @@
+{
+  "design": {
+    "seed": "Mattiello Group srl - Revisioni Auto Bussolengo · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#52a2e3",
+    "font": "hanken",
+    "shape": "tecnico",
+    "imageTreatment": "contrasto",
+    "motion": "elastica",
+    "nav": "angoli",
+    "hero": "collage",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "scorrevole",
+    "gallery": "pila"
+  },
+  "business": {
+    "name": "Mattiello Group srl - Revisioni Auto Bussolengo",
+    "tagline": "Officina e revisioni auto a Bussolengo",
+    "category": "meccanico",
+    "phone": "045 851 0043",
+    "whatsapp": null,
+    "email": "info@mattiellogroup.com",
+    "address": "Via Pietro Vassanelli, 16/B, 37012 Bussolengo VR",
+    "mapsQuery": "Mattiello Group srl - Revisioni Auto Bussolengo, Via Pietro Vassanelli, 16/B, 37012 Bussolengo VR",
+    "hours": {
+      "lun": [
+        "08:00-17:00"
+      ],
+      "mar": [
+        "08:00-17:00"
+      ],
+      "mer": [
+        "08:00-17:00"
+      ],
+      "gio": [
+        "08:00-17:00"
+      ],
+      "ven": [
+        "08:00-17:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.7,
+    "reviewCount": 250,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "La tua officina a Bussolengo",
+    "heroSub": "Revisione, impianti GPL e metano, diagnostica e altri servizi per la tua auto in Via Pietro Vassanelli. Chiama e chiedi.",
+    "introTitle": "Un'officina multimarca a Bussolengo",
+    "introText": "Mattiello Group è un centro di assistenza auto a Bussolengo, in provincia di Verona, in Via Pietro Vassanelli 16/B. Si occupa di revisione ministeriale, diagnostica, impianti a GPL e metano e di altri interventi sul veicolo.\n\nHai un dubbio o un problema con l'auto? Telefona o scrivi dal sito: ti aiutiamo a capire di cosa ha bisogno. Siamo aperti dal lunedì al venerdì.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Diagnostica avanzata auto",
+        "text": "Controllo di problemi meccanici ed elettronici su auto a benzina e diesel."
+      },
+      {
+        "title": "Revisione auto",
+        "text": "Revisione ministeriale, comprese le bombole GPL e metano."
+      },
+      {
+        "title": "Bombole GPL e metano",
+        "text": "Sostituzione e revisione delle bombole, installazione di impianti a gas."
+      },
+      {
+        "title": "Ricarica climatizzatori",
+        "text": "Ricarica dell'impianto, anche con i nuovi gas R-1234yf."
+      },
+      {
+        "title": "Ganci di traino",
+        "text": "Installazione e manutenzione di ganci di traino."
+      },
+      {
+        "title": "Soccorso stradale h24",
+        "text": "Servizio di soccorso stradale attivo giorno e notte."
+      }
+    ],
+    "ctaTitle": "Chiama l'officina o scrivici dal sito"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.23,
+      "alt": "Bombola in acciaio, raccordi in ottone e tubi in rame su un banco da officina",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:39:16.163Z",
+    "seed": "Mattiello Group srl - Revisioni Auto Bussolengo · Bussolengo",
+    "family": "motori",
+    "concept": {
+      "id": "banco",
+      "frase": "Il banco di lavoro: attrezzi in fila, ogni servizio è un pezzo etichettato su una tavola a griglia.",
+      "extra": []
+    },
+    "archetype": "collage",
+    "palette": {
+      "paper": "#101414",
+      "ink": "#e3eeef",
+      "accent": "#52a2e3",
+      "surprise": "#7dd0bd",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "hanken",
+      "display": "Hanken Grotesk",
+      "body": "Hanken Grotesk",
+      "heroRatio": 9,
+      "titleLh": 0.92,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "inciso",
+      "ratio": "4/5"
+    },
+    "nav": "angoli",
+    "heads": "parola",
+    "button": "blocco",
+    "badge": "etichetta",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Guarda",
+        "tilt": 4,
+        "magnet": 4,
+        "shapes": [],
+        "widgets": "arco"
+      }
+    },
+    "motif": "trama",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "gallery",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "scorrevole",
+      "gallery": "pila",
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "gallery": "denso",
+        "services": "respiro",
+        "trust": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "hanken",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "angoli",
+      "hero": "collage",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "scorrevole",
+      "gallery": "pila"
+    },
+    "fingerprint": {
+      "palette": "dna:#52a2e3",
+      "font": "hanken",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "angoli",
+      "hero": "collage",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "scorrevole",
+      "gallery": "pila"
+    },
+    "key": "collage|hanken|210",
+    "attempt": 266,
+    "minDistance": 7
+  },
+  "pages": [
+    {
+      "id": "la-tua-officina-di-fiducia",
+      "section": "intro",
+      "label": "Approfondisci: Officina a Bussolengo",
+      "title": "Officina a Bussolengo: cambi automatici e impianti GPL",
+      "lead": "Mattiello Group è un centro di assistenza auto a Bussolengo, in provincia di Verona, vicino al centro commerciale La Grandemela Shoppingland.",
+      "paragraphs": [
+        "Il centro si trova a Bussolengo, Verona, a pochi passi dal centro commerciale La Grandemela Shoppingland. Dal 1998 si occupa di assistenza auto, con prodotti di qualità e attenzione al servizio ai clienti.",
+        "Tra le attività c'è la manutenzione dei cambi automatici. Le attrezzature utilizzate, di alto livello, non si limitano a sostituire l'olio: eseguono anche una pulizia completa degli ingranaggi.",
+        "L'officina è specializzata in auto a GPL e metano ed è autorizzata all'installazione di impianti a gas dei marchi BRC, Lovato e Landi."
+      ],
+      "images": []
+    },
+    {
+      "id": "info-utili",
+      "section": "services",
+      "label": "Approfondisci: Verifica quadriennale",
+      "title": "Verifica quadriennale delle bombole metano in composito",
+      "lead": "Il collaudo dei serbatoi metano in composito richiede la visita di un funzionario della Motorizzazione e i posti mensili sono limitati.",
+      "paragraphs": [
+        "La verifica quadriennale delle bombole metano in composito è obbligatoria. Per il collaudo di questi serbatoi è necessaria la visita di un funzionario della Motorizzazione, e per questo i posti disponibili ogni mese sono limitati.",
+        "Per prenotare e acquisire la priorità bisogna inviare a pratiche@mattiellogroup.com, in formato pdf, il libretto di circolazione e un documento d'identità.",
+        "Nella stessa richiesta va indicato un numero di cellulare, così da essere avvisati sulla data prevista per il collaudo."
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "design": {
+    "seed": "Autoriparazioni Castagna · Verona",
+    "sector": "operai",
+    "palette": "dna:#4a44a6",
+    "font": "onest",
+    "shape": "tecnico",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "angoli",
+    "hero": "scena",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "indice",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Autoriparazioni Castagna",
+    "tagline": "Meccanico a Verona",
+    "category": "meccanico",
+    "phone": "045 500170",
+    "whatsapp": null,
+    "email": "info@autoriparazionicastagna.it",
+    "address": "Via Antonio Pacinotti, 20, 37135 Verona VR",
+    "mapsQuery": "Autoriparazioni Castagna, Via Antonio Pacinotti, 20, 37135 Verona VR",
+    "hours": {
+      "lun": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "mar": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "mer": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "gio": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "ven": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.9,
+    "reviewCount": 42,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Padre e figlio, due meccanici per la vostra auto a Verona",
+    "heroSub": "Autoriparazioni Castagna ti aspetta in Via Pacinotti, a Verona. Assistenza per auto di diverse marche: chiama e spiega cosa non va.",
+    "introTitle": "Angelo e Nicola Castagna, meccanici a Verona",
+    "introText": "Autoriparazioni Castagna è un'officina di Verona gestita da Angelo e Nicola Castagna, padre e figlio. La passione per i motori è diventata il loro lavoro, e la condividono con la stessa filosofia di vita.\n\nL'officina si occupa di assistenza per autoveicoli multimarca. Ci trovi in Via Antonio Pacinotti 20, nel quartiere di Verona 37135, dal lunedì al venerdì. Se la tua auto ha un problema, chiama o passa in officina.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Hai un problema con l'auto? Chiamaci o passa in officina"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.31,
+      "alt": "Componenti metallici di un motore su un banco da lavoro in officina",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 2845,
+      "luma": 0.5,
+      "alt": "Foto di Autoriparazioni Castagna"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 960,
+      "luma": 0.21,
+      "alt": "Foto di Autoriparazioni Castagna"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1085,
+      "luma": 0.36,
+      "alt": "Foto di Autoriparazioni Castagna"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:41:25.467Z",
+    "seed": "Autoriparazioni Castagna · Verona",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "scena",
+    "palette": {
+      "paper": "#ebeff3",
+      "ink": "#102028",
+      "accent": "#4a44a6",
+      "surprise": "#ad6fc5",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "onest",
+      "display": "Onest",
+      "body": "Onest",
+      "heroRatio": 9,
+      "titleLh": 0.9,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "obliquo",
+      "ratio": "3/2"
+    },
+    "nav": "angoli",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Apri",
+        "tilt": 5,
+        "magnet": 4,
+        "shapes": [],
+        "widgets": "arco"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "indice",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "denso",
+        "gallery": "respiro",
+        "trust": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "onest",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#4a44a6",
+      "font": "onest",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "key": "scena|onest|240",
+    "attempt": 7,
+    "minDistance": 6
+  }
+}

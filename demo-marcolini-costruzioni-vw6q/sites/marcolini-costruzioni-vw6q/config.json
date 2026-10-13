@@ -1,0 +1,242 @@
+{
+  "design": {
+    "seed": "Marcolini Costruzioni · Verona",
+    "sector": "operai",
+    "palette": "dna:#c9c634",
+    "font": "bricolage",
+    "shape": "tecnico",
+    "imageTreatment": "bn",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "diviso",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "scorrevole",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Marcolini Costruzioni",
+    "tagline": "Impresa edile a Verona",
+    "category": "impresa edile",
+    "phone": "045 892 0051",
+    "whatsapp": null,
+    "email": "info@marcolinicostruzioni.it",
+    "address": "Via Madonna di Campagna, 75, 37132 Verona VR",
+    "mapsQuery": "Marcolini Costruzioni, Via Madonna di Campagna, 75, 37132 Verona VR",
+    "hours": {
+      "lun": [
+        "08:30-12:30",
+        "15:00-19:00"
+      ],
+      "mar": [
+        "08:30-12:30",
+        "15:00-19:00"
+      ],
+      "mer": [
+        "08:30-12:30",
+        "15:00-19:00"
+      ],
+      "gio": [
+        "08:30-12:30",
+        "15:00-19:00"
+      ],
+      "ven": [
+        "08:30-12:30",
+        "15:00-19:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.8,
+    "reviewCount": 35,
+    "reviewSource": "Google",
+    "vat": "02119910236"
+  },
+  "copy": {
+    "heroTitle": "Progettiamo, costruiamo e vendiamo direttamente, senza intermediari, a",
+    "heroSub": "Marcolini Costruzioni realizza complessi residenziali e costruzioni commerciali, artigianali e industriali. Chiamaci in ufficio per parlare del tuo progetto.",
+    "introTitle": "Un'impresa edile veronese che costruisce e vende in prima persona",
+    "introText": "Marcolini Costruzioni nasce dall'attività di Marcolini Tullio, che dal 1965 costruisce a Verona, a partire dalla zona di Madonna di Campagna. Con Marcolini Paolo e l'architetto Albi Ezio l'impresa è cresciuta e ha realizzato complessi residenziali, capannoni e negozi.\n\nI principi sono rimasti gli stessi: progettare, costruire e vendere immobili direttamente, senza intermediari. Per chiedere informazioni o un appuntamento, chiama l'ufficio o scrivi una email.",
+    "servicesTitle": "Cosa realizziamo",
+    "services": [
+      {
+        "title": "Complessi residenziali",
+        "text": "Progettazione e costruzione di complessi residenziali a Verona, con vendita diretta degli immobili."
+      },
+      {
+        "title": "Costruzioni commerciali",
+        "text": "Realizzazione di negozi e spazi commerciali, dalla progettazione alla costruzione."
+      },
+      {
+        "title": "Capannoni artigianali e industriali",
+        "text": "Costruzione di capannoni per attività artigianali e industriali nel veronese."
+      },
+      {
+        "title": "Assistenza post-vendita",
+        "text": "Assistenza dopo la vendita per chi ha acquistato un immobile costruito da noi."
+      }
+    ],
+    "ctaTitle": "Chiama l'ufficio e parliamo del tuo progetto"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.51,
+      "alt": "Mattoni e blocchi di cemento in un cantiere edile, con una livella appoggiata su un'asse di legno",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 928,
+      "luma": 0.43,
+      "alt": "Foto di Marcolini Costruzioni"
+    },
+    {
+      "slot": "cta",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1016,
+      "luma": 0.41,
+      "alt": "Foto di Marcolini Costruzioni"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:41:59.963Z",
+    "seed": "Marcolini Costruzioni · Verona",
+    "family": "cantiere",
+    "concept": {
+      "id": "piombo",
+      "frase": "Il filo a piombo: tutto cade dritto su una griglia visibile; filetti verticali come livelle e titoli pesanti come travi.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#f4f1ef",
+      "ink": "#2c2017",
+      "accent": "#c9c634",
+      "surprise": "#7677c7",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "bricolage",
+      "display": "Bricolage Grotesque",
+      "body": "Instrument Sans",
+      "heroRatio": 11,
+      "titleLh": 0.88,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "nessuna",
+      "ratio": "1/1"
+    },
+    "nav": "live",
+    "heads": "indice",
+    "button": "contorno",
+    "badge": "etichetta",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "tondo",
+        "label": "Apri",
+        "tilt": 4,
+        "magnet": 11,
+        "shapes": [
+          "taglio",
+          "foglia",
+          "arco"
+        ],
+        "widgets": "taglio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "trust",
+      "services",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "scorrevole",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "denso",
+        "trust": "respiro",
+        "services": "normale",
+        "gallery": "respiro",
+        "contacts": "normale",
+        "cta": "denso"
+      }
+    },
+    "dims": {
+      "font": "bricolage",
+      "shape": "tecnico",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "scorrevole",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#c9c634",
+      "font": "bricolage",
+      "shape": "tecnico",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "scorrevole",
+      "gallery": "ritmo"
+    },
+    "key": "diviso|bricolage|60",
+    "attempt": 16,
+    "minDistance": 6
+  }
+}

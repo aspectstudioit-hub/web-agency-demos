@@ -1,0 +1,260 @@
+{
+  "design": {
+    "seed": "Autofficina Tesa · Verona",
+    "sector": "operai",
+    "palette": "dna:#5fa1f1",
+    "font": "bigshoulders",
+    "shape": "tecnico",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "copertina",
+    "intro": "appunto",
+    "grid": "5-7",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Autofficina Tesa",
+    "tagline": "Officina carburatori a Verona",
+    "category": "meccanico",
+    "phone": "045 806 9020",
+    "whatsapp": null,
+    "email": "officinatesa@tiscali.it",
+    "address": "Via Basso Acquar, 20/A, 37135 Verona VR",
+    "mapsQuery": "Autofficina Tesa, Via Basso Acquar, 20/A, 37135 Verona VR",
+    "hours": {
+      "lun": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "mar": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "mer": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "gio": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "ven": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.5,
+    "reviewCount": 22,
+    "reviewSource": "Google",
+    "vat": "02839540230"
+  },
+  "copy": {
+    "heroTitle": "Carburatori e restauro meccanico a Verona",
+    "heroSub": "Autofficina Tesa lavora su auto storiche e sportive: revisione di carburatori, messa a punto e restauro della meccanica. Chiamaci per parlare della tua auto.",
+    "introTitle": "Un'officina per le auto storiche",
+    "introText": "Autofficina Tesa è un'officina di Verona specializzata in carburatori e restauro della meccanica. Lavora su auto d'epoca, vetture sportive e automobili stradali, nel rispetto dell'originalità del veicolo.\n\nAlessandro e Federico portano avanti la tradizione dell'officina, nata negli anni '50. Per valutare la tua auto e le lavorazioni necessarie, ti consigliamo di fissare un appuntamento.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Restauro e messa a punto carburatori",
+        "text": "Revisione e messa a punto dei carburatori di numerosi marchi, con ricambi selezionati e lavorazioni accurate."
+      },
+      {
+        "title": "Restauro meccanica",
+        "text": "Interventi di restauro della meccanica di auto storiche e sportive, con attenzione a originalità ed efficienza."
+      },
+      {
+        "title": "Magazzino ricambi carburatori",
+        "text": "Ricambi per carburatori, dai piccoli componenti ai carburatori nuovi o revisionati."
+      }
+    ],
+    "ctaTitle": "Chiama l'officina o passa a trovarci a Verona"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.19,
+      "alt": "Carburatore d'epoca con piccoli componenti in ottone su un banco da lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.33,
+      "alt": "Foto di Autofficina Tesa"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.36,
+      "alt": "Foto di Autofficina Tesa"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1084,
+      "luma": 0.36,
+      "alt": "Foto di Autofficina Tesa"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:46:23.826Z",
+    "seed": "Autofficina Tesa · Verona",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "copertina",
+    "palette": {
+      "paper": "#1d1717",
+      "ink": "#ece2e4",
+      "accent": "#5fa1f1",
+      "surprise": "#d08b6d",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "bigshoulders",
+      "display": "Big Shoulders Display",
+      "body": "IBM Plex Sans",
+      "heroRatio": 9,
+      "titleLh": 0.81,
+      "track": "-0.005em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "indice",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "rombo",
+        "label": "Lavori",
+        "tilt": 4,
+        "magnet": 5,
+        "shapes": [],
+        "widgets": "arco"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "normale",
+        "gallery": "respiro",
+        "trust": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "bigshoulders",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#5fa1f1",
+      "font": "bigshoulders",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "copertina|bigshoulders|210",
+    "attempt": 45,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "esperienza-professionalita",
+      "section": "services",
+      "label": "Approfondisci: Autofficina Tesa carburatori",
+      "title": "Autofficina Tesa, carburatori per auto storiche a Verona",
+      "lead": "Dal 1950 a Verona, Autofficina Tesa si occupa di revisione, messa a punto e restauro dei carburatori per auto storiche e sportive.",
+      "paragraphs": [
+        "Autofficina Tesa è una realtà storica di Verona, fondata nel 1950. Si specializza nella revisione, nella messa a punto e nel restauro dei carburatori per auto storiche e sportive. Da oltre settant'anni è un punto di riferimento per collezionisti, restauratori e appassionati che vogliono preservare l'originalità e le prestazioni della propria vettura.",
+        "All'esperienza nella meccanica tradizionale l'officina affianca una conoscenza approfondita dei sistemi di alimentazione a carburatore. Gli interventi comprendono restauro meccanico, manutenzione e ripristino delle prestazioni. Un ampio magazzino ricambi dedicato ai carburatori permette di eseguire lavorazioni precise anche su componenti ormai difficili da reperire."
+      ],
+      "images": []
+    }
+  ]
+}

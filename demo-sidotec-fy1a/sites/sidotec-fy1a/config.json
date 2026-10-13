@@ -1,0 +1,214 @@
+{
+  "design": {
+    "seed": "SIDOTEC · San Giovanni Lupatoto",
+    "sector": "operai",
+    "palette": "dna:#cf3d32",
+    "font": "besley",
+    "shape": "tecnico",
+    "imageTreatment": "duotone",
+    "motion": "quieta",
+    "nav": "indice",
+    "hero": "tipografia",
+    "intro": "dichiarazione",
+    "grid": "5-7",
+    "services": "indice",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "SIDOTEC",
+    "tagline": "Elettricista a San Giovanni Lupatoto",
+    "category": "elettricista",
+    "phone": "045 485 5277",
+    "whatsapp": null,
+    "email": "info@sidotec.it",
+    "address": "Via Monte Altissimo, 17, 37057 San Giovanni Lupatoto VR",
+    "mapsQuery": "SIDOTEC, Via Monte Altissimo, 17, 37057 San Giovanni Lupatoto VR",
+    "hours": null,
+    "rating": 4.4,
+    "reviewCount": 11,
+    "reviewSource": "Google",
+    "vat": "04323300238"
+  },
+  "copy": {
+    "heroTitle": "Impianti elettrici e tecnologia per la casa, a San Giovanni Lupatoto",
+    "heroSub": "Sidotec lavora a San Giovanni Lupatoto, in provincia di Verona. Chiama per un guasto, un impianto da rifare o un lavoro da avviare.",
+    "introTitle": "Un'azienda nata dall'esperienza di soci specializzati",
+    "introText": "Sidotec è stata fondata nel 2015 da soci con competenze diverse, ciascuno specializzato in un preciso ambito di lavoro. Tra i componenti c'è un'esperienza nel settore che supera i trent'anni.\n\nLa sede operativa è in Via Monte Altissimo 17, a San Giovanni Lupatoto. Se hai un guasto o un impianto da realizzare, chiama e spiega di cosa hai bisogno.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Audio e video",
+        "text": "Impianti audio e video per l'abitazione e per gli ambienti di lavoro."
+      },
+      {
+        "title": "Reti dati e Wireless",
+        "text": "Reti dati e connessioni wireless per collegare dispositivi e ambienti."
+      },
+      {
+        "title": "Automazioni",
+        "text": "Sistemi di automazione per gestire in modo pratico gli impianti."
+      },
+      {
+        "title": "Fotovoltaico e accumulo",
+        "text": "Impianti fotovoltaici con sistemi di accumulo dell'energia."
+      },
+      {
+        "title": "Domotica",
+        "text": "Gestione della luce e delle funzioni della casa con sistemi domotici."
+      },
+      {
+        "title": "Sicurezza",
+        "text": "Antintrusione, videosorveglianza, rivelazione incendio e controllo accessi."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un impianto da fare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.7,
+      "alt": "Cavi elettrici, matasse di rame e scatole di derivazione ordinate su un banco da lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 800,
+      "luma": 0.39,
+      "alt": "Foto di SIDOTEC"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:47:12.979Z",
+    "seed": "SIDOTEC · San Giovanni Lupatoto",
+    "family": "elettricita",
+    "concept": {
+      "id": "interruttore",
+      "frase": "Acceso / spento: contrasti netti come uno scatto di interruttore, con lo stato \"aperto ora\" sempre in vista.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#f2e7e7",
+      "ink": "#2d1d1e",
+      "accent": "#cf3d32",
+      "surprise": "#62d9c4",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 10,
+      "titleLh": 0.89,
+      "track": "-0.03em",
+      "italicWord": true
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "nessuna",
+      "ratio": "1/1"
+    },
+    "nav": "indice",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "lettere",
+      "label": "Il titolo si compone lettera per lettera",
+      "ease": "cubic-bezier(.2,.8,.2,1)",
+      "dur": 900,
+      "stagger": 26,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Vedi",
+        "tilt": 5,
+        "magnet": 6,
+        "shapes": [
+          "cerchio",
+          "taglio",
+          "foglia"
+        ],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "punto",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "indice",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "normale",
+        "trust": "respiro",
+        "intro": "respiro",
+        "gallery": "normale",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "tecnico",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "indice",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#cf3d32",
+      "font": "besley",
+      "shape": "tecnico",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "indice",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "key": "tipografia|besley|0",
+    "attempt": 283,
+    "minDistance": 6
+  }
+}

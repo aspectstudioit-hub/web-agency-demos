@@ -1,0 +1,370 @@
+{
+  "design": {
+    "seed": "Ve.Co S.r.l. · San Giovanni Lupatoto",
+    "sector": "operai",
+    "palette": "dna:#c19c67",
+    "font": "archivo",
+    "shape": "morbido",
+    "imageTreatment": "duotone",
+    "motion": "quieta",
+    "nav": "angoli",
+    "hero": "scena",
+    "intro": "dichiarazione",
+    "grid": "7-5",
+    "services": "colonne",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Ve.Co S.r.l.",
+    "tagline": "Impresa edile a San Giovanni Lupatoto",
+    "category": "impresa edile",
+    "phone": "045 875 3558",
+    "whatsapp": null,
+    "email": "info@vecocostruzioni.it",
+    "address": "Via Monte Pastello, 5/D, 37057 San Giovanni Lupatoto VR",
+    "mapsQuery": "Ve.Co S.r.l., Via Monte Pastello, 5/D, 37057 San Giovanni Lupatoto VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "02371290236"
+  },
+  "copy": {
+    "heroTitle": "Costruiamo e ristrutturiamo con solide radici",
+    "heroSub": "Impresa di costruzioni a San Giovanni Lupatoto, in provincia di Verona. Edilizia civile e industriale, restauro e interventi antisismici.",
+    "introTitle": "Un'impresa edile nata da una famiglia",
+    "introText": "Ve.Co Costruzioni è un'impresa edile con sede a San Giovanni Lupatoto, in provincia di Verona. Siamo una realtà nata da un'unica famiglia e costruiamo dal 1946.\n\nLavoriamo su edilizia civile e industriale, restauro di edifici di pregio, interventi antisismici, efficienza energetica, edilizia sociale e opere stradali. Se hai un progetto da realizzare, contattaci.",
+    "servicesTitle": "Aree di intervento",
+    "services": [
+      {
+        "title": "Edilizia civile e industriale",
+        "text": "Costruzione di fabbricati civili e industriali, con attenzione alla funzionalità e al valore degli spazi."
+      },
+      {
+        "title": "Restauro ed edifici di pregio",
+        "text": "Interventi di recupero su edifici storici e di pregio, per conservarne il carattere nel tempo."
+      },
+      {
+        "title": "Interventi antisismici",
+        "text": "Soluzioni per migliorare la resistenza sismica di fabbricati civili e industriali, dai rinforzi in acciaio alle fibre di carbonio."
+      },
+      {
+        "title": "Efficienza energetica",
+        "text": "Isolamenti termici, solare termico, pompe di calore e impianti a biogas e biomasse."
+      },
+      {
+        "title": "Social housing",
+        "text": "Costruzione e recupero di patrimonio edilizio per l'edilizia sociale, con attenzione al benessere degli spazi abitativi."
+      },
+      {
+        "title": "Lavori stradali e reti",
+        "text": "Reti idriche, acquedotti, fognature, gasdotti, pavimentazioni stradali e opere di urbanizzazione."
+      }
+    ],
+    "ctaTitle": "Hai un progetto? Parliamone con noi"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.28,
+      "alt": "Dettaglio di un cantiere edile con blocchi di cemento, ferro d'armatura e livella su un muro in costruzione",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 800,
+      "luma": 0.45,
+      "alt": "Foto di Ve.Co S.r.l."
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 800,
+      "luma": 0.6,
+      "alt": "Foto di Ve.Co S.r.l."
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 800,
+      "luma": 0.4,
+      "alt": "Foto di Ve.Co S.r.l."
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:47:50.174Z",
+    "seed": "Ve.Co S.r.l. · San Giovanni Lupatoto",
+    "family": "cantiere",
+    "concept": {
+      "id": "stratigrafia",
+      "frase": "Gli strati del muro: sezioni impilate come strati di materiale, separate da una trama sottile come un'intercapedine.",
+      "extra": []
+    },
+    "archetype": "scena",
+    "palette": {
+      "paper": "#181513",
+      "ink": "#f0eeeb",
+      "accent": "#c19c67",
+      "surprise": "#b8d072",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "archivo",
+      "display": "Archivo",
+      "body": "Archivo",
+      "heroRatio": 10,
+      "titleLh": 0.87,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "angoli",
+    "heads": "filetto",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "tondo",
+        "label": "Lavori",
+        "tilt": 5,
+        "magnet": 6,
+        "shapes": [
+          "taglio",
+          "arco",
+          "foglia"
+        ],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "trama",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "colonne",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "denso",
+        "gallery": "respiro",
+        "trust": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "archivo",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "dichiarazione",
+      "grid": "7-5",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#c19c67",
+      "font": "archivo",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "dichiarazione",
+      "grid": "7-5",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "key": "scena|archivo|30",
+    "attempt": 21,
+    "minDistance": 7
+  },
+  "pages": [
+    {
+      "id": "edilizia-civile",
+      "section": "services",
+      "service": "Edilizia civile e industriale",
+      "label": "Approfondisci: Edilizia civile",
+      "title": "Edilizia civile e industriale | Ve.Co S.r.l.",
+      "lead": "Ve.Co S.r.l. interviene in edilizia civile, industriale, restauro di edifici di pregio e sismica, con attenzione a prevenzione e sicurezza.",
+      "paragraphs": [
+        "Le aree di intervento di Ve.Co sono quattro: edilizia civile, edilizia industriale, restauro ed edifici di pregio, sismica. Nell'edilizia civile l'impresa propone soluzioni in linea con le esigenze dei clienti, ispirandosi a principi fondamentali tra cui la gestione della consegna ultimata in ogni suo aspetto.",
+        "VECO è particolarmente sensibile ai temi di prevenzione e sicurezza del settore e opera in regime di qualità, secondo le norme in vigore, sia all'interno dell'azienda sia in cantiere, con impegno e rigore.",
+        "L'azienda opera con un sistema di gestione della sicurezza ISO 45001:2018, nei cantieri e al proprio interno, per ottemperare alle rigide norme del settore edile, particolarmente esposto a rischi. Tra i lavori presentati: bifamiliari e lottizzazioni nel veronese, le Residenze Bloom, la ristrutturazione di un appartamento in Classe A Casaclima e Palazzo Mastino a Verona."
+      ],
+      "images": [
+        {
+          "file": "pagina-edilizia-civile-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1413,
+          "luma": 0.63,
+          "alt": "Foto di Ve.Co S.r.l."
+        },
+        {
+          "file": "pagina-edilizia-civile-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1280,
+          "luma": 0.55,
+          "alt": "Foto di Ve.Co S.r.l."
+        },
+        {
+          "file": "pagina-edilizia-civile-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2133,
+          "luma": 0.53,
+          "alt": "Foto di Ve.Co S.r.l."
+        },
+        {
+          "file": "pagina-edilizia-civile-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1066,
+          "luma": 0.5,
+          "alt": "Foto di Ve.Co S.r.l."
+        }
+      ]
+    },
+    {
+      "id": "restauro-ed-edifici",
+      "section": "services",
+      "service": "Restauro ed edifici di pregio",
+      "label": "Approfondisci: Restauro ed edifici",
+      "title": "Restauro ed edifici di pregio",
+      "lead": "VECO affianca alle opere di edilizia di pregio gli interventi di restauro conservativo su beni soggetti a tutela, con attenzione al valore estetico.",
+      "paragraphs": [
+        "Nell'edilizia di pregio contano la capacità di analisi, l'ingegno e l'operatività di un'impresa. In questo settore VECO sceglie con cura e sensibilità le soluzioni migliori, con opere che cercano un equilibrio tra valore oggettivo e valore estetico.",
+        "Nel recupero di beni soggetti a tutela, VECO unisce la competenza e la sensibilità di architetti e tecnici del settore e realizza interventi di restauro conservativo.",
+        "Esperienza esecutiva, capacità di interpretazione e attitudine alla ricerca estetica sono le qualità necessarie perché ogni restauro conservi l'antica bellezza. La capacità di analizzare situazioni molto diverse permette di affrontare i problemi che si presentano."
+      ],
+      "images": [
+        {
+          "file": "pagina-restauro-ed-edifici-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1066,
+          "luma": 0.45,
+          "alt": "Foto di Ve.Co S.r.l."
+        },
+        {
+          "file": "pagina-restauro-ed-edifici-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1066,
+          "luma": 0.52,
+          "alt": "Foto di Ve.Co S.r.l."
+        },
+        {
+          "file": "pagina-restauro-ed-edifici-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1066,
+          "luma": 0.72,
+          "alt": "Foto di Ve.Co S.r.l."
+        },
+        {
+          "file": "pagina-restauro-ed-edifici-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1066,
+          "luma": 0.73,
+          "alt": "Foto di Ve.Co S.r.l."
+        }
+      ]
+    },
+    {
+      "id": "social-housing",
+      "section": "services",
+      "service": "Social housing",
+      "label": "Approfondisci: Social Housing",
+      "title": "Social Housing: una casa per chi oggi fatica a trovarla",
+      "lead": "VECO costruisce e recupera edilizia sociale per dare risposta a chi cerca una casa funzionale e sostenibile dal punto di vista economico.",
+      "paragraphs": [
+        "Esiste un patrimonio edilizio, costruito anche in tempi recenti, che non trova più collocazione sul mercato. L'edilizia sociale lavora proprio su questo patrimonio, costruendolo o recuperandolo.",
+        "Giovani coppie, pensionati, single e famiglie monoreddito possono trovare in questo settore risposte adatte alle proprie esigenze: oltre all'aspetto economico, contano il benessere e la funzionalità degli spazi abitativi.",
+        "In questo ambito VECO si relaziona con società di progetto, finanziarie e fondi, uniti dall'obiettivo comune di dare a tutti la possibilità di avere una casa."
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "design": {
+    "seed": "Godi Tecnomeccanica Di Godi Francesco · Z.a.i. Festara",
+    "sector": "operai",
+    "palette": "dna:#df7773",
+    "font": "hanken",
+    "shape": "morbido",
+    "imageTreatment": "contrasto",
+    "motion": "quieta",
+    "nav": "live",
+    "hero": "colonne",
+    "intro": "dichiarazione",
+    "grid": "5-7",
+    "services": "colonne",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Godi Tecnomeccanica Di Godi Francesco",
+    "tagline": "Officina meccanica a Bussolengo",
+    "category": "meccanico",
+    "phone": "045 671 7730",
+    "whatsapp": null,
+    "email": "info@goditecnomeccanica.it",
+    "address": "Via Pietro Vassanelli, 25, 37012 Z.a.i. Festara VR",
+    "mapsQuery": "Godi Tecnomeccanica Di Godi Francesco, Via Pietro Vassanelli, 25, 37012 Z.a.i. Festara VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "03038890236"
+  },
+  "copy": {
+    "heroTitle": "Stampi e meccanica",
+    "heroSub": "Utensileria, componenti e stampi termoplastici su misura per i settori meccanico, tessile, pellame, cartaceo e bigiotteria.",
+    "introTitle": "Un'officina meccanica a Bussolengo",
+    "introText": "Godi Tecnomeccanica nasce negli anni '70 a Bussolengo come officina meccanica. Oggi progetta e realizza utensileria, componentistica e stampi termoplastici per lo stampaggio ad iniezione.\n\nLavora per aziende dei settori meccanico, tessile, pellame, cartaceo e bigiotteria. Se hai un pezzo da realizzare o uno stampo da progettare, chiama l'officina: si parte da quello che serve a te.",
+    "servicesTitle": "Cosa realizziamo",
+    "services": [
+      {
+        "title": "Stampi termoplastici",
+        "text": "Progettazione e realizzazione di stampi termoplastici su misura del cliente, per lo stampaggio ad iniezione."
+      },
+      {
+        "title": "Utensileria industriale",
+        "text": "Utensili e manufatti in acciaio realizzati per le esigenze dei diversi settori produttivi."
+      },
+      {
+        "title": "Componenti meccanici",
+        "text": "Progettazione e realizzazione di componentistica e lavorazioni meccaniche di precisione."
+      },
+      {
+        "title": "Tornitura di precisione",
+        "text": "Lavorazioni di tornitura per manufatti di qualità, nei materiali e nel processo produttivo."
+      }
+    ],
+    "ctaTitle": "Hai un pezzo o uno stampo da realizzare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.12,
+      "alt": "Componenti in acciaio lavorati di precisione e metà di uno stampo su un banco da lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T06:50:17.548Z",
+    "seed": "Godi Tecnomeccanica Di Godi Francesco · Z.a.i. Festara",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "colonne",
+    "palette": {
+      "paper": "#171113",
+      "ink": "#efe2e8",
+      "accent": "#df7773",
+      "surprise": "#80cfd1",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "hanken",
+      "display": "Hanken Grotesk",
+      "body": "Hanken Grotesk",
+      "heroRatio": 10,
+      "titleLh": 0.89,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "indice",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Lavori",
+        "tilt": 4,
+        "magnet": 10,
+        "shapes": [
+          "foglia",
+          "taglio",
+          "arco"
+        ],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "gallery",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "colonne",
+      "gallery": "ritmo",
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "colonne",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "gallery": "normale",
+        "services": "respiro",
+        "trust": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "hanken",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "colonne",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#df7773",
+      "font": "hanken",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "colonne",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "ritmo"
+    },
+    "key": "colonne|hanken|0",
+    "attempt": 486,
+    "minDistance": 7
+  }
+}
