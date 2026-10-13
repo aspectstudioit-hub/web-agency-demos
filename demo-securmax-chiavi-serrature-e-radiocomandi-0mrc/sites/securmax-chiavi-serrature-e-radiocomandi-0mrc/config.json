@@ -1,0 +1,321 @@
+{
+  "design": {
+    "seed": "Securmax Chiavi Serrature e Radiocomandi · Verona",
+    "sector": "operai",
+    "palette": "dna:#237fcb",
+    "font": "funnel",
+    "shape": "pillola",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "angoli",
+    "hero": "collage",
+    "intro": "dichiarazione",
+    "grid": "5-7",
+    "services": "scorrevole",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Securmax Chiavi Serrature e Radiocomandi",
+    "tagline": "Fabbro a Verona",
+    "category": "fabbro",
+    "phone": "045 800 7524",
+    "whatsapp": null,
+    "email": "info@securmax.it",
+    "address": "Via Adigetto, 17/A, 37122 Verona VR",
+    "mapsQuery": "Securmax Chiavi Serrature e Radiocomandi, Via Adigetto, 17/A, 37122 Verona VR",
+    "hours": {
+      "lun": [
+        "09:00-12:30",
+        "15:30-19:00"
+      ],
+      "mar": [
+        "09:00-12:30",
+        "15:30-19:00"
+      ],
+      "mer": [
+        "09:00-12:30",
+        "15:30-19:00"
+      ],
+      "gio": [
+        "09:00-12:30",
+        "15:30-19:00"
+      ],
+      "ven": [
+        "09:00-12:30",
+        "15:30-19:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.8,
+    "reviewCount": 83,
+    "reviewSource": "Google",
+    "vat": "04343090231"
+  },
+  "copy": {
+    "heroTitle": "Chiavi e serrature",
+    "heroSub": "Duplicazione chiavi e radiocomandi, sostituzione serrature e pronto intervento per lo sblocco a Verona, in via Adigetto.",
+    "introTitle": "Il tuo fabbro a Verona",
+    "introText": "Securmax è un punto vendita in via Adigetto, a Verona, dedicato a chiavi, serrature e radiocomandi. Si occupa di produzione e duplicazione di chiavi, di serrature e cilindri di sicurezza, di casseforti e di prodotti per la sicurezza passiva.\n\nSe sei chiuso fuori o hai una serratura che non funziona, c'è il servizio di pronto intervento per l'apertura e lo sblocco. Chiama o passa in negozio: qualcuno ti risponde.",
+    "servicesTitle": "I servizi",
+    "services": [
+      {
+        "title": "Duplicazione chiavi",
+        "text": "Duplicazione di chiavi di casa, chiavi auto e chiavi con tessera, con un ampio assortimento di chiavi disponibili."
+      },
+      {
+        "title": "Duplicazione radiocomandi",
+        "text": "Copia dei radiocomandi, anche per cancelli."
+      },
+      {
+        "title": "Sostituzione serrature",
+        "text": "Sostituzione di serrature e cilindri di sicurezza, con riparazione delle serrature."
+      },
+      {
+        "title": "Pronto intervento",
+        "text": "Apertura e sblocco delle serrature quando resti chiuso fuori o la serratura non risponde."
+      },
+      {
+        "title": "Casseforti",
+        "text": "Casseforti a mobile e a muro, con riparazione delle casseforti."
+      }
+    ],
+    "ctaTitle": "Hai un problema con una serratura? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.42,
+      "alt": "Chiavi e componenti di cilindri di sicurezza appoggiati su un banco di legno scuro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1412,
+      "luma": 0.83,
+      "alt": "Foto di Securmax Chiavi Serrature e Radiocomandi"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.58,
+      "alt": "Foto di Securmax Chiavi Serrature e Radiocomandi"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.27,
+      "alt": "Foto di Securmax Chiavi Serrature e Radiocomandi"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-13T13:41:56.124Z",
+    "seed": "Securmax Chiavi Serrature e Radiocomandi · Verona",
+    "family": "cantiere",
+    "concept": {
+      "id": "stratigrafia",
+      "frase": "Gli strati del muro: sezioni impilate come strati di materiale, separate da una trama sottile come un'intercapedine.",
+      "extra": []
+    },
+    "archetype": "collage",
+    "palette": {
+      "paper": "#f4ebeb",
+      "ink": "#260f14",
+      "accent": "#237fcb",
+      "surprise": "#c9ad47",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "funnel",
+      "display": "Funnel Display",
+      "body": "Funnel Sans",
+      "heroRatio": 8,
+      "titleLh": 0.87,
+      "track": "-0.045em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "angoli",
+    "heads": "margine",
+    "button": "blocco",
+    "badge": "orologio",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 8,
+        "shapes": [
+          "taglio",
+          "arco",
+          "cerchio"
+        ],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "trama",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "gallery",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "scorrevole",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "gallery": "denso",
+        "services": "respiro",
+        "trust": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "funnel",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "collage",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#237fcb",
+      "font": "funnel",
+      "shape": "pillola",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "collage",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "key": "collage|funnel|210",
+    "attempt": 37,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "duplicazione-chiavi",
+      "section": "services",
+      "service": "Duplicazione chiavi",
+      "label": "Approfondisci: Duplicazione chiavi a Verona",
+      "title": "Duplicazione chiavi a Verona",
+      "lead": "Chiavi a doppia mappa, Chiavi piatte classiche, Chiavi a pompa, Chiavi punzonate con o senza tessera di proprietà, Chiavi a pista, Chiavi a spillo, Chiavi per a",
+      "paragraphs": [
+        "SECURMAX come KABA POINT ha, inoltre, la possibilità di duplicare le chiavi KABA per UFO MERONI",
+        "Le serrature di sicurezza rappresentano il primo, fondamentale deterrente utile a proteggere gli ambienti dai tentativi di intrusione. La porta blindata o la grata di sicurezza, soprattutto se munite di tecnologie anti scasso, possono fornire una protezione adeguata sia agli ambienti domestici che ai negozi e agli uffici. Da Securmax potrete acquistare la serratura più adatta alle vostre esigenze, usufruendo della co"
+      ],
+      "images": []
+    },
+    {
+      "id": "duplicazione-radiocomandi",
+      "section": "services",
+      "service": "Duplicazione radiocomandi",
+      "label": "Approfondisci: Duplicazione di radiocomandi",
+      "title": "Duplicazione di radiocomandi e chiavi auto a Verona",
+      "lead": "Securmax, con sede a Verona, duplica radiocomandi residenziali e chiavi auto con strumentazione diagnostica e personale in formazione continua.",
+      "paragraphs": [
+        "Securmax duplica radiocomandi residenziali, sia originali che universali, utilizzando una strumentazione diagnostica all'avanguardia pensata per rispondere alle esigenze di chi si rivolge a loro.",
+        "I sistemi più innovativi prevedono dispositivi elettronici che aprono e chiudono con praticità porte e cancelli. L'obiettivo di Securmax resta lo stesso: fornire uno strumento che dia tranquillità e sicurezza a te, ai tuoi cari e agli oggetti a cui tieni di più.",
+        "Il servizio riguarda anche la chiave auto, che viene duplicata sia con apertura manuale sia con radiocomando, grazie a una tecnologia all'avanguardia e alla formazione continua del personale. Se il guscio è rovinato, Securmax lo sostituisce e restituisce nuova vita alla chiave. L'attività si occupa inoltre di serrature di sicurezza con chiavi non riproducibili."
+      ],
+      "images": [
+        {
+          "file": "pagina-duplicazione-radiocomandi-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 899,
+          "luma": 0.5,
+          "alt": "Foto di Securmax Chiavi Serrature e Radiocomandi"
+        },
+        {
+          "file": "pagina-duplicazione-radiocomandi-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1023,
+          "luma": 0.42,
+          "alt": "Foto di Securmax Chiavi Serrature e Radiocomandi"
+        },
+        {
+          "file": "pagina-duplicazione-radiocomandi-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1005,
+          "luma": 0.41,
+          "alt": "Foto di Securmax Chiavi Serrature e Radiocomandi"
+        }
+      ]
+    }
+  ]
+}
