@@ -1,0 +1,147 @@
+{
+  "design": {
+    "seed": "Amk Blindati - Porte e Serramenti · San Giovanni Lupatoto",
+    "sector": "operai",
+    "palette": "notte-acciaio",
+    "font": "archivo",
+    "shape": "tecnico",
+    "imageTreatment": "duotone",
+    "motion": "quieta",
+    "nav": "trasparente",
+    "hero": "split",
+    "intro": "sfalsata",
+    "grid": "4-8",
+    "services": "tabella",
+    "gallery": "mosaico"
+  },
+  "business": {
+    "name": "Amk Blindati - Porte e Serramenti",
+    "tagline": "Fabbro e serramenti a San Giovanni Lupatoto",
+    "category": "fabbro",
+    "phone": "347 295 5705",
+    "whatsapp": "+393472955705",
+    "email": "info@amkblindati.com",
+    "address": "Via Cà Nova Zampieri, 15, 37057 San Giovanni Lupatoto VR",
+    "mapsQuery": "Amk Blindati - Porte e Serramenti, Via Cà Nova Zampieri, 15, 37057 San Giovanni Lupatoto VR",
+    "hours": {
+      "lun": [
+        "07:00-12:00",
+        "13:00-18:30"
+      ],
+      "mar": [
+        "07:00-12:00",
+        "13:00-18:30"
+      ],
+      "mer": [
+        "07:00-12:00",
+        "13:00-18:30"
+      ],
+      "gio": [
+        "07:00-12:00",
+        "13:00-18:30"
+      ],
+      "ven": [
+        "07:00-12:00",
+        "13:00-18:30"
+      ],
+      "sab": [
+        "07:00-12:00"
+      ],
+      "dom": []
+    },
+    "rating": 3.5,
+    "reviewCount": 44,
+    "reviewSource": "Google",
+    "vat": "03666920230"
+  },
+  "copy": {
+    "heroTitle": "Porte blindate e serramenti su misura",
+    "heroSub": "AMK Blindati produce e rivende serramenti e infissi a Verona. Chiama il punto vendita per informazioni e preventivi.",
+    "introTitle": "Serramenti e sicurezza per casa e attività",
+    "introText": "AMK Blindati – Porte e Serramenti produce e rivende infissi e serramenti in alluminio, legno e metallo, realizzati su misura. Dalle porte blindate ai cancelli, dalle inferriate alle porte da garage.\n\nIl punto vendita è a San Giovanni Lupatoto, in Via Cà Nova Zampieri 15. Chiama o passa in negozio: i preventivi sono gratuiti e senza impegno.",
+    "servicesTitle": "I nostri prodotti",
+    "services": [
+      {
+        "title": "Porte blindate",
+        "text": "Porte blindate e serramenti blindati per la sicurezza di casa e attività."
+      },
+      {
+        "title": "Scuri e persiane blindate",
+        "text": "Scuri blindati e persiane blindate, con inferriate e recinzioni."
+      },
+      {
+        "title": "Cancelli",
+        "text": "Cancelli scorrevoli e cancelli pedonali su misura."
+      },
+      {
+        "title": "Porte garage",
+        "text": "Porte sezionali, basculanti e porte da garage."
+      },
+      {
+        "title": "Infissi e serramenti",
+        "text": "Serramenti in alluminio, legno e metallo, con zanzariere e tapparelle."
+      },
+      {
+        "title": "Casseforti",
+        "text": "Casseforti, caveau e panic room per proteggere ciò che conta."
+      }
+    ],
+    "ctaTitle": "Chiama e chiedi un preventivo gratuito"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.16,
+      "alt": "Dettaglio di un telaio in acciaio e di cerniere per porta blindata in un'officina",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 2133,
+      "luma": 0.36,
+      "alt": "Foto di Amk Blindati - Porte e Serramenti"
+    }
+  ],
+  "pages": [
+    {
+      "id": "produzione-e-vendita",
+      "section": "services",
+      "label": "Approfondisci: Serramenti su misura",
+      "title": "Serramenti su misura a Verona: Amk Blindati",
+      "lead": "Amk Blindati produce a Verona serramenti su misura in alluminio, legno e metallo, con una particolare attenzione ai prodotti sicuri.",
+      "paragraphs": [
+        "Amk Blindati – Porte e Serramenti realizza serramenti su misura a Verona, in alluminio, in legno e in metallo. Il lavoro parte dalla passione per la creazione di prodotti sicuri, ed è per questo che i serramenti blindati sono un punto di riferimento dell'attività, anche se non l'unico.",
+        "Accanto alle soluzioni blindate l'azienda produce infissi su misura più tradizionali, da interno e da esterno. I materiali disponibili sono il legno, l'alluminio, il PVC, il marmo e la pelle.",
+        "L'attività comprende anche la realizzazione e il montaggio di porte blindate a Verona, le casseforti a muro e l'allestimento di panic room. Per avere più informazioni sui servizi o richiedere un preventivo gratuito e senza impegno, è possibile contattare l'azienda."
+      ],
+      "images": []
+    },
+    {
+      "id": "blindati-stile-e-sicurezza",
+      "section": "services",
+      "label": "Approfondisci: Serramenti blindati",
+      "title": "Serramenti blindati: stile e sicurezza",
+      "lead": "I serramenti blindati di Amk Blindati a Verona uniscono protezione e aspetto curato, per rispondere a esigenze diverse.",
+      "paragraphs": [
+        "I nostri serramenti blindati a Verona sono pensati per soddisfare le più diverse esigenze dei clienti. Sono costruiti con materiali di alta qualità, rivestiti di materiale pregiato: una soluzione che unisce stile e sicurezza.",
+        "Per noi difendersi è sia una questione di necessità sia un fatto di stile.",
+        "Realizziamo anche caveau e panic room, per proteggere al meglio ciò che conta: gioielli, denaro, documenti, opere d'arte e qualsiasi cosa debba essere tenuta al sicuro. Forniamo inoltre casseforti progettate con materiale di altissima qualità e dotate di sistemi di sicurezza complessi ed efficienti, con un design esclusivo."
+      ],
+      "images": []
+    }
+  ]
+}
