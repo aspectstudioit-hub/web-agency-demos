@@ -1,0 +1,194 @@
+{
+  "design": {
+    "seed": "CUORE VERDE passione per il giardinaggio · Strà-Montanara-Pieve",
+    "sector": "operai",
+    "palette": "dna:#8cd138",
+    "font": "barlow",
+    "shape": "morbido",
+    "imageTreatment": "caldo",
+    "motion": "quieta",
+    "nav": "angoli",
+    "hero": "scena",
+    "intro": "citazione",
+    "grid": "3-9",
+    "services": "indice",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "CUORE VERDE passione per il giardinaggio",
+    "tagline": "Giardiniere a Strà-Montanara-Pieve",
+    "category": "giardiniere",
+    "phone": "340 539 7715",
+    "whatsapp": "+393405397715",
+    "email": "luca@cuoreverde.eu",
+    "address": "Via Cavour, 59, 37030 Strà-Montanara-Pieve VR",
+    "mapsQuery": "CUORE VERDE passione per il giardinaggio, Via Cavour, 59, 37030 Strà-Montanara-Pieve VR",
+    "hours": null,
+    "rating": 5,
+    "reviewCount": 30,
+    "reviewSource": "Google",
+    "vat": "04316430232"
+  },
+  "copy": {
+    "heroTitle": "Il tuo giardino, curato con passione",
+    "heroSub": "Cuore Verde di Luca Massella: progettazione, irrigazione, manutenzione del verde e potature a Strà-Montanara-Pieve. Chiamaci per parlare del tuo giardino.",
+    "introTitle": "Un giardiniere vicino a te",
+    "introText": "Cuore Verde è l'attività di Luca Massella, nata dalla passione per il giardinaggio. Si occupa di giardini e aree verdi a Strà-Montanara-Pieve, nel veronese, dalla progettazione alla cura quotidiana.\n\nSe hai un giardino da realizzare, una siepe da sistemare o un albero da potare, scrivici o chiamaci. Ti ascoltiamo e partiamo da ciò che serve davvero al tuo spazio verde.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Ideazione e realizzazione giardini",
+        "text": "Dall'idea alla realizzazione di giardini adatti agli spazi e alle esigenze di chi li vive."
+      },
+      {
+        "title": "Impianti di irrigazione",
+        "text": "Impianti di irrigazione per mantenere in salute prati, siepi e piante del tuo giardino."
+      },
+      {
+        "title": "Cura e manutenzione aree verdi",
+        "text": "Manutenzione di giardini e aree verdi, per tenere ordinati e curati i tuoi spazi all'aperto."
+      },
+      {
+        "title": "Potature alberi d'alto fusto",
+        "text": "Potatura di alberi d'alto fusto per gestire la chioma e mantenere il verde in buone condizioni."
+      },
+      {
+        "title": "Potature olivi",
+        "text": "Potatura degli olivi, per accompagnare la crescita e la cura di queste piante."
+      }
+    ],
+    "ctaTitle": "Chiama Cuore Verde per il tuo giardino"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.24,
+      "alt": "Ramo di olivo appena potato e cesoie da giardino appoggiate sulla terra",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T08:58:18.903Z",
+    "seed": "CUORE VERDE passione per il giardinaggio · Strà-Montanara-Pieve",
+    "family": "verde",
+    "concept": {
+      "id": "stagioni",
+      "frase": "Le stagioni: le sezioni cambiano tono come un giardino nel corso dell'anno, immagini larghe e foglie come segni di paragrafo.",
+      "extra": []
+    },
+    "archetype": "scena",
+    "palette": {
+      "paper": "#eff0ea",
+      "ink": "#23230f",
+      "accent": "#8cd138",
+      "surprise": "#5a3bd0",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "barlow",
+      "display": "Barlow Condensed",
+      "body": "Barlow",
+      "heroRatio": 10,
+      "titleLh": 0.87,
+      "track": "-0.01em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "caldo",
+      "mask": "obliquo",
+      "ratio": "3/2"
+    },
+    "nav": "angoli",
+    "heads": "parola",
+    "button": "contorno",
+    "badge": "punto",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "tondo",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 9,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "foglia",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "indice",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "denso",
+        "services": "respiro",
+        "gallery": "denso",
+        "trust": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "barlow",
+      "shape": "morbido",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#8cd138",
+      "font": "barlow",
+      "shape": "morbido",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "key": "scena|barlow|90",
+    "attempt": 19,
+    "minDistance": 6
+  }
+}

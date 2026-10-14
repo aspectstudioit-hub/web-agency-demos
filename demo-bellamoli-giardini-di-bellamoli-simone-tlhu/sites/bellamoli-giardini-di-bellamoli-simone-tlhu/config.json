@@ -1,0 +1,215 @@
+{
+  "design": {
+    "seed": "Bellamoli Giardini Di Bellamoli Simone · Montorio",
+    "sector": "operai",
+    "palette": "dna:#38da30",
+    "font": "archivo",
+    "shape": "filetto",
+    "imageTreatment": "caldo",
+    "motion": "quieta",
+    "nav": "live",
+    "hero": "indice",
+    "intro": "citazione",
+    "grid": "5-7",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Bellamoli Giardini Di Bellamoli Simone",
+    "tagline": "Giardiniere a Montorio, Verona",
+    "category": "giardiniere",
+    "phone": "348 613 0104",
+    "whatsapp": "+393486130104",
+    "email": "info@bellamoligiardini.it",
+    "address": "Via dei Peschi, 37141 Montorio VR",
+    "mapsQuery": "Bellamoli Giardini Di Bellamoli Simone, Via dei Peschi, 37141 Montorio VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "02479170231"
+  },
+  "copy": {
+    "heroTitle": "Giardini progettati, costruiti e curati con cura a Verona",
+    "heroSub": "Progettazione, realizzazione e manutenzione di giardini e spazi verdi, privati e pubblici. Chiama per parlare del tuo spazio verde.",
+    "introTitle": "Il tuo giardino, dal progetto alla manutenzione",
+    "introText": "Bellamoli Giardini di Bellamoli Simone si occupa di progettazione, realizzazione e manutenzione di giardini e spazi verdi pubblici e privati. Il lavoro parte dall'ascolto delle esigenze di chi il giardino lo vive.\n\nSimone Bellamoli segue personalmente la realizzazione, lavorando in cantiere insieme alle squadre di operai specializzati. Se hai un giardino da creare o da curare, chiama o scrivi.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Progettazione",
+        "text": "Si ascoltano esigenze e desideri del cliente, poi viene presentata un'ipotesi di progetto da approvare."
+      },
+      {
+        "title": "Realizzazione",
+        "text": "Livellamento del terreno, impianti di irrigazione e illuminazione, piantumazione e formazione dei tappeti erbosi."
+      },
+      {
+        "title": "Manutenzione",
+        "text": "Manutenzione ordinaria e straordinaria: potatura di alberi, arbusti e siepi, gestione del tappeto erboso."
+      },
+      {
+        "title": "Consulenza",
+        "text": "Consulenza agronomica e fitopatologia, con analisi di stabilità degli alberi."
+      }
+    ],
+    "ctaTitle": "Hai un giardino da curare? Chiamaci o scrivici"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.56,
+      "alt": "Aiuola curata con arbusti giovani, terra fresca e bordo di prato rifilato",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T08:58:45.569Z",
+    "seed": "Bellamoli Giardini Di Bellamoli Simone · Montorio",
+    "family": "verde",
+    "concept": {
+      "id": "stagioni",
+      "frase": "Le stagioni: le sezioni cambiano tono come un giardino nel corso dell'anno, immagini larghe e foglie come segni di paragrafo.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#edf2ec",
+      "ink": "#1a2618",
+      "accent": "#38da30",
+      "surprise": "#b866bc",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "archivo",
+      "display": "Archivo",
+      "body": "Archivo",
+      "heroRatio": 10,
+      "titleLh": 0.91,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "caldo",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "lettere",
+      "label": "Il titolo si compone lettera per lettera",
+      "ease": "cubic-bezier(.2,.8,.2,1)",
+      "dur": 900,
+      "stagger": 26,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Lavori",
+        "tilt": 3,
+        "magnet": 10,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "foglia",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "trust": "respiro",
+        "intro": "denso",
+        "gallery": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "archivo",
+      "shape": "filetto",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "indice",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#38da30",
+      "font": "archivo",
+      "shape": "filetto",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "indice",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "indice|archivo|120",
+    "attempt": 40,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "analisi-di-stabilita-degli",
+      "section": "intro",
+      "label": "Approfondisci: Analisi di stabilità degli",
+      "title": "Analisi di stabilità degli alberi e interventi sul verde",
+      "lead": "Verifica della stabilità con il metodo VTA e strumenti di precisione, insieme a interventi e progettazione per alberi, giardini e aree difficili.",
+      "paragraphs": [
+        "La stabilità degli alberi si verifica con il metodo VTA e con strumenti di precisione: resistograph, frattometro e martello ad impulsi.",
+        "Per la cura delle piante sono previste schede per interventi antiparassitari specifici e interventi con presidi e tecniche di lotta biologica.",
+        "Per le aree difficili, monumentali e per i parchi storici si usano tecniche di ingegneria naturalistica per il ripristino. Sono inoltre redatte perizie agronomiche specifiche, anche per il consolidamento di scarpate e pendii, con progettazione e direzione lavori per il recupero di piante, l'abbattimento o interventi straordinari su alberi e giardini."
+      ],
+      "images": []
+    },
+    {
+      "id": "consulenza",
+      "section": "services",
+      "label": "Approfondisci: Consulenza agronomica",
+      "title": "Consulenza agronomica e fitopatologica per il verde",
+      "lead": "Bellamoli Giardini affronta i problemi del verde ornamentale con conoscenza agronomica e fitopatologica e con il supporto di dottori forestali e consulenti tecnici.",
+      "paragraphs": [
+        "Bellamoli Giardini opera con una conoscenza approfondita delle problematiche agronomiche e fitopatologiche. Si avvale di sistemi innovativi, grazie alla collaborazione con i migliori dottori forestali e consulenti tecnici.",
+        "Questa collaborazione pluriennale ha permesso una crescita reciproca della professionalità nell'affrontare e risolvere i problemi legati alla costruzione e alla gestione del verde ornamentale."
+      ],
+      "images": []
+    }
+  ]
+}
