@@ -1,0 +1,789 @@
+{
+  "threshold": 6,
+  "sites": [
+    {
+      "slug": "esempio-idraulico",
+      "fingerprint": {
+        "palette": "cantiere",
+        "font": "barlow",
+        "shape": "tecnico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "filetto",
+        "hero": "split",
+        "intro": "margine",
+        "grid": "4-8",
+        "services": "righe",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "esempio-ristorante",
+      "fingerprint": {
+        "palette": "notte-ambra",
+        "font": "fraunces",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "trasparente",
+        "hero": "arco",
+        "intro": "sovrapposta",
+        "grid": "7-5",
+        "services": "menu",
+        "gallery": "colonne"
+      }
+    },
+    {
+      "slug": "esempio-parrucchiere",
+      "fingerprint": {
+        "palette": "cipria",
+        "font": "instrument",
+        "shape": "organico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "pillola",
+        "hero": "wordmark",
+        "intro": "sfalsata",
+        "grid": "5-7",
+        "services": "schede",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "idraulico-de-bortoli-massimo-dyj8",
+      "fingerprint": {
+        "palette": "dna:#119fc7",
+        "font": "besley",
+        "shape": "morbido",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "indice",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "parrucchiere-alessandra-di-marco-pt8u",
+      "fingerprint": {
+        "palette": "dna:#c4996e",
+        "font": "spectral",
+        "shape": "organico",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "indice",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "idraulica-dal-bello-snc-ttw4",
+      "fingerprint": {
+        "palette": "dna:#e6961d",
+        "font": "anton",
+        "shape": "pillola",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "indice",
+        "hero": "tipografia",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "indice",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "al-bo-2-srl-pky4",
+      "fingerprint": {
+        "palette": "dna:#70abdd",
+        "font": "bricolage",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "diviso",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "idraulica-fiorini-s-r-l-mc8q",
+      "fingerprint": {
+        "palette": "dna:#64d412",
+        "font": "archivo",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "indice",
+        "intro": "citazione",
+        "grid": "3-9",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "r-b-termoidraulica-ga1m",
+      "fingerprint": {
+        "palette": "dna:#2863c7",
+        "font": "hanken",
+        "shape": "pillola",
+        "imageTreatment": "naturale",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "colonne",
+        "intro": "dichiarazione",
+        "grid": "4-8",
+        "services": "elenco",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "maurizio-acconciature-estetica-4ti0",
+      "fingerprint": {
+        "palette": "dna:#e5558c",
+        "font": "gloock",
+        "shape": "organico",
+        "imageTreatment": "caldo",
+        "motion": "elastica",
+        "nav": "sipario",
+        "hero": "collage",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "scorrevole",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "new-capelli-di-sabrina-manganotti-e-stef-jcwu",
+      "fingerprint": {
+        "palette": "dna:#db8765",
+        "font": "hedvig",
+        "shape": "pillola",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "citazione",
+        "grid": "4-8",
+        "services": "colonne",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "hair-lab-wafq",
+      "fingerprint": {
+        "palette": "dna:#cc642c",
+        "font": "instrument",
+        "shape": "filetto",
+        "imageTreatment": "bn",
+        "motion": "elastica",
+        "nav": "indice",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "colonne",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "head-lab-hairdresser-ddz0",
+      "fingerprint": {
+        "palette": "dna:#af2b4e",
+        "font": "syne",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "manifesto",
+        "intro": "dichiarazione",
+        "grid": "4-8",
+        "services": "indice",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "avvocato-zeno-domaschio-xtzy",
+      "fingerprint": {
+        "palette": "dna:#22cf99",
+        "font": "onest",
+        "shape": "tecnico",
+        "imageTreatment": "bn",
+        "motion": "elastica",
+        "nav": "angoli",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "3-9",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "studio-legale-avanzi-ql0y",
+      "fingerprint": {
+        "palette": "dna:#65aae5",
+        "font": "fraunces",
+        "shape": "tecnico",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "sipario",
+        "hero": "colonne",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "elenco",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "valentina-beauty-studio-u2is",
+      "fingerprint": {
+        "palette": "dna:#57d59d",
+        "font": "bodoni",
+        "shape": "arco",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "angoli",
+        "hero": "collage",
+        "intro": "citazione",
+        "grid": "4-8",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "estetista-il-bistro-del-benessere-h8og",
+      "fingerprint": {
+        "palette": "dna:#dea455",
+        "font": "cormorant",
+        "shape": "arco",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "indice",
+        "hero": "tipografia",
+        "intro": "citazione",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "centro-estetico-gentleman-nt2c",
+      "fingerprint": {
+        "palette": "dna:#d59e39",
+        "font": "italiana",
+        "shape": "arco",
+        "imageTreatment": "caldo",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "scena",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "fiorini-adami-srl-tvtw",
+      "fingerprint": {
+        "palette": "dna:#3493c7",
+        "font": "funnel",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "diviso",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "indice",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "officine-perusi-s-r-l-zhok",
+      "fingerprint": {
+        "palette": "dna:#d9592f",
+        "font": "schibsted",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "elastica",
+        "nav": "sipario",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "4-8",
+        "services": "scorrevole",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "impianti-elettrici-avesani-dario-cqvk",
+      "fingerprint": {
+        "palette": "dna:#e45d46",
+        "font": "anton",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "copertina",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "mattiello-group-srl-revisioni-auto-busso-qs8o",
+      "fingerprint": {
+        "palette": "dna:#52a2e3",
+        "font": "hanken",
+        "shape": "tecnico",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "angoli",
+        "hero": "collage",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "scorrevole",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "officine-meccaniche-revisioni-bertelli-1rfs",
+      "fingerprint": {
+        "palette": "dna:#d8c765",
+        "font": "besley",
+        "shape": "morbido",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "tipografia",
+        "intro": "citazione",
+        "grid": "4-8",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "autoriparazioni-castagna-w7ze",
+      "fingerprint": {
+        "palette": "dna:#4a44a6",
+        "font": "onest",
+        "shape": "tecnico",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "scena",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "indice",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "marcolini-costruzioni-vw6q",
+      "fingerprint": {
+        "palette": "dna:#c9c634",
+        "font": "bricolage",
+        "shape": "tecnico",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "diviso",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "scorrevole",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "rapax-restauri-e-costruzioni-edili-0foe",
+      "fingerprint": {
+        "palette": "dna:#c26e21",
+        "font": "barlow",
+        "shape": "pillola",
+        "imageTreatment": "bn",
+        "motion": "quieta",
+        "nav": "angoli",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "3-9",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "officina-fratelli-boscaini-tjgg",
+      "fingerprint": {
+        "palette": "dna:#1f75c8",
+        "font": "anton",
+        "shape": "morbido",
+        "imageTreatment": "bn",
+        "motion": "scattante",
+        "nav": "sipario",
+        "hero": "manifesto",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "elenco",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "autofficina-tesa-p01a",
+      "fingerprint": {
+        "palette": "dna:#5fa1f1",
+        "font": "bigshoulders",
+        "shape": "tecnico",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "copertina",
+        "intro": "appunto",
+        "grid": "5-7",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "sidotec-fy1a",
+      "fingerprint": {
+        "palette": "dna:#cf3d32",
+        "font": "besley",
+        "shape": "tecnico",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "indice",
+        "hero": "tipografia",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "indice",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "ve-co-s-r-l-4bgo",
+      "fingerprint": {
+        "palette": "dna:#c19c67",
+        "font": "archivo",
+        "shape": "morbido",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "angoli",
+        "hero": "scena",
+        "intro": "dichiarazione",
+        "grid": "7-5",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "godi-tecnomeccanica-di-godi-francesco-zvjy",
+      "fingerprint": {
+        "palette": "dna:#df7773",
+        "font": "hanken",
+        "shape": "morbido",
+        "imageTreatment": "contrasto",
+        "motion": "quieta",
+        "nav": "live",
+        "hero": "colonne",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "colonne",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "g-r-impianti-san-giovanni-lupatoto-w5ec",
+      "fingerprint": {
+        "palette": "dna:#bba224",
+        "font": "onest",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "7-5",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "tepor-di-poletto-geom-paolo-c-s-n-c-eu9u",
+      "fingerprint": {
+        "palette": "dna:#24c7cf",
+        "font": "anton",
+        "shape": "filetto",
+        "imageTreatment": "naturale",
+        "motion": "quieta",
+        "nav": "angoli",
+        "hero": "diviso",
+        "intro": "citazione",
+        "grid": "5-7",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "amk-blindati-porte-e-serramenti-skpc",
+      "fingerprint": {
+        "palette": "notte-acciaio",
+        "font": "archivo",
+        "shape": "tecnico",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "trasparente",
+        "hero": "split",
+        "intro": "sfalsata",
+        "grid": "4-8",
+        "services": "tabella",
+        "gallery": "mosaico"
+      }
+    },
+    {
+      "slug": "securmax-chiavi-serrature-e-radiocomandi-0mrc",
+      "fingerprint": {
+        "palette": "dna:#237fcb",
+        "font": "funnel",
+        "shape": "pillola",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "collage",
+        "intro": "dichiarazione",
+        "grid": "5-7",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "falegnameria-viviani-e-zanardi-lqki",
+      "fingerprint": {
+        "palette": "dna:#d44f12",
+        "font": "bigshoulders",
+        "shape": "pillola",
+        "imageTreatment": "caldo",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "manifesto",
+        "intro": "citazione",
+        "grid": "5-7",
+        "services": "elenco",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "falegnameria-2000-snc-dwzm",
+      "fingerprint": {
+        "palette": "dna:#d19d72",
+        "font": "besley",
+        "shape": "tecnico",
+        "imageTreatment": "naturale",
+        "motion": "scattante",
+        "nav": "indice",
+        "hero": "copertina",
+        "intro": "appunto",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "cuore-verde-passione-per-il-giardinaggio-gnj0",
+      "fingerprint": {
+        "palette": "dna:#8cd138",
+        "font": "barlow",
+        "shape": "morbido",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "angoli",
+        "hero": "scena",
+        "intro": "citazione",
+        "grid": "3-9",
+        "services": "indice",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "bellamoli-giardini-di-bellamoli-simone-tlhu",
+      "fingerprint": {
+        "palette": "dna:#38da30",
+        "font": "archivo",
+        "shape": "filetto",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "live",
+        "hero": "indice",
+        "intro": "citazione",
+        "grid": "5-7",
+        "services": "colonne",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "floricoltura-bevilacqua-orto-fiori-terri-1hqw",
+      "fingerprint": {
+        "palette": "dna:#99e34f",
+        "font": "anton",
+        "shape": "morbido",
+        "imageTreatment": "caldo",
+        "motion": "quieta",
+        "nav": "sipario",
+        "hero": "tipografia",
+        "intro": "citazione",
+        "grid": "7-5",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "verde-vantini-zovk",
+      "fingerprint": {
+        "palette": "dna:#5eda7a",
+        "font": "funnel",
+        "shape": "filetto",
+        "imageTreatment": "naturale",
+        "motion": "elastica",
+        "nav": "angoli",
+        "hero": "diviso",
+        "intro": "appunto",
+        "grid": "3-9",
+        "services": "scorrevole",
+        "gallery": "ritmo"
+      }
+    },
+    {
+      "slug": "carrozzeria-mastercar-hesa",
+      "fingerprint": {
+        "palette": "dna:#af952f",
+        "font": "bigshoulders",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "sipario",
+        "hero": "collage",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "traslochi-imbianchino-verona-di-giovanni-rnyi",
+      "fingerprint": {
+        "palette": "dna:#689fc1",
+        "font": "besley",
+        "shape": "morbido",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "sipario",
+        "hero": "carosello",
+        "intro": "appunto",
+        "grid": "4-8",
+        "services": "elenco",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "carrozzeria-m-g-di-morgillo-giuseppe-mic-ns48",
+      "fingerprint": {
+        "palette": "dna:#ba1f36",
+        "font": "onest",
+        "shape": "tecnico",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "sipario",
+        "hero": "manifesto",
+        "intro": "citazione",
+        "grid": "5-7",
+        "services": "elenco",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "artigiana-traslochi-e-montaggio-mobili-gte8",
+      "fingerprint": {
+        "palette": "dna:#ad6f47",
+        "font": "schibsted",
+        "shape": "filetto",
+        "imageTreatment": "grana",
+        "motion": "elastica",
+        "nav": "angoli",
+        "hero": "scena",
+        "intro": "citazione",
+        "grid": "3-9",
+        "services": "indice",
+        "gallery": "pila"
+      }
+    },
+    {
+      "slug": "idromeci-9lto",
+      "fingerprint": {
+        "palette": "dna:#2c83c8",
+        "font": "bricolage",
+        "shape": "tecnico",
+        "imageTreatment": "duotone",
+        "motion": "quieta",
+        "nav": "live",
+        "hero": "tipografia",
+        "intro": "dichiarazione",
+        "grid": "3-9",
+        "services": "colonne",
+        "gallery": "striscia"
+      }
+    },
+    {
+      "slug": "verona-service-impianti-e-costruzioni-s-qfka",
+      "fingerprint": {
+        "palette": "dna:#e38475",
+        "font": "hanken",
+        "shape": "morbido",
+        "imageTreatment": "duotone",
+        "motion": "scattante",
+        "nav": "live",
+        "hero": "copertina",
+        "intro": "appunto",
+        "grid": "3-9",
+        "services": "elenco",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "residori-giovanni-caldaie-a-gas-pjlq",
+      "fingerprint": {
+        "palette": "dna:#e3b65d",
+        "font": "funnel",
+        "shape": "filetto",
+        "imageTreatment": "contrasto",
+        "motion": "elastica",
+        "nav": "live",
+        "hero": "indice",
+        "intro": "appunto",
+        "grid": "4-8",
+        "services": "scorrevole",
+        "gallery": "copertina"
+      }
+    },
+    {
+      "slug": "impresa-edile-chesini-claudio-nqys",
+      "fingerprint": {
+        "palette": "dna:#5eadd6",
+        "font": "anton",
+        "shape": "morbido",
+        "imageTreatment": "contrasto",
+        "motion": "scattante",
+        "nav": "angoli",
+        "hero": "diviso",
+        "intro": "appunto",
+        "grid": "4-8",
+        "services": "indice",
+        "gallery": "ritmo"
+      }
+    }
+  ]
+}

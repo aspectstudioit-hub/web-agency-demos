@@ -1,0 +1,171 @@
+{
+  "design": {
+    "seed": "Impresa Edile Chesini Claudio · Sommacampagna",
+    "sector": "operai",
+    "palette": "dna:#5eadd6",
+    "font": "anton",
+    "shape": "morbido",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "angoli",
+    "hero": "diviso",
+    "intro": "appunto",
+    "grid": "4-8",
+    "services": "indice",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Impresa Edile Chesini Claudio",
+    "tagline": "Impresa edile a Sommacampagna",
+    "category": "impresa edile",
+    "phone": "347 230 9454",
+    "whatsapp": "+393472309454",
+    "email": "chesini.claudio@gmail.com",
+    "address": "Via Coe, 64, 37066 Sommacampagna VR",
+    "mapsQuery": "Impresa Edile Chesini Claudio, Via Coe, 64, 37066 Sommacampagna VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "03324050230"
+  },
+  "copy": {
+    "heroTitle": "Impresa edile Verona",
+    "heroSub": "Chesini Claudio è un'impresa edile con sede a Sommacampagna, in provincia di Verona. Per un preventivo gratuito, chiama.",
+    "introTitle": "Un'impresa edile vicino a te",
+    "introText": "Impresa Edile Chesini Claudio ha sede in via Coe, a Sommacampagna, in provincia di Verona. È il riferimento per chi deve costruire, sistemare o rinnovare.\n\nSe hai un lavoro da fare, il primo passo è semplice: chiama il 347.23.09.454 e richiedi un preventivo gratuito.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Chiama per un preventivo gratuito"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.56,
+      "alt": "Mattoni, cemento e cazzuola davanti a un muro in costruzione",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T10:18:35.343Z",
+    "seed": "Impresa Edile Chesini Claudio · Sommacampagna",
+    "family": "cantiere",
+    "concept": {
+      "id": "stratigrafia",
+      "frase": "Gli strati del muro: sezioni impilate come strati di materiale, separate da una trama sottile come un'intercapedine.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#151a1d",
+      "ink": "#eaeff2",
+      "accent": "#5eadd6",
+      "surprise": "#cca960",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "anton",
+      "display": "Anton",
+      "body": "Public Sans",
+      "heroRatio": 9,
+      "titleLh": 0.86,
+      "track": "0em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "angoli",
+    "heads": "filetto",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 11,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "trama",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "gallery",
+      "intro",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "indice",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "normale",
+        "gallery": "respiro",
+        "intro": "normale",
+        "trust": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "anton",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#5eadd6",
+      "font": "anton",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "key": "diviso|anton|195",
+    "attempt": 3,
+    "minDistance": 7
+  }
+}
