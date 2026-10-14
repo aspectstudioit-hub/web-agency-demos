@@ -1,0 +1,339 @@
+{
+  "design": {
+    "seed": "Falegnameria Viviani e Zanardi · Verona",
+    "sector": "operai",
+    "palette": "dna:#d44f12",
+    "font": "bigshoulders",
+    "shape": "pillola",
+    "imageTreatment": "caldo",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "manifesto",
+    "intro": "citazione",
+    "grid": "5-7",
+    "services": "elenco",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Falegnameria Viviani e Zanardi",
+    "tagline": "Falegnameria a Verona",
+    "category": "falegnameria",
+    "phone": "347 933 9647",
+    "whatsapp": "+393479339647",
+    "email": "luigizanardi@hotmail.it",
+    "address": "Via Belfiore, 1, 37135 Verona VR",
+    "mapsQuery": "Falegnameria Viviani e Zanardi, Via Belfiore, 1, 37135 Verona VR",
+    "hours": {
+      "lun": [
+        "08:30-13:00",
+        "14:30-19:00"
+      ],
+      "mar": [
+        "08:30-13:00",
+        "14:30-19:00"
+      ],
+      "mer": [
+        "08:30-13:00",
+        "14:30-19:00"
+      ],
+      "gio": [
+        "08:30-13:00",
+        "14:30-19:00"
+      ],
+      "ven": [
+        "08:30-13:00",
+        "14:30-19:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": null,
+    "reviewCount": null,
+    "vat": "00572390235"
+  },
+  "copy": {
+    "heroTitle": "Mobili su misura e restauro a Verona",
+    "heroSub": "Progettiamo arredi su misura e restauriamo mobili in legno. Passa dallo showroom di via Belfiore o chiamaci per avere informazioni.",
+    "introTitle": "Una falegnameria artigianale nel cuore di Verona",
+    "introText": "Siamo una falegnameria di Verona che lavora il legno in modo artigianale. Progettiamo e realizziamo arredi su misura e ridiamo vita ai vecchi mobili con interventi di restauro.\n\nPuoi vedere le nostre realizzazioni di persona nello showroom di via Belfiore 1. Per informazioni o per un preventivo gratuito, chiamaci o compila il modulo di contatto.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Mobili su misura",
+        "text": "Progettazione e realizzazione di arredi su misura, pensati per gli spazi e le esigenze di casa tua."
+      },
+      {
+        "title": "Mobili artigianali di design",
+        "text": "Produzione artigianale di mobili in legno, con attenzione ai dettagli costruttivi."
+      },
+      {
+        "title": "Riparazione e restauro",
+        "text": "Recupero di vecchi mobili: dal ripristino dei cassetti alla finitura con impregnante o verniciatura anticata."
+      }
+    ],
+    "ctaTitle": "Chiamaci o passa in showroom per un preventivo gratuito"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.53,
+      "alt": "Tavola di rovere sul banco da lavoro con pialla e trucioli di legno",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 2401,
+      "luma": 0.5,
+      "alt": "Foto di Falegnameria Viviani e Zanardi"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.37,
+      "alt": "Foto di Falegnameria Viviani e Zanardi"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 2133,
+      "luma": 0.52,
+      "alt": "Foto di Falegnameria Viviani e Zanardi"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T08:45:27.104Z",
+    "seed": "Falegnameria Viviani e Zanardi · Verona",
+    "family": "legno",
+    "concept": {
+      "id": "venatura",
+      "frase": "La venatura: linee lunghe e morbide guidano l'occhio come le fibre del legno; foto ravvicinate di materia, molto calde.",
+      "extra": []
+    },
+    "archetype": "manifesto",
+    "palette": {
+      "paper": "#f4f8f8",
+      "ink": "#152224",
+      "accent": "#d44f12",
+      "surprise": "#6eadca",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "bigshoulders",
+      "display": "Big Shoulders Display",
+      "body": "IBM Plex Sans",
+      "heroRatio": 10,
+      "titleLh": 0.79,
+      "track": "-0.005em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "caldo",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "margine",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Apri",
+        "tilt": 5,
+        "magnet": 9,
+        "shapes": [
+          "taglio",
+          "foglia",
+          "cerchio"
+        ],
+        "widgets": "arco"
+      }
+    },
+    "motif": "onda",
+    "details": [
+      "motivo",
+      "orologio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "elenco",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "denso",
+        "trust": "respiro",
+        "gallery": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "bigshoulders",
+      "shape": "pillola",
+      "imageTreatment": "caldo",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "manifesto",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "elenco",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#d44f12",
+      "font": "bigshoulders",
+      "shape": "pillola",
+      "imageTreatment": "caldo",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "manifesto",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "elenco",
+      "gallery": "striscia"
+    },
+    "key": "manifesto|bigshoulders|15",
+    "attempt": 4,
+    "minDistance": 7
+  },
+  "pages": [
+    {
+      "id": "restauri-eseguiti",
+      "section": "services",
+      "label": "Approfondisci: Restauri eseguiti",
+      "title": "Restauri eseguiti: mobili riportati a nuova vita",
+      "lead": "Tre lavori di restauro su mobili diversi: due mobiletti portaspezie, una coppia con smalto e una madia con verniciatura anticata.",
+      "paragraphs": [
+        "Una coppia di mobiletti portaspezie è stata restaurata e verniciata con smalto coprente. Le foto mostrano i mobili riportati al grezzo, il recupero della funzionalità dei cassetti e la finitura con impregnante trasparente all'acqua.",
+        "Una madia, originariamente di colore noce, è stata restaurata e verniciata con finitura anticata. Esistono diverse soluzioni di verniciatura anticata-patinata: su questo mobile è stata realizzata la versione azzurra."
+      ],
+      "images": [
+        {
+          "file": "pagina-restauri-eseguiti-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.45,
+          "alt": "Foto di Falegnameria Viviani e Zanardi"
+        },
+        {
+          "file": "pagina-restauri-eseguiti-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.58,
+          "alt": "Foto di Falegnameria Viviani e Zanardi"
+        }
+      ]
+    },
+    {
+      "id": "le-foto",
+      "section": "gallery",
+      "label": "Vedi tutte le foto",
+      "title": "Le foto",
+      "lead": "",
+      "paragraphs": [],
+      "images": [
+        {
+          "file": "pagina-le-foto-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.56,
+          "alt": "Foto di Falegnameria Viviani e Zanardi"
+        },
+        {
+          "file": "pagina-le-foto-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.42,
+          "alt": "Foto di Falegnameria Viviani e Zanardi"
+        },
+        {
+          "file": "pagina-le-foto-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.28,
+          "alt": "Foto di Falegnameria Viviani e Zanardi"
+        },
+        {
+          "file": "pagina-le-foto-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.38,
+          "alt": "Foto di Falegnameria Viviani e Zanardi"
+        }
+      ]
+    }
+  ]
+}

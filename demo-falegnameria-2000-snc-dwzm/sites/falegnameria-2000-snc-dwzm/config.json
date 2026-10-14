@@ -1,0 +1,248 @@
+{
+  "design": {
+    "seed": "Falegnameria 2000 SNC · Verona",
+    "sector": "operai",
+    "palette": "dna:#d19d72",
+    "font": "besley",
+    "shape": "tecnico",
+    "imageTreatment": "naturale",
+    "motion": "scattante",
+    "nav": "indice",
+    "hero": "copertina",
+    "intro": "appunto",
+    "grid": "3-9",
+    "services": "elenco",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Falegnameria 2000 SNC",
+    "tagline": "Falegnameria a Verona",
+    "category": "falegnameria",
+    "phone": "045 803 3074",
+    "whatsapp": null,
+    "email": "falegnameriaduemila@libero.it",
+    "address": "Lungadige Galtarossa, 25/B, 37133 Verona VR",
+    "mapsQuery": "Falegnameria 2000 SNC, Lungadige Galtarossa, 25/B, 37133 Verona VR",
+    "hours": null,
+    "rating": 4.7,
+    "reviewCount": 26,
+    "reviewSource": "Google",
+    "vat": "04525660231"
+  },
+  "copy": {
+    "heroTitle": "Mobili, porte e serramenti in legno fatti su misura a Verona",
+    "heroSub": "Falegnameria 2000 realizza arredi su misura, porte e serramenti per case e attività. Chiama per parlarci del tuo progetto.",
+    "introTitle": "Una falegnameria al servizio di case e attività",
+    "introText": "Falegnameria 2000 nasce nel 1963 dai fratelli Olivieri. Negli anni Ottanta sono subentrati i figli dei fondatori, che ancora oggi guidano l'attività con tecniche nuove e materiali di ultima generazione.\n\nSi lavora per chi ha una casa e per chi gestisce un'attività: dall'arredo su misura alla serramentistica civile, fino agli arredi per uffici e filiali bancarie. Se hai un lavoro in mente, chiama e raccontacelo.",
+    "servicesTitle": "Cosa realizziamo",
+    "services": [
+      {
+        "title": "Mobili su misura",
+        "text": "Arredi progettati e realizzati in base agli spazi e alle esigenze di chi li userà."
+      },
+      {
+        "title": "Ristrutturazione vecchi serramenti",
+        "text": "Interventi sui serramenti esistenti per rimetterli in ordine."
+      },
+      {
+        "title": "Oscuri in legno",
+        "text": "Oscuri in legno per le finestre di case e locali."
+      },
+      {
+        "title": "Porte interne",
+        "text": "Porte interne per ogni ambiente, fornite e posate."
+      },
+      {
+        "title": "Porte blindate e manutenzione infissi",
+        "text": "Fornitura di porte blindate e manutenzione su infissi."
+      },
+      {
+        "title": "Arredi a domicilio",
+        "text": "Arredi realizzati e montati direttamente presso il cliente."
+      }
+    ],
+    "ctaTitle": "Hai un lavoro in mente? Chiamaci e parliamone"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.37,
+      "alt": "Banco da falegname con assi di rovere, pialla e trucioli accanto a un pannello di porta in legno",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1065,
+      "luma": 0.47,
+      "alt": "Foto di Falegnameria 2000 SNC"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T08:46:28.211Z",
+    "seed": "Falegnameria 2000 SNC · Verona",
+    "family": "legno",
+    "concept": {
+      "id": "squadra",
+      "frase": "La squadra e il metro: angoli retti, quote numerate, misure scritte a margine come su un disegno di bottega.",
+      "extra": []
+    },
+    "archetype": "copertina",
+    "palette": {
+      "paper": "#130e0d",
+      "ink": "#f2ebea",
+      "accent": "#d19d72",
+      "surprise": "#59bbd4",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 10,
+      "titleLh": 0.88,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "naturale",
+      "mask": "inciso",
+      "ratio": "3/2"
+    },
+    "nav": "indice",
+    "heads": "indice",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Guarda",
+        "tilt": 4,
+        "magnet": 6,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "elenco",
+      "gallery": "ritmo",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "normale",
+        "intro": "respiro",
+        "gallery": "denso",
+        "trust": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "tecnico",
+      "imageTreatment": "naturale",
+      "motion": "scattante",
+      "nav": "indice",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#d19d72",
+      "font": "besley",
+      "shape": "tecnico",
+      "imageTreatment": "naturale",
+      "motion": "scattante",
+      "nav": "indice",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "key": "copertina|besley|30",
+    "attempt": 127,
+    "minDistance": 7
+  },
+  "pages": [
+    {
+      "id": "la-nostra-storia",
+      "section": "intro",
+      "label": "Approfondisci: La storia della Falegnameria",
+      "title": "La storia della Falegnameria 2000 di Verona",
+      "lead": "La Falegnameria 2000 nasce nel 1963 dai fratelli Olivieri e oggi è guidata dai figli dei fondatori.",
+      "paragraphs": [
+        "La Falegnameria 2000 nasce nel 1963 per opera dei due fondatori, i fratelli Olivieri. Per rispondere alle richieste di una certa cerchia di clienti, si dedica all'arredo di filiali bancarie, con la realizzazione di banconi e armadi per ufficio, senza trascurare la clientela privata, per cui realizza arredi su misura e serramenti civili.",
+        "Negli anni Ottanta subentrano i figli dei fondatori, che ancora oggi guidano la falegnameria con nuove tecniche e idee rinnovate, utilizzando materiali di ultima generazione.",
+        "I servizi si rivolgono a una clientela eterogenea, che va dai proprietari di casa agli operatori commerciali. Una cliente scrive: \"Professionisti competenti… mi sono fatta fare dei mobili su misura. Consiglio vivamente\"."
+      ],
+      "images": [
+        {
+          "file": "pagina-la-nostra-storia-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2842,
+          "luma": 0.49,
+          "alt": "Foto di Falegnameria 2000 SNC"
+        },
+        {
+          "file": "pagina-la-nostra-storia-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1068,
+          "luma": 0.41,
+          "alt": "Foto di Falegnameria 2000 SNC"
+        }
+      ]
+    }
+  ]
+}
