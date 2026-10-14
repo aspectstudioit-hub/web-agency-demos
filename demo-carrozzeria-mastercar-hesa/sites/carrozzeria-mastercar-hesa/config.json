@@ -1,0 +1,194 @@
+{
+  "design": {
+    "seed": "Carrozzeria Mastercar · Verona",
+    "sector": "operai",
+    "palette": "dna:#af952f",
+    "font": "bigshoulders",
+    "shape": "filetto",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "collage",
+    "intro": "dichiarazione",
+    "grid": "3-9",
+    "services": "elenco",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Carrozzeria Mastercar",
+    "tagline": "Carrozzeria a Verona",
+    "category": "carrozzeria",
+    "phone": "045 504020",
+    "whatsapp": null,
+    "email": "clienti@carrozzeriamastercar.info",
+    "address": "Via Angelo Secchi, 9, 37135 Verona VR",
+    "mapsQuery": "Carrozzeria Mastercar, Via Angelo Secchi, 9, 37135 Verona VR",
+    "hours": null,
+    "rating": 5,
+    "reviewCount": 216,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Carrozzeria a Verona",
+    "heroSub": "Riparazione di auto, moto e veicoli commerciali in via Angelo Secchi. Chiamaci o scrivici: ti ricontattiamo.",
+    "introTitle": "Mastercar, carrozzeria a Verona",
+    "introText": "Mastercar si occupa della riparazione di auto, moto e veicoli commerciali. Ci trovi a Verona, in via Angelo Secchi 9.\n\nHai un veicolo da riparare o vuoi un'informazione? Telefona o compila il modulo di contatto: ti ricontattiamo.",
+    "servicesTitle": "Di cosa ci occupiamo",
+    "services": [
+      {
+        "title": "Carrozzeria",
+        "text": "Riparazione della carrozzeria per auto, moto e veicoli commerciali."
+      },
+      {
+        "title": "Autofficina",
+        "text": "Interventi di officina per la tua auto, moto o veicolo commerciale."
+      }
+    ],
+    "ctaTitle": "Chiamaci o scrivici oggi"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.48,
+      "alt": "Pannello di carrozzeria lucidato con finitura metallizzata in un'officina",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 961,
+      "luma": 0.59,
+      "alt": "Foto di Carrozzeria Mastercar"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T09:40:59.348Z",
+    "seed": "Carrozzeria Mastercar · Verona",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "collage",
+    "palette": {
+      "paper": "#ebebf1",
+      "ink": "#1e1c2e",
+      "accent": "#af952f",
+      "surprise": "#5242c0",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "bigshoulders",
+      "display": "Big Shoulders Display",
+      "body": "IBM Plex Sans",
+      "heroRatio": 11,
+      "titleLh": 0.83,
+      "track": "-0.005em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "obliquo",
+      "ratio": "3/2"
+    },
+    "nav": "sipario",
+    "heads": "margine",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "quadrato",
+        "label": "Guarda",
+        "tilt": 4,
+        "magnet": 8,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "trust",
+      "intro",
+      "services",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "elenco",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "trust": "denso",
+        "intro": "respiro",
+        "services": "normale",
+        "gallery": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "bigshoulders",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "collage",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#af952f",
+      "font": "bigshoulders",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "collage",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "copertina"
+    },
+    "key": "collage|bigshoulders|45",
+    "attempt": 54,
+    "minDistance": 6
+  }
+}

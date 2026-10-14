@@ -1,0 +1,376 @@
+{
+  "design": {
+    "seed": "Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc · Verona",
+    "sector": "operai",
+    "palette": "dna:#ba1f36",
+    "font": "onest",
+    "shape": "tecnico",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "manifesto",
+    "intro": "citazione",
+    "grid": "5-7",
+    "services": "elenco",
+    "gallery": "pila"
+  },
+  "business": {
+    "name": "Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc",
+    "tagline": "Carrozzeria a Verona",
+    "category": "carrozzeria",
+    "phone": "045 810 3055",
+    "whatsapp": null,
+    "email": "info@carrozzeriamgvr.it",
+    "address": "Via Sogare, 17, 37138 Verona VR",
+    "mapsQuery": "Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc, Via Sogare, 17, 37138 Verona VR",
+    "hours": {
+      "lun": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "mar": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "mer": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "gio": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "ven": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "sab": [
+        "08:00-12:00"
+      ],
+      "dom": []
+    },
+    "rating": 4.8,
+    "reviewCount": 40,
+    "reviewSource": "Google",
+    "vat": "03086130238"
+  },
+  "copy": {
+    "heroTitle": "Ripariamo la tua auto",
+    "heroSub": "Carrozzeria in Via Sogare a Verona. Chiama o passa in officina: ti diciamo come intervenire sulla tua auto.",
+    "introTitle": "Una carrozzeria di famiglia a Verona",
+    "introText": "La Carrozzeria MG nasce nel dicembre del 2000 dai fratelli Michele e Giuseppe Morgillo, legati da una lunga tradizione familiare nel settore della riparazione auto.\n\nSe la tua auto ha un danno, chiamaci o vieni in Via Sogare, a Verona. Ti spieghiamo cosa serve per rimetterla in strada.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Grandine senza verniciatura",
+        "text": "Eliminiamo i danni da grandine senza riverniciare, con tecniche rapide e non invasive."
+      },
+      {
+        "title": "Verniciatura integrale",
+        "text": "Rinnoviamo il look dell'auto con una verniciatura completa, curando ogni dettaglio."
+      },
+      {
+        "title": "Parabrezza e vetri laterali",
+        "text": "Ripariamo e sostituiamo parabrezza e vetri laterali con materiali certificati."
+      },
+      {
+        "title": "Graffi e piccoli danni",
+        "text": "Interveniamo su graffi e danni localizzati senza riverniciare intere parti dell'auto."
+      },
+      {
+        "title": "Lavaggio interni e sanificazione",
+        "text": "Lavaggio della tappezzeria e sanificazione dell'abitacolo con trattamenti professionali."
+      },
+      {
+        "title": "Ricarica climatizzatore",
+        "text": "Ricarichiamo il climatizzatore con controllo completo dell'impianto."
+      }
+    ],
+    "ctaTitle": "Hai un danno da riparare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.54,
+      "alt": "Pannello di carrozzeria verniciato di fresco con riflessi lisci, accanto a materiali per la lucidatura",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1128,
+      "luma": 0.56,
+      "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.47,
+      "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.43,
+      "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T09:44:21.036Z",
+    "seed": "Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc · Verona",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "manifesto",
+    "palette": {
+      "paper": "#f5f5f0",
+      "ink": "#292811",
+      "accent": "#ba1f36",
+      "surprise": "#63bfd3",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "onest",
+      "display": "Onest",
+      "body": "Onest",
+      "heroRatio": 10,
+      "titleLh": 0.94,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "obliquo",
+      "ratio": "3/2"
+    },
+    "nav": "sipario",
+    "heads": "parola",
+    "button": "scorrimento",
+    "badge": "orologio",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Apri",
+        "tilt": 4,
+        "magnet": 11,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "elenco",
+      "gallery": "pila",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "denso",
+        "trust": "respiro",
+        "gallery": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "onest",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "manifesto",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "elenco",
+      "gallery": "pila"
+    },
+    "fingerprint": {
+      "palette": "dna:#ba1f36",
+      "font": "onest",
+      "shape": "tecnico",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "manifesto",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "elenco",
+      "gallery": "pila"
+    },
+    "key": "manifesto|onest|345",
+    "attempt": 19,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "ricevi-il-miglior",
+      "section": "services",
+      "label": "Approfondisci: Servizi della carrozzeria",
+      "title": "Servizi della carrozzeria: grandine, vernice, vetri e interni",
+      "lead": "Dalla grandine ai graffi, dai vetri alla sanificazione dell'abitacolo: i servizi di Carrozzeria M.G. per la cura dell'auto.",
+      "paragraphs": [
+        "Eliminiamo i danni da grandine senza riverniciare, con tecniche rapide e non invasive. Per graffi e piccoli danni localizzati ripariamo senza riverniciare intere parti dell'auto. Se serve rinnovare l'aspetto del veicolo, eseguiamo la verniciatura integrale con attenzione ai dettagli.",
+        "Ripariamo e sostituiamo parabrezza e vetri laterali, utilizzando solo materiali certificati. Ricarichiamo il climatizzatore con un controllo completo dell'impianto, per avere comfort durante tutto l'anno.",
+        "Per gli interni offriamo il lavaggio profondo della tappezzeria, che elimina macchie e odori, e la sanificazione dell'abitacolo con trattamenti contro batteri, virus e allergeni. Durante gli interventi più lunghi mettiamo a disposizione una vettura di cortesia, senza costi aggiuntivi."
+      ],
+      "images": [
+        {
+          "file": "pagina-ricevi-il-miglior-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 840,
+          "luma": 0.92,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        }
+      ]
+    },
+    {
+      "id": "cosa-dicono-i-nostri-clienti",
+      "section": "intro",
+      "label": "Approfondisci: Cosa dicono di noi i clienti",
+      "title": "Cosa dicono di noi i clienti della carrozzeria",
+      "lead": "Le parole di chi ha affidato la propria auto alla Carrozzeria M.G.: spiegazioni chiare, prezzi onesti e personale disponibile.",
+      "paragraphs": [
+        "I clienti ricordano soprattutto la chiarezza. Raccontano di spiegazioni date con calma, di un preventivo rispettato al centesimo e di nessuna sensazione di essere trattati da profani. Qualcuno ha ricevuto anche consigli utili per la manutenzione.",
+        "Ci sono poi i tempi e l'onestà. Una cliente ha lasciato l'auto al mattino e l'ha ritrovata pronta nel pomeriggio. Un altro, con un problema al motore che altri non avevano risolto, l'ha visto sistemato in due giorni senza spendere una fortuna.",
+        "Una persona sottolinea di essere stata chiamata prima di procedere con la riparazione, dopo che il problema era stato individuato subito. Descrive la carrozzeria come moderna e ben attrezzata, e da allora la considera la propria officina di fiducia."
+      ],
+      "images": []
+    },
+    {
+      "id": "le-foto",
+      "section": "gallery",
+      "label": "Vedi tutte le foto",
+      "title": "Le foto",
+      "lead": "",
+      "paragraphs": [],
+      "images": [
+        {
+          "file": "pagina-le-foto-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.49,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        },
+        {
+          "file": "pagina-le-foto-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.48,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        },
+        {
+          "file": "pagina-le-foto-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1033,
+          "luma": 0.42,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        },
+        {
+          "file": "pagina-le-foto-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2133,
+          "luma": 0.42,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        },
+        {
+          "file": "pagina-le-foto-5.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2133,
+          "luma": 0.47,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        },
+        {
+          "file": "pagina-le-foto-6.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.47,
+          "alt": "Foto di Carrozzeria M.G. Di Morgillo Giuseppe & Michele Snc"
+        }
+      ]
+    }
+  ]
+}

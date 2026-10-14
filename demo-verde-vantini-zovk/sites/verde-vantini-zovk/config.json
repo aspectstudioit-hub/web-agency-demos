@@ -1,0 +1,217 @@
+{
+  "design": {
+    "seed": "Verde Vantini · Colognola ai Colli",
+    "sector": "operai",
+    "palette": "dna:#5eda7a",
+    "font": "funnel",
+    "shape": "filetto",
+    "imageTreatment": "naturale",
+    "motion": "elastica",
+    "nav": "angoli",
+    "hero": "diviso",
+    "intro": "appunto",
+    "grid": "3-9",
+    "services": "scorrevole",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Verde Vantini",
+    "tagline": "Giardiniere a Colognola ai Colli",
+    "category": "giardiniere",
+    "phone": "349 580 4402",
+    "whatsapp": "+393495804402",
+    "email": "verdevantini@yahoo.it",
+    "address": "Via Molini, 31/A, 37030 Colognola ai Colli VR",
+    "mapsQuery": "Verde Vantini, Via Molini, 31/A, 37030 Colognola ai Colli VR",
+    "hours": {
+      "lun": [
+        "08:00-12:00",
+        "13:30-19:00"
+      ],
+      "mar": [
+        "08:00-12:00",
+        "13:30-19:00"
+      ],
+      "mer": [
+        "08:00-12:00",
+        "13:30-19:00"
+      ],
+      "gio": [
+        "08:00-12:00",
+        "13:30-19:00"
+      ],
+      "ven": [
+        "08:00-12:00",
+        "13:30-19:00"
+      ],
+      "sab": [
+        "08:00-12:00",
+        "13:30-19:00"
+      ],
+      "dom": []
+    },
+    "rating": 4.7,
+    "reviewCount": 13,
+    "reviewSource": "Google",
+    "vat": "03295650232"
+  },
+  "copy": {
+    "heroTitle": "Il tuo giardino curato con attenzione, in provincia di Verona",
+    "heroSub": "Cura di spazi verdi privati, pubblici e aziendali. Siamo a Colognola ai Colli, in via Molini 31/A. Chiamaci.",
+    "introTitle": "Un giardiniere vicino a te, a Colognola ai Colli",
+    "introText": "Verde Vantini si occupa di spazi verdi in provincia di Verona. Lavoriamo per giardini privati, aree pubbliche e spazi aziendali.\n\nSe cerchi un manutentore del verde, chiamaci o passa in via Molini 31/A. Ti ascoltiamo e ti diciamo come possiamo aiutarti.",
+    "servicesTitle": "Di cosa ci occupiamo",
+    "services": [
+      {
+        "title": "Cura di spazi verdi privati",
+        "text": "Manutenzione del verde per giardini e aree private in provincia di Verona."
+      },
+      {
+        "title": "Spazi verdi pubblici",
+        "text": "Cura di aree verdi pubbliche, per enti e amministrazioni del territorio."
+      },
+      {
+        "title": "Spazi verdi aziendali",
+        "text": "Manutenzione del verde per aziende e attività, per ambienti esterni sempre in ordine."
+      },
+      {
+        "title": "Vendita di materiali",
+        "text": "Materiali per il verde disponibili presso la nostra sede di Colognola ai Colli."
+      }
+    ],
+    "ctaTitle": "Cerchi un manutentore del verde? Contattaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.3,
+      "alt": "Siepe curata e prato ben rifinito con cesoie e piantine in vaso su un bordo di giardino",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T09:40:35.110Z",
+    "seed": "Verde Vantini · Colognola ai Colli",
+    "family": "verde",
+    "concept": {
+      "id": "potatura",
+      "frase": "La potatura: tagli obliqui e puliti; le immagini perdono un angolo come un ramo tagliato, il testo resta ordinato in filari.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#131b17",
+      "ink": "#ebf1ef",
+      "accent": "#5eda7a",
+      "surprise": "#d157d5",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "funnel",
+      "display": "Funnel Display",
+      "body": "Funnel Sans",
+      "heroRatio": 9,
+      "titleLh": 0.83,
+      "track": "-0.045em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "naturale",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "angoli",
+    "heads": "indice",
+    "button": "scorrimento",
+    "badge": "orologio",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "rombo",
+        "label": "Apri",
+        "tilt": 5,
+        "magnet": 8,
+        "shapes": [],
+        "widgets": "taglio"
+      }
+    },
+    "motif": "foglia",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "trust",
+      "services",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "scorrevole",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "trust": "denso",
+        "services": "respiro",
+        "gallery": "denso",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "funnel",
+      "shape": "filetto",
+      "imageTreatment": "naturale",
+      "motion": "elastica",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "scorrevole",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#5eda7a",
+      "font": "funnel",
+      "shape": "filetto",
+      "imageTreatment": "naturale",
+      "motion": "elastica",
+      "nav": "angoli",
+      "hero": "diviso",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "scorrevole",
+      "gallery": "ritmo"
+    },
+    "key": "diviso|funnel|135",
+    "attempt": 96,
+    "minDistance": 6
+  }
+}

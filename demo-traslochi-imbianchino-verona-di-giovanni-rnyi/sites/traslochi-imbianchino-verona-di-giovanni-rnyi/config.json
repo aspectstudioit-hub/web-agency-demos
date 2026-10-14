@@ -1,0 +1,450 @@
+{
+  "design": {
+    "seed": "Traslochi - Imbianchino Verona di Giovanni Multiservizi · Verona",
+    "sector": "operai",
+    "palette": "dna:#689fc1",
+    "font": "besley",
+    "shape": "morbido",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "carosello",
+    "intro": "appunto",
+    "grid": "4-8",
+    "services": "elenco",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Traslochi - Imbianchino Verona di Giovanni Multiservizi",
+    "tagline": "Traslochi e multiservizi a Verona",
+    "category": "traslochi",
+    "phone": "392 094 3459",
+    "whatsapp": "+393920943459",
+    "email": "giovanninastas@yahoo.it",
+    "address": "Via Rovigo, 2, 37134 Verona VR",
+    "mapsQuery": "Traslochi - Imbianchino Verona di Giovanni Multiservizi, Via Rovigo, 2, 37134 Verona VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "04235800234"
+  },
+  "copy": {
+    "heroTitle": "Il tuo trasloco a Verona, organizzato con cura dall'inizio alla fine",
+    "heroSub": "Traslochi, trasporto mobili e merci, montaggio e manutenzione della casa. Chiama e chiedi un preventivo gratuito.",
+    "introTitle": "Una ditta multiservizi per traslochi e casa a Verona",
+    "introText": "Giovanni Multiservizi si occupa di traslochi privati, trasporto di mobili e merci conto terzi e manutenzione degli immobili. Opera a Verona, in provincia e, per alcuni servizi, su tutto il territorio nazionale.\n\nPer proteggere i beni più fragili usa imballaggi antiurto e dispone di scale mobili ed elevatori esterni. Se hai un trasloco da organizzare, contatta la ditta e racconta di cosa hai bisogno.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Traslochi a Verona",
+        "text": "Traslochi privati e piccoli traslochi, con imballaggi antiurto per proteggere arredi e oggetti fragili."
+      },
+      {
+        "title": "Trasporto mobili e merci",
+        "text": "Trasporto di mobili e merci di varia tipologia, anche conto terzi, a Verona e nelle zone limitrofe."
+      },
+      {
+        "title": "Smontaggio e montaggio mobili",
+        "text": "Smontaggio e rimontaggio dei mobili in occasione di traslochi e spostamenti."
+      },
+      {
+        "title": "Noleggio scale aeree",
+        "text": "Noleggio di scale aeree con operatore per movimentare carichi dall'esterno."
+      },
+      {
+        "title": "Tinteggiature e decorazioni",
+        "text": "Imbiancatura, tinteggiatura e decorazioni per interni ed esterni della casa."
+      },
+      {
+        "title": "Manutenzioni casa",
+        "text": "Manutenzione degli immobili, con lavori edili, idraulici ed elettrici, servizio tapparelle e giardinaggio."
+      }
+    ],
+    "ctaTitle": "Chiama o scrivi per il tuo trasloco a Verona"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.6,
+      "alt": "Scatoloni di cartone e un armadio protetto da imbottitura in una stanza luminosa pronta per il trasloco",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1600,
+      "luma": 0,
+      "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.53,
+      "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1068,
+      "luma": 0.55,
+      "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T09:41:33.690Z",
+    "seed": "Traslochi - Imbianchino Verona di Giovanni Multiservizi · Verona",
+    "family": "cantiere",
+    "concept": {
+      "id": "stratigrafia",
+      "frase": "Gli strati del muro: sezioni impilate come strati di materiale, separate da una trama sottile come un'intercapedine.",
+      "extra": []
+    },
+    "archetype": "carosello",
+    "palette": {
+      "paper": "#141618",
+      "ink": "#e7eff2",
+      "accent": "#689fc1",
+      "surprise": "#625dc2",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 9,
+      "titleLh": 0.88,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "sipario",
+    "heads": "parola",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "quadrato",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 11,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "trama",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "elenco",
+      "gallery": null,
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "denso",
+        "trust": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "carosello",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "elenco",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#689fc1",
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "carosello",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "elenco",
+      "gallery": "striscia"
+    },
+    "key": "carosello|besley|210",
+    "attempt": 8,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "traslochi-a-verona",
+      "section": "services",
+      "service": "Traslochi a Verona",
+      "label": "Approfondisci: Ditta di traslochi a Verona",
+      "title": "Ditta di traslochi a Verona: sicura e affidabile",
+      "lead": "Giovanni Multiservizi organizza traslochi a Verona per privati, aziende ed enti pubblici, con attenzione alle esigenze del cliente e alle tempistiche concordate.",
+      "paragraphs": [
+        "Cambiare casa richiede organizzazione, precisione e tempi ben definiti. Una delle preoccupazioni principali è l'arrivo puntuale della mobilia nella nuova abitazione: ritardi e imprevisti possono complicare un momento già impegnativo. Per questo è importante affidarsi a una ditta di traslochi capace di lavorare in modo veloce, efficiente e accurato.",
+        "Traslochi Verona di Giovanni Multiservizi interviene per piccoli traslochi, sgomberi di appartamenti, soffitte e magazzini, oltre che per il trasferimento e il cambio sede di negozi. Un parco mezzi adeguato e la rapidità operativa permettono di affrontare ogni incarico con puntualità e attenzione.",
+        "Lo staff affianca il cliente fin dalle prime fasi, valutando ambienti, arredi ed esigenze operative, con un supporto prima, durante e dopo il trasferimento. Sono previsti sopralluoghi e imballaggio degli arredi, inclusi gli articoli fragili, con materiali antiurto. La sede è in Via Rovigo 2, a Verona, e l'azienda copre tutto il territorio nazionale."
+      ],
+      "images": [
+        {
+          "file": "pagina-traslochi-a-verona-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2133,
+          "luma": 0.47,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-traslochi-a-verona-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.41,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-traslochi-a-verona-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-traslochi-a-verona-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        }
+      ]
+    },
+    {
+      "id": "smontaggio-e-montaggio",
+      "section": "services",
+      "service": "Smontaggio e montaggio mobili",
+      "label": "Approfondisci: Smontaggio e montaggio",
+      "title": "Smontaggio e montaggio mobili a Verona",
+      "lead": "Per un trasloco, una ristrutturazione o un riordino degli spazi, Giovanni Multiservizi smonta, sposta e rimonta i mobili con attenzione.",
+      "paragraphs": [
+        "Il servizio di smontaggio e montaggio mobili è pensato per chi affronta un trasloco, riorganizza gli spazi o interviene sugli arredi durante lavori di ristrutturazione. Il personale si occupa dello smontaggio, della movimentazione e del rimontaggio, riducendo il rischio di danni. Si può richiedere anche senza un trasloco.",
+        "I mobili e gli oggetti più fragili vengono protetti con materiali antiurto specifici prima del trasporto. Il servizio è rivolto a clienti privati di Verona e provincia e segue gli arredi prima, durante e dopo il trasloco.",
+        "L'azienda si occupa anche di riparazione di sedie, tavoli, armadi, letti, poltrone e altri elementi d'arredo, e propone il restauro di mobili antichi affidato ad artigiani specializzati. Per informazioni è possibile contattare la sede di Via Rovigo 2, anche tramite WhatsApp."
+      ],
+      "images": [
+        {
+          "file": "pagina-smontaggio-e-montaggio-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        }
+      ]
+    },
+    {
+      "id": "noleggio-scale-aeree",
+      "section": "services",
+      "service": "Noleggio scale aeree",
+      "label": "Approfondisci: Noleggio scale aeree",
+      "title": "Noleggio scale aeree con operatore a Verona",
+      "lead": "Traslochi Verona di Giovanni Multiservizi mette a disposizione scale aeree con operatore per traslochi, sgomberi e movimentazioni in quota.",
+      "paragraphs": [
+        "Il servizio è pensato per facilitare il sollevamento e la movimentazione di mobili, serramenti e materiali durante traslochi, sgomberi e interventi edili. La presenza di un operatore permette di gestire ogni attività con maggiore precisione, adattando il lavoro alle caratteristiche dell'edificio e alle esigenze dell'intervento, anche ai piani più alti.",
+        "Il noleggio è rivolto a privati, imprese edili, mobilifici, traslocatori e a chi sta organizzando un trasloco. Le scale aeree vengono messe a disposizione con un operatore incaricato. Il personale qualificato aiuta a velocizzare carico e scarico e a limitare il rischio di danneggiamenti, con attenzione alla sicurezza nelle operazioni in quota.",
+        "In base alle esigenze, lo staff può occuparsi della richiesta dei permessi necessari, offrire assistenza di facchinaggio per carico e scarico e supportare lo smontaggio e il rimontaggio di mobili e serramenti. Il cliente ha così un unico referente per coordinare le fasi del lavoro. Per informazioni o per pianificare un trasloco o uno sgombero, ci si può rivolgere alla sede di Via Rovigo 2."
+      ],
+      "images": [
+        {
+          "file": "pagina-noleggio-scale-aeree-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-noleggio-scale-aeree-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2133,
+          "luma": 0.49,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        }
+      ]
+    },
+    {
+      "id": "tinteggiature-e-decorazioni",
+      "section": "services",
+      "service": "Tinteggiature e decorazioni",
+      "label": "Approfondisci: Imbianchino a Verona",
+      "title": "Imbianchino a Verona: tinteggiatura e decorazione",
+      "lead": "Giovanni Multiservizi si occupa di tinteggiatura, decorazione e rimozione della carta da parati per abitazioni e locali a Verona.",
+      "paragraphs": [
+        "Il servizio di imbianchino riguarda la manutenzione, la tinteggiatura e la decorazione di appartamenti e immobili, sia negli ambienti interni sia all'esterno. Si può richiedere la tinteggiatura, la rimozione della carta da parati, la decorazione del soggiorno e la pittura delle facciate, con lavorazioni adattate alle esigenze del cliente e agli spazi.",
+        "La tinteggiatura di interni è rivolta ad appartamenti, loft, uffici, hotel, bar, palestre e negozi. Il personale affianca il cliente nella scelta di colori, finiture e soluzioni decorative coerenti con lo stile dell'ambiente. Vengono utilizzati materiali delle migliori marche presenti sul mercato.",
+        "Prima di ogni lavoro viene effettuato un sopralluogo per definire modalità operative, tempi e costi. Per la rimozione della carta da parati si valuta prima lo stato delle superfici. Per informazioni o per un preventivo gratuito e senza impegno, si può contattare la sede di Verona."
+      ],
+      "images": [
+        {
+          "file": "pagina-tinteggiature-e-decorazioni-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.58,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-tinteggiature-e-decorazioni-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.29,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-tinteggiature-e-decorazioni-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.44,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-tinteggiature-e-decorazioni-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 2844,
+          "luma": 0.55,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        }
+      ]
+    },
+    {
+      "id": "manutenzioni-casa",
+      "section": "services",
+      "service": "Manutenzioni casa",
+      "label": "Approfondisci: Manutenzione casa a Verona",
+      "title": "Manutenzione casa a Verona: piccoli interventi su misura",
+      "lead": "Giovanni Multiservizi si occupa a Verona di riparazioni e piccoli interventi domestici, valutati caso per caso sulle esigenze della casa.",
+      "paragraphs": [
+        "Non tutti i problemi in casa richiedono lavori complessi o interventi strutturali. Spesso bastano piccoli interventi per ripristinare la funzionalità degli ambienti e risolvere guasti o inconvenienti quotidiani, come un rubinetto che perde o un infisso che cigola.",
+        "Tra le attività rientrano la sostituzione di lampadine, prese e interruttori, la riparazione della rubinetteria, la stasatura delle tubazioni e la pulizia dei climatizzatori. Si eseguono anche riparazioni di serrature e tapparelle e il montaggio e la sistemazione di mobili, mensole, quadri e lampadari.",
+        "Ogni lavoro viene valutato con precisione per individuare la soluzione più adatta, con tecniche adeguate e materiali di qualità. Anche le richieste di entità ridotta ricevono la stessa attenzione. Per informazioni o per richiedere un intervento, puoi contattare la sede di Giovanni Multiservizi."
+      ],
+      "images": [
+        {
+          "file": "pagina-manutenzioni-casa-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1233,
+          "luma": 0.61,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        },
+        {
+          "file": "pagina-manutenzioni-casa-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1067,
+          "luma": 0.5,
+          "alt": "Foto di Traslochi - Imbianchino Verona di Giovanni Multiservizi"
+        }
+      ]
+    }
+  ]
+}

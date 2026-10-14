@@ -1,0 +1,213 @@
+{
+  "design": {
+    "seed": "Floricoltura Bevilacqua - Orto, Fiori, Terriccio, Concimi, Giardinieri specializzati · Povegliano Veronese",
+    "sector": "operai",
+    "palette": "dna:#99e34f",
+    "font": "anton",
+    "shape": "morbido",
+    "imageTreatment": "caldo",
+    "motion": "quieta",
+    "nav": "sipario",
+    "hero": "tipografia",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "colonne",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Floricoltura Bevilacqua - Orto, Fiori, Terriccio, Concimi, Giardinieri specializzati",
+    "tagline": "Giardiniere a Povegliano Veronese",
+    "category": "giardiniere",
+    "phone": "045 797 0159",
+    "whatsapp": null,
+    "email": "floricolturabevilacqua@gmail.com",
+    "address": "Via dei Ronchi, 22/24, 37064 Povegliano Veronese VR",
+    "mapsQuery": "Floricoltura Bevilacqua - Orto, Fiori, Terriccio, Concimi, Giardinieri specializzati, Via dei Ronchi, 22/24, 37064 Povegliano Veronese VR",
+    "hours": {
+      "lun": [
+        "08:00-12:30",
+        "15:30-19:00"
+      ],
+      "mar": [
+        "08:00-12:30",
+        "15:30-19:00"
+      ],
+      "mer": [
+        "08:00-12:30",
+        "15:30-19:00"
+      ],
+      "gio": [
+        "08:00-12:30",
+        "15:30-19:00"
+      ],
+      "ven": [
+        "08:00-12:30",
+        "15:30-19:00"
+      ],
+      "sab": [
+        "08:00-12:30",
+        "15:30-19:00"
+      ],
+      "dom": []
+    },
+    "rating": 4.6,
+    "reviewCount": 34,
+    "reviewSource": "Google",
+    "vat": "02700550235"
+  },
+  "copy": {
+    "heroTitle": "Il verde in buone mani",
+    "heroSub": "Potatura, realizzazione e cura di giardini a Povegliano Veronese e dintorni. Chiamaci o passa in negozio in Via dei Ronchi.",
+    "introTitle": "Floricoltura e giardinieri a Povegliano",
+    "introText": "Floricoltura Bevilacqua è a Povegliano Veronese, in Via dei Ronchi 22/24. Qui trovi piante, fiori, orto, terriccio e concimi, e chi si occupa di giardini sul campo.\n\nHai un giardino da sistemare, una siepe da potare o uno spazio verde da creare? Chiama o scrivi su WhatsApp: ti ascoltiamo e ti aiutiamo a scegliere cosa fare.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Potatura",
+        "text": "Potatura di piante, siepi e alberi per tenere il giardino in ordine e in salute."
+      },
+      {
+        "title": "Realizzazione giardini",
+        "text": "Progettazione e realizzazione di nuovi spazi verdi, dalle idee alla messa a dimora."
+      },
+      {
+        "title": "Giardinaggio",
+        "text": "Cura e manutenzione del verde, per giardini e orti di ogni dimensione."
+      }
+    ],
+    "ctaTitle": "Chiama o scrivi su WhatsApp"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.39,
+      "alt": "Siepe potata con giovani piante in vaso e forbici da potatura su terriccio",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T09:39:42.808Z",
+    "seed": "Floricoltura Bevilacqua - Orto, Fiori, Terriccio, Concimi, Giardinieri specializzati · Povegliano Veronese",
+    "family": "verde",
+    "concept": {
+      "id": "stagioni",
+      "frase": "Le stagioni: le sezioni cambiano tono come un giardino nel corso dell'anno, immagini larghe e foglie come segni di paragrafo.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#1c2014",
+      "ink": "#eaecdf",
+      "accent": "#99e34f",
+      "surprise": "#8065d1",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "anton",
+      "display": "Anton",
+      "body": "Public Sans",
+      "heroRatio": 11,
+      "titleLh": 0.84,
+      "track": "0em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "caldo",
+      "mask": "obliquo",
+      "ratio": "3/2"
+    },
+    "nav": "sipario",
+    "heads": "filetto",
+    "button": "scorrimento",
+    "badge": "etichetta",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "tondo",
+        "label": "Vedi",
+        "tilt": 5,
+        "magnet": 11,
+        "shapes": [],
+        "widgets": "taglio"
+      }
+    },
+    "motif": "foglia",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "colonne",
+      "gallery": "striscia",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "normale",
+        "services": "respiro",
+        "trust": "denso",
+        "gallery": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "anton",
+      "shape": "morbido",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "tipografia",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#99e34f",
+      "font": "anton",
+      "shape": "morbido",
+      "imageTreatment": "caldo",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "tipografia",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "key": "tipografia|anton|90",
+    "attempt": 235,
+    "minDistance": 6
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "design": {
+    "seed": "Artigiana Traslochi e Montaggio Mobili · Verona",
+    "sector": "operai",
+    "palette": "dna:#ad6f47",
+    "font": "schibsted",
+    "shape": "filetto",
+    "imageTreatment": "grana",
+    "motion": "elastica",
+    "nav": "angoli",
+    "hero": "scena",
+    "intro": "citazione",
+    "grid": "3-9",
+    "services": "indice",
+    "gallery": "pila"
+  },
+  "business": {
+    "name": "Artigiana Traslochi e Montaggio Mobili",
+    "tagline": "Traslochi a Verona",
+    "category": "traslochi",
+    "phone": "329 866 9594",
+    "whatsapp": "+393298669594",
+    "email": "traslochiartigiana@gmail.com",
+    "address": "Via Gottardo, 11, 37132 Verona VR",
+    "mapsQuery": "Artigiana Traslochi e Montaggio Mobili, Via Gottardo, 11, 37132 Verona VR",
+    "hours": {
+      "lun": [
+        "07:00-20:00"
+      ],
+      "mar": [
+        "07:00-20:00"
+      ],
+      "mer": [
+        "07:00-20:00"
+      ],
+      "gio": [
+        "07:00-20:00"
+      ],
+      "ven": [
+        "07:00-20:00"
+      ],
+      "sab": [
+        "10:00-18:00"
+      ],
+      "dom": []
+    },
+    "rating": 5,
+    "reviewCount": 30,
+    "reviewSource": "Google",
+    "vat": "04387340237"
+  },
+  "copy": {
+    "heroTitle": "Traslochi e montaggio mobili a Verona, dal piccolo al grande trasloco",
+    "heroSub": "Traslochi di abitazioni e uffici, montaggio e smontaggio mobili, modifiche e riparazioni. Chiamateci per parlare del vostro trasloco.",
+    "introTitle": "Un trasloco curato in ogni passaggio",
+    "introText": "Artigiana Traslochi e Montaggio Mobili è attiva a Verona e si occupa di traslochi nazionali e internazionali, per abitazioni e uffici, piccoli e grandi. Il lavoro comprende anche lo smontaggio e il rimontaggio di mobili e arredi.\n\nI vostri beni vengono trattati con ogni riguardo. Se avete un trasloco in programma, chiamateci: vi rispondiamo e ne parliamo insieme.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Traslochi di abitazioni e uffici",
+        "text": "Traslochi piccoli e grandi, nazionali e internazionali, per case e uffici."
+      },
+      {
+        "title": "Montaggio e smontaggio mobili",
+        "text": "Montaggio e smontaggio di ogni tipo di mobile e arredo, anche nuovo."
+      },
+      {
+        "title": "Modifiche e riparazioni mobili",
+        "text": "Modifiche e riparazioni di mobili e arredi, anche per adattarli ai nuovi ambienti."
+      },
+      {
+        "title": "Montaggio complementi d'arredo",
+        "text": "Montaggio di complementi d'arredo, nuovi e usati."
+      },
+      {
+        "title": "Posa carta da parati",
+        "text": "Applicazione di carta da parati di fascia media-alta."
+      }
+    ],
+    "ctaTitle": "Avete un trasloco in programma? Chiamateci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.5,
+      "alt": "Scatoloni di cartone e mobili imballati in una stanza vuota e luminosa, pronti per un trasloco",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.62,
+      "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+    },
+    {
+      "slot": "cta",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 900,
+      "luma": 0.42,
+      "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T09:45:31.853Z",
+    "seed": "Artigiana Traslochi e Montaggio Mobili · Verona",
+    "family": "legno",
+    "concept": {
+      "id": "venatura",
+      "frase": "La venatura: linee lunghe e morbide guidano l'occhio come le fibre del legno; foto ravvicinate di materia, molto calde.",
+      "extra": []
+    },
+    "archetype": "scena",
+    "palette": {
+      "paper": "#f4f7f7",
+      "ink": "#131c1a",
+      "accent": "#ad6f47",
+      "surprise": "#c9cf6d",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "schibsted",
+      "display": "Schibsted Grotesk",
+      "body": "Schibsted Grotesk",
+      "heroRatio": 10,
+      "titleLh": 0.92,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "grana",
+      "mask": "arco",
+      "ratio": "3/4"
+    },
+    "nav": "angoli",
+    "heads": "parola",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "tondo",
+        "label": "Lavori",
+        "tilt": 4,
+        "magnet": 11,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "onda",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "gallery",
+      "intro",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "indice",
+      "gallery": "pila",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "gallery": "normale",
+        "intro": "respiro",
+        "trust": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "schibsted",
+      "shape": "filetto",
+      "imageTreatment": "grana",
+      "motion": "elastica",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "pila"
+    },
+    "fingerprint": {
+      "palette": "dna:#ad6f47",
+      "font": "schibsted",
+      "shape": "filetto",
+      "imageTreatment": "grana",
+      "motion": "elastica",
+      "nav": "angoli",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "pila"
+    },
+    "key": "scena|schibsted|30",
+    "attempt": 4,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "traslochi-di-abitazioni",
+      "section": "services",
+      "service": "Traslochi di abitazioni e uffici",
+      "label": "Approfondisci: Traslochi a Verona in Veneto",
+      "title": "Traslochi a Verona, in Veneto e oltre",
+      "lead": "Artigiana Traslochi segue traslochi di abitazioni, uffici e altro, piccoli o grandi, a Verona, in Veneto e fuori regione.",
+      "paragraphs": [
+        "Artigiana Traslochi lavora nel settore dei traslochi di vario genere, piccoli e grandi. Può occuparsi del trasloco di abitazioni, uffici e altro. Opera su Verona e in Veneto e offre i suoi servizi anche sul territorio nazionale e internazionale.",
+        "Il lavoro si basa su affidabilità, puntualità, precisione e attenzione ai particolari. Il rapporto qualità prezzo è onesto e pensato per essere vantaggioso per il cliente. Se durante il trasloco si presenta un inconveniente, viene risolto in breve tempo.",
+        "Artigiana Traslochi mette a disposizione consigli e materiali necessari al trasloco, come scatoloni per l'oggettistica e per gli indumenti. Per un sopralluogo gratuito è possibile contattarla."
+      ],
+      "images": []
+    },
+    {
+      "id": "montaggio-e-smontaggio",
+      "section": "services",
+      "service": "Montaggio e smontaggio mobili",
+      "label": "Approfondisci: Montaggio e smontaggio",
+      "title": "Montaggio e smontaggio mobili a Verona",
+      "lead": "Artigiana Traslochi di Verona monta e smonta mobili e arredi di ogni tipo, con attenzione a ciò che sta più a cuore ai clienti.",
+      "paragraphs": [
+        "Tra i servizi di Artigiana Traslochi di Verona, il montaggio e lo smontaggio dei mobili sono tra i più richiesti. Si tratta di interventi che riguardano ogni tipo di mobile e di arredo, compresi quelli nuovi, di fascia bassa, media o alta.",
+        "Tra i marchi di cui ci occupiamo, a titolo esemplificativo, ci sono Dada, Boffi, Composit, LEMA, Lago, Molteni, Zalf e Presotto. Si possono inoltre effettuare modifiche e riparazioni di mobili e complementi.",
+        "Interveniamo con un team di professionisti esperti, pronti a coprire ogni esigenza. Per richiedere i nostri servizi potete contattarci per telefono o via email."
+      ],
+      "images": [
+        {
+          "file": "pagina-montaggio-e-smontaggio-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.39,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        },
+        {
+          "file": "pagina-montaggio-e-smontaggio-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1200,
+          "luma": 0.48,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        },
+        {
+          "file": "pagina-montaggio-e-smontaggio-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 899,
+          "luma": 0.39,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        },
+        {
+          "file": "pagina-montaggio-e-smontaggio-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 899,
+          "luma": 0.52,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        }
+      ]
+    },
+    {
+      "id": "modifiche-e-riparazioni",
+      "section": "services",
+      "service": "Modifiche e riparazioni mobili",
+      "label": "Approfondisci: Modifiche e riparazioni",
+      "title": "Modifiche e riparazioni di mobili dopo il trasloco",
+      "lead": "Dopo un trasloco i mobili possono richiedere modifiche o riparazioni: Artigiana Traslochi di Verona si occupa di entrambe.",
+      "paragraphs": [
+        "Quando si cambia casa capita spesso di dover adattare i propri mobili. Le modifiche si fanno in base alle nuove dimensioni degli ambienti, alle nuove esigenze di arredamento o al gusto di chi abita la casa.",
+        "In questi casi Artigiana Traslochi di Verona può occuparsi dei lavori necessari, con una squadra che lavora bene e in modo onesto.",
+        "Ci occupiamo anche di riparazioni di mobili di ogni tipo e genere, con lavori svolti in modo attento e preciso. Possiamo riparare armadi e cabine armadio, cassettiere, pensili, librerie, scrivanie, tavoli, sedie e ogni altro complemento d'arredo."
+      ],
+      "images": [
+        {
+          "file": "pagina-modifiche-e-riparazioni-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 899,
+          "luma": 0.44,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        },
+        {
+          "file": "pagina-modifiche-e-riparazioni-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 899,
+          "luma": 0.46,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        },
+        {
+          "file": "pagina-modifiche-e-riparazioni-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 899,
+          "luma": 0.46,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        }
+      ]
+    },
+    {
+      "id": "montaggio-complementi",
+      "section": "services",
+      "service": "Montaggio complementi d'arredo",
+      "label": "Approfondisci: Montaggio complementi",
+      "title": "Montaggio complementi d'arredo a Verona",
+      "lead": "Artigiana Traslochi di Verona monta ogni tipo di complemento d'arredo, con attenzione ai dettagli e a ciò che il cliente ha più a cuore.",
+      "paragraphs": [
+        "Siamo specializzati nel montaggio di ogni tipo e genere di complementi d'arredo. La nostra squadra è qualificata e si occupa di ogni necessità, sia per le esigenze di un trasloco sia per altre richieste, anche per montare mobili e arredi nuovi.",
+        "Per i traslochi, Artigiana Traslochi di Verona può provvedere al montaggio e smontaggio di arredi, cucine e mobili, all'imballaggio, al trasporto e al rimontaggio.",
+        "Quando necessario interveniamo anche per adeguare i vecchi arredamenti ai nuovi ambienti o alle nuove esigenze di stile, così da renderli adatti alla nuova destinazione. La cura dei dettagli e la soddisfazione dei clienti sono per noi priorità."
+      ],
+      "images": [
+        {
+          "file": "pagina-montaggio-complementi-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1044,
+          "luma": 0.6,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        }
+      ]
+    },
+    {
+      "id": "posa-carta-da-parati",
+      "section": "services",
+      "service": "Posa carta da parati",
+      "label": "Approfondisci: Posa della carta da parati",
+      "title": "Posa della carta da parati a Verona",
+      "lead": "Artigiana Traslochi di Verona si occupa della posa in opera della carta da parati di fascia media-alta, con attenzione a ogni dettaglio.",
+      "paragraphs": [
+        "Artigiana Traslochi di Verona offre il servizio di posa in opera della carta da parati. Si tratta di carta di fascia media-alta, un lavoro che l'attività svolge da tempo.",
+        "Il lavoro è veloce e curato: ogni dettaglio viene seguito perché la carta sia applicata in modo preciso e duri il più a lungo possibile. Anche il rapporto qualità prezzo del servizio è tenuto in considerazione, a favore del cliente.",
+        "Per la carta da parati di fascia media-alta, affidarsi a un posatore professionista è la soluzione migliore. Per avere informazioni o un preventivo gratuito è possibile contattare Artigiana Traslochi."
+      ],
+      "images": [
+        {
+          "file": "pagina-posa-carta-da-parati-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1067,
+          "luma": 0.47,
+          "alt": "Foto di Artigiana Traslochi e Montaggio Mobili"
+        }
+      ]
+    }
+  ]
+}
