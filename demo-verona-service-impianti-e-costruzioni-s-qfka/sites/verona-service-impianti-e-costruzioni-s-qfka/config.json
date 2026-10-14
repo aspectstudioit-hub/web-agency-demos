@@ -1,0 +1,194 @@
+{
+  "design": {
+    "seed": "VERONA SERVICE IMPIANTI E COSTRUZIONI S.R.L. · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#e38475",
+    "font": "hanken",
+    "shape": "morbido",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "copertina",
+    "intro": "appunto",
+    "grid": "3-9",
+    "services": "elenco",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "VERONA SERVICE IMPIANTI E COSTRUZIONI S.R.L.",
+    "tagline": "Idraulico a Bussolengo",
+    "category": "idraulico",
+    "phone": "045 608 4000",
+    "whatsapp": null,
+    "email": "info@veronaservice.it",
+    "address": "Via dei Prati, 21/b, 37012 Bussolengo VR",
+    "mapsQuery": "VERONA SERVICE IMPIANTI E COSTRUZIONI S.R.L., Via dei Prati, 21/b, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": 4.5,
+    "reviewCount": 13,
+    "reviewSource": "Google",
+    "vat": "03976280234"
+  },
+  "copy": {
+    "heroTitle": "Impianti idraulici, termici ed elettrici seguiti da un'unica azienda a",
+    "heroSub": "Verona Service Impianti e Costruzioni realizza e mantiene impianti civili e industriali. Chiamaci per un guasto o per un nuovo lavoro.",
+    "introTitle": "Impianti e costruzioni, un solo referente",
+    "introText": "Verona Service Impianti e Costruzioni S.r.l. opera nell'impiantistica civile e industriale. Si occupa di impianti idrici, termici, elettrici, di climatizzazione e di opere edili, dalla progettazione alla manutenzione.\n\nL'azienda è nata nel 2010 dall'esperienza di Franco Ambrosi, già fondatore di Verona Impianti S.r.l. Ha sede a Bussolengo, in Via dei Prati. Se hai un guasto o un lavoro da avviare, chiamaci e ne parliamo.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Impianti idrici",
+        "text": "Impianti idrici civili e industriali, centrali idriche, addolcimento e depurazione dell'acqua, smaltimento delle acque reflue."
+      },
+      {
+        "title": "Impianti termici",
+        "text": "Impianti per appartamenti, ville, condomini e industrie: pannelli radianti, riscaldamento tradizionale, centrali termiche e pompe di calore."
+      },
+      {
+        "title": "Condizionamento",
+        "text": "Impianti di climatizzazione VRV e ad acqua, trattamento e diffusione dell'aria, aspirazione per cucine, bar e ristoranti."
+      },
+      {
+        "title": "Impianti elettrici",
+        "text": "Impianti elettrici e illuminazione per ogni destinazione, dai piccoli lavori residenziali alle cabine di media tensione industriali."
+      },
+      {
+        "title": "Opere murarie",
+        "text": "Ristrutturazioni edili, demolizioni, rifacimenti, piastrellature, dipinture e rifacimento di coperture."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un impianto da fare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.18,
+      "alt": "Tubi in rame e raccordi in ottone di un impianto di riscaldamento a pavimento disposti su un banco di lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T10:07:30.110Z",
+    "seed": "VERONA SERVICE IMPIANTI E COSTRUZIONI S.R.L. · Bussolengo",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "copertina",
+    "palette": {
+      "paper": "#120e0e",
+      "ink": "#ede7e7",
+      "accent": "#e38475",
+      "surprise": "#689bc8",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "hanken",
+      "display": "Hanken Grotesk",
+      "body": "Hanken Grotesk",
+      "heroRatio": 10,
+      "titleLh": 0.89,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "cerchio",
+      "ratio": "4/5"
+    },
+    "nav": "live",
+    "heads": "margine",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Guarda",
+        "tilt": 3,
+        "magnet": 8,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "elenco",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "intro": "respiro",
+        "gallery": "denso",
+        "trust": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "hanken",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#e38475",
+      "font": "hanken",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "3-9",
+      "services": "elenco",
+      "gallery": "copertina"
+    },
+    "key": "copertina|hanken|15",
+    "attempt": 283,
+    "minDistance": 6
+  }
+}

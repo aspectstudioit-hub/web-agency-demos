@@ -1,0 +1,222 @@
+{
+  "design": {
+    "seed": "Residori Giovanni - Caldaie A Gas · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#e3b65d",
+    "font": "funnel",
+    "shape": "filetto",
+    "imageTreatment": "contrasto",
+    "motion": "elastica",
+    "nav": "live",
+    "hero": "indice",
+    "intro": "appunto",
+    "grid": "4-8",
+    "services": "scorrevole",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Residori Giovanni - Caldaie A Gas",
+    "tagline": "Caldaie e climatizzatori a Bussolengo",
+    "category": "idraulico",
+    "phone": "045 676 6097",
+    "whatsapp": null,
+    "email": "giovanni.resi@tiscali.it",
+    "address": "Via Piemonte, 43, 37012 Bussolengo VR",
+    "mapsQuery": "Residori Giovanni - Caldaie A Gas, Via Piemonte, 43, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "01898330236"
+  },
+  "copy": {
+    "heroTitle": "Se la caldaia si ferma a Bussolengo, chiama chi la ripara",
+    "heroSub": "Installazione, manutenzione e assistenza tecnica di caldaie e climatizzatori a Bussolengo e in provincia di Verona. Chiama e spiega il problema.",
+    "introTitle": "Caldaie e climatizzatori, dalla vendita all'assistenza",
+    "introText": "Residori Giovanni si occupa di vendita, installazione e manutenzione di caldaie, con una specializzazione nelle caldaie a condensazione. Per la climatizzazione segue impianti con pompa di calore, dall'installazione alla manutenzione.\n\nSe hai un guasto o vuoi un'informazione, chiama o scrivi dal modulo di contatto. L'azienda ha sede in Via Piemonte 43, a Bussolengo.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Riscaldamento",
+        "text": "Vendita, installazione e manutenzione di caldaie, comprese le caldaie a condensazione ad alta efficienza."
+      },
+      {
+        "title": "Condizionamento",
+        "text": "Installazione e manutenzione di climatizzatori con pompa di calore."
+      },
+      {
+        "title": "Assistenza tecnica",
+        "text": "Interventi di assistenza e riparazione su caldaie e climatizzatori, con ricambi e accessori originali."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o una domanda? Contattaci adesso"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.16,
+      "alt": "Tubi in rame e raccordi in ottone ordinati su un banco di lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1284,
+      "luma": 0.73,
+      "alt": "Foto di Residori Giovanni - Caldaie A Gas"
+    },
+    {
+      "slot": "cta",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.74,
+      "alt": "Foto di Residori Giovanni - Caldaie A Gas"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T10:08:04.067Z",
+    "seed": "Residori Giovanni - Caldaie A Gas · Bussolengo",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#17191b",
+      "ink": "#e4e8eb",
+      "accent": "#e3b65d",
+      "surprise": "#5da3d4",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "funnel",
+      "display": "Funnel Display",
+      "body": "Funnel Sans",
+      "heroRatio": 11,
+      "titleLh": 0.83,
+      "track": "-0.045em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "cerchio",
+      "ratio": "1/1"
+    },
+    "nav": "live",
+    "heads": "indice",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "cursore",
+      "label": "Cursore personalizzato che reagisce a link e immagini",
+      "ease": "cubic-bezier(.22,1,.36,1)",
+      "dur": 600,
+      "stagger": 40,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 6,
+        "shapes": [],
+        "widgets": "taglio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "scorrevole",
+      "gallery": "copertina",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "semplice"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "normale",
+        "gallery": "respiro",
+        "trust": "normale",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "funnel",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "live",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#e3b65d",
+      "font": "funnel",
+      "shape": "filetto",
+      "imageTreatment": "contrasto",
+      "motion": "elastica",
+      "nav": "live",
+      "hero": "indice",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "scorrevole",
+      "gallery": "copertina"
+    },
+    "key": "indice|funnel|45",
+    "attempt": 72,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "i-climatizzatori",
+      "section": "services",
+      "label": "Approfondisci: Climatizzatori con pompa",
+      "title": "Climatizzatori con pompa di calore: installazione e assistenza",
+      "lead": "Residori Giovanni si occupa di installazione e manutenzione di impianti di condizionamento con pompa di calore, per il comfort in ogni stagione.",
+      "paragraphs": [
+        "Residori Giovanni segue la climatizzazione e l'assistenza dei climatizzatori. Si occupa dell'installazione e della manutenzione di impianti di condizionamento con pompa di calore, pensati per garantire comfort in ogni stagione. Le soluzioni sono personalizzate e vengono realizzate con climatizzatori di alta qualità.",
+        "Residori Giovanni è concessionario di zona del marchio TATA e tratta anche i climatizzatori FUJITSU. L'assistenza comprende interventi di manutenzione e riparazione, per avere un servizio completo su tutto ciò che riguarda il clima di casa e l'assistenza dei climatizzatori."
+      ],
+      "images": []
+    }
+  ]
+}

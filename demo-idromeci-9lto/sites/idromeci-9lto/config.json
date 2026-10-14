@@ -1,0 +1,173 @@
+{
+  "design": {
+    "seed": "Idromeci · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#2c83c8",
+    "font": "bricolage",
+    "shape": "tecnico",
+    "imageTreatment": "duotone",
+    "motion": "quieta",
+    "nav": "live",
+    "hero": "tipografia",
+    "intro": "dichiarazione",
+    "grid": "3-9",
+    "services": "colonne",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Idromeci",
+    "tagline": "Idraulico a Bussolengo",
+    "category": "idraulico",
+    "phone": "045 676 7015",
+    "whatsapp": null,
+    "email": "info@idromeci.it",
+    "address": "V. dell' Agricoltura, 20, 37012 Bussolengo VR",
+    "mapsQuery": "Idromeci, V. dell' Agricoltura, 20, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": 4.8,
+    "reviewCount": 36,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Idraulico a Bussolengo",
+    "heroSub": "Hai un guasto o un impianto da sistemare? Idromeci ha sede in via dell'Agricoltura a Bussolengo. Chiama e racconta il problema.",
+    "introTitle": "Idromeci, idraulici a Bussolengo",
+    "introText": "Idromeci è una società con sede a Bussolengo, in provincia di Verona, in via dell'Agricoltura 20. Si occupa di impianti idraulici.\n\nSe hai un problema in casa o in azienda, il modo più semplice è telefonare. Trovi il numero e l'indirizzo email in fondo alla pagina.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Chiama Idromeci per il tuo problema idraulico"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.5,
+      "alt": "Tubi in rame e raccordi in ottone ordinati su un banco di lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-14T10:07:10.135Z",
+    "seed": "Idromeci · Bussolengo",
+    "family": "acqua",
+    "concept": {
+      "id": "manometro",
+      "frase": "Il manometro: numeri grandi e leggibili come una scala graduata; ogni informazione utile è un valore da leggere al volo.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#ebeff2",
+      "ink": "#111620",
+      "accent": "#2c83c8",
+      "surprise": "#6bd4bc",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "bricolage",
+      "display": "Bricolage Grotesque",
+      "body": "Instrument Sans",
+      "heroRatio": 10,
+      "titleLh": 0.86,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "cerchio",
+      "ratio": "1/1"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "lettere",
+      "label": "Il titolo si compone lettera per lettera",
+      "ease": "cubic-bezier(.2,.8,.2,1)",
+      "dur": 900,
+      "stagger": 26,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "quadrato",
+        "label": "Apri",
+        "tilt": 3,
+        "magnet": 6,
+        "shapes": [],
+        "widgets": "arco"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "colonne",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "trust": "respiro",
+        "intro": "respiro",
+        "gallery": "normale",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "bricolage",
+      "shape": "tecnico",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#2c83c8",
+      "font": "bricolage",
+      "shape": "tecnico",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "live",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "key": "tipografia|bricolage|210",
+    "attempt": 21,
+    "minDistance": 6
+  }
+}
