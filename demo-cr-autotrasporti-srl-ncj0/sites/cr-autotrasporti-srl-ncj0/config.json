@@ -1,0 +1,171 @@
+{
+  "design": {
+    "seed": "CR AUTOTRASPORTI SRL · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#b5bc27",
+    "font": "barlow",
+    "shape": "pillola",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "copertina",
+    "intro": "appunto",
+    "grid": "7-5",
+    "services": "elenco",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "CR AUTOTRASPORTI SRL",
+    "tagline": "Traslochi a Bussolengo",
+    "category": "traslochi",
+    "phone": "045 670 0356",
+    "whatsapp": null,
+    "email": "info@crautotrasporti.it",
+    "address": "Via Verona, 61, 37012 Bussolengo VR",
+    "mapsQuery": "CR AUTOTRASPORTI SRL, Via Verona, 61, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "02376380230"
+  },
+  "copy": {
+    "heroTitle": "Traslochi a Bussolengo, chiamaci subito",
+    "heroSub": "CR Autotrasporti è a Bussolengo, in provincia di Verona. Per un trasloco o un trasporto, chiama o scrivici: ti rispondiamo.",
+    "introTitle": "Un trasloco affidato a chi risponde",
+    "introText": "CR Autotrasporti SRL ha sede legale a Bussolengo, in Via Verona 61, e sede operativa a Pescantina. Il sito nasce per essere più vicini ai clienti e metterli in contatto con noi in modo semplice.\n\nL'azienda è iscritta all'Albo Autotrasportatori conto terzi e all'Albo Nazionale Gestori Ambientali, e dispone di licenza per il trasporto internazionale. Per ogni necessità di trasporto o di trasloco, puoi chiamare lo 045 6700356 o scrivere a info@crautotrasporti.it.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Hai un trasloco da fare? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.59,
+      "alt": "Scatole di cartone chiuse, coperte da trasloco e un bancale in legno in un magazzino luminoso",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T14:52:40.067Z",
+    "seed": "CR AUTOTRASPORTI SRL · Bussolengo",
+    "family": "movimento",
+    "concept": {
+      "id": "serie",
+      "frase": "Le serie: ripetizioni numerate, ritmo serrato, parole che scorrono come un conto alla rovescia.",
+      "extra": []
+    },
+    "archetype": "copertina",
+    "palette": {
+      "paper": "#f3f4ef",
+      "ink": "#2c2a19",
+      "accent": "#b5bc27",
+      "surprise": "#5468b7",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "barlow",
+      "display": "Barlow Condensed",
+      "body": "Barlow",
+      "heroRatio": 8,
+      "titleLh": 0.91,
+      "track": "-0.01em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "obliquo",
+      "ratio": "3/2"
+    },
+    "nav": "live",
+    "heads": "indice",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Guarda",
+        "tilt": 5,
+        "magnet": 5,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "elenco",
+      "gallery": "ritmo",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "denso",
+        "services": "respiro",
+        "trust": "normale",
+        "gallery": "respiro",
+        "cta": "denso",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "barlow",
+      "shape": "pillola",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "7-5",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#b5bc27",
+      "font": "barlow",
+      "shape": "pillola",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "copertina",
+      "intro": "appunto",
+      "grid": "7-5",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "key": "copertina|barlow|60",
+    "attempt": 22,
+    "minDistance": 6
+  }
+}

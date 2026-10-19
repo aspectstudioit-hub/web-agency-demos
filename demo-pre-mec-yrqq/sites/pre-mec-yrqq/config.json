@@ -1,0 +1,339 @@
+{
+  "design": {
+    "seed": "Pre-Mec · Sona",
+    "sector": "operai",
+    "palette": "dna:#5052f0",
+    "font": "bricolage",
+    "shape": "morbido",
+    "imageTreatment": "duotone",
+    "motion": "quieta",
+    "nav": "sipario",
+    "hero": "colonne",
+    "intro": "appunto",
+    "grid": "4-8",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Pre-Mec",
+    "tagline": "Meccanica di precisione CNC a Sona",
+    "category": "meccanico",
+    "phone": "045 645 0465",
+    "whatsapp": null,
+    "email": "info@pre-mec.com",
+    "address": "Via dell'Industria, 7, 37060 Sona VR",
+    "mapsQuery": "Pre-Mec, Via dell'Industria, 7, 37060 Sona VR",
+    "hours": {
+      "lun": [
+        "09:00-17:00"
+      ],
+      "mar": [
+        "09:00-17:00"
+      ],
+      "mer": [
+        "09:00-17:00"
+      ],
+      "gio": [
+        "09:00-17:00"
+      ],
+      "ven": [
+        "09:00-17:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": null,
+    "reviewCount": null,
+    "vat": "03275660235"
+  },
+  "copy": {
+    "heroTitle": "Tornitura e fresatura CNC su disegno, a pochi passi da Verona",
+    "heroSub": "Pre-Mec lavora componenti meccanici su disegno a Sona. Chiamaci o scrivici per parlare del tuo progetto.",
+    "introTitle": "Meccanica di precisione a Lugagnano di Sona",
+    "introText": "Pre-Mec è un'officina di meccanica di precisione CNC in Via dell'Industria, a Sona. Realizza componenti meccanici su disegno per diversi settori industriali, con macchinari a controllo numerico.\n\nHai un disegno e cerchi chi lo trasformi in un pezzo finito? Telefona o scrivi una email. Siamo aperti dal lunedì al venerdì, dalle 9 alle 17.",
+    "servicesTitle": "Le nostre lavorazioni",
+    "services": [
+      {
+        "title": "Tornitura CNC",
+        "text": "Tornitura a controllo numerico di particolari meccanici a disegno, anche conto terzi."
+      },
+      {
+        "title": "Fresatura CNC",
+        "text": "Fresatura di metalli e alluminio a controllo numerico, su disegno."
+      },
+      {
+        "title": "Lavorazione dell'alluminio",
+        "text": "Lavorazioni su misura, piastre in alluminio e incisione su alluminio."
+      },
+      {
+        "title": "Pantografo CNC",
+        "text": "Lavorazioni con pantografo CNC per pezzi e piastre su misura."
+      },
+      {
+        "title": "Burattatura",
+        "text": "Finitura dei particolari meccanici tramite burattatura."
+      }
+    ],
+    "ctaTitle": "Hai un disegno da realizzare? Chiama Pre-Mec"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.19,
+      "alt": "Componenti in alluminio lavorati a macchina CNC con bordi fresati e superfici tornite lisce",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1067,
+      "luma": 0.22,
+      "alt": "Foto di Pre-Mec"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.44,
+      "alt": "Foto di Pre-Mec"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1141,
+      "luma": 0.52,
+      "alt": "Foto di Pre-Mec"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T14:53:36.539Z",
+    "seed": "Pre-Mec · Sona",
+    "family": "motori",
+    "concept": {
+      "id": "banco",
+      "frase": "Il banco di lavoro: attrezzi in fila, ogni servizio è un pezzo etichettato su una tavola a griglia.",
+      "extra": []
+    },
+    "archetype": "colonne",
+    "palette": {
+      "paper": "#181511",
+      "ink": "#f1edeb",
+      "accent": "#5052f0",
+      "surprise": "#80b6d0",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "bricolage",
+      "display": "Bricolage Grotesque",
+      "body": "Instrument Sans",
+      "heroRatio": 10,
+      "titleLh": 0.92,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "inciso",
+      "ratio": "3/2"
+    },
+    "nav": "sipario",
+    "heads": "nessuna",
+    "button": "cerchio",
+    "badge": "orologio",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Apri",
+        "tilt": 3,
+        "magnet": 11,
+        "shapes": [],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "trama",
+    "details": [
+      "motivo",
+      "orologio"
+    ],
+    "order": [
+      "intro",
+      "gallery",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "frase",
+      "cta": "banda",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "gallery": "denso",
+        "services": "respiro",
+        "trust": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "bricolage",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "colonne",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#5052f0",
+      "font": "bricolage",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "colonne",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "colonne|bricolage|240",
+    "attempt": 10,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "qualita-competenza",
+      "section": "intro",
+      "label": "Approfondisci: Meccanica di precisione",
+      "title": "Meccanica di precisione con tecnologie CNC",
+      "lead": "PRE-MEC lavora nella meccanica di precisione con un reparto produttivo dotato di macchine CNC avanzate.",
+      "paragraphs": [
+        "PRE-MEC opera nel settore della meccanica di precisione e mette a disposizione esperienza, competenze tecniche e un reparto produttivo con tecnologie CNC avanzate.",
+        "L'azienda realizza lavorazioni sia per piccole sia per medie produzioni, con precisione, ripetibilità e controllo costante del processo produttivo. Le macchine a controllo numerico permettono di lavorare diversi materiali con elevati standard qualitativi e di rispondere alle richieste di numerosi comparti industriali.",
+        "L'investimento continuo in nuove tecnologie e nella formazione del personale è uno degli elementi che distinguono PRE-MEC e le permette di affrontare ogni progetto con competenza e affidabilità."
+      ],
+      "images": []
+    },
+    {
+      "id": "lavorazioni-meccaniche",
+      "section": "services",
+      "label": "Approfondisci: Meccanica di precisione CNC",
+      "title": "Meccanica di precisione CNC: tornitura e fresatura",
+      "lead": "PRE-MEC realizza componenti meccanici su disegno per diversi settori industriali, con macchinari a controllo numerico di ultima generazione.",
+      "paragraphs": [
+        "PRE-MEC è specializzata nella meccanica di precisione CNC. L'attività è la realizzazione di componenti meccanici su disegno, destinati a diversi settori industriali.",
+        "Le lavorazioni si svolgono con macchinari a controllo numerico di ultima generazione e con un'organizzazione orientata alla qualità. Il risultato sono lavorazioni precise, affidabili e conformi alle specifiche richieste, con elevati standard produttivi in ogni fase."
+      ],
+      "images": []
+    },
+    {
+      "id": "le-foto",
+      "section": "gallery",
+      "label": "Vedi tutte le foto",
+      "title": "Le foto",
+      "lead": "",
+      "paragraphs": [],
+      "images": [
+        {
+          "file": "pagina-le-foto-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1080,
+          "luma": 0.3,
+          "alt": "Foto di Pre-Mec"
+        },
+        {
+          "file": "pagina-le-foto-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1072,
+          "luma": 0.18,
+          "alt": "Foto di Pre-Mec"
+        },
+        {
+          "file": "pagina-le-foto-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 931,
+          "luma": 0.59,
+          "alt": "Foto di Pre-Mec"
+        },
+        {
+          "file": "pagina-le-foto-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 798,
+          "luma": 0.58,
+          "alt": "Foto di Pre-Mec"
+        },
+        {
+          "file": "pagina-le-foto-5.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 746,
+          "luma": 0.57,
+          "alt": "Foto di Pre-Mec"
+        }
+      ]
+    }
+  ]
+}

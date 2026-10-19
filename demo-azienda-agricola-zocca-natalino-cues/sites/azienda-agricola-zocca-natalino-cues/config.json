@@ -1,0 +1,289 @@
+{
+  "design": {
+    "seed": "Azienda Agricola Zocca Natalino · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#b67126",
+    "font": "hanken",
+    "shape": "pillola",
+    "imageTreatment": "naturale",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "tipografia",
+    "intro": "citazione",
+    "grid": "7-5",
+    "services": "indice",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Azienda Agricola Zocca Natalino",
+    "tagline": "Vivaio e piante a Bussolengo",
+    "category": "giardiniere",
+    "phone": "045 670 1765",
+    "whatsapp": null,
+    "email": "info@zoccanatalino.com",
+    "address": "Via Molinara, 49, 37012 Bussolengo VR",
+    "mapsQuery": "Azienda Agricola Zocca Natalino, Via Molinara, 49, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "02492420233"
+  },
+  "copy": {
+    "heroTitle": "Piante da esterno e da interno, scelte direttamente nelle nostre serre",
+    "heroSub": "Vieni al vivaio in via Molinara 49: trovi piante verdi e fiorite, composizioni personalizzate e un'ampia area espositiva.",
+    "introTitle": "Un'azienda agricola florovivaistica a Bussolengo",
+    "introText": "L'Azienda Agricola Zocca Natalino lavora nel settore florovivaistico dall'inizio degli anni '80, insieme alla famiglia. Produce piante verdi e fiorite da interni e da esterni e le propone anche a negozi di fiori, vivai e attività commerciali.\n\nNelle serre il ricambio dei prodotti esposti è continuo, così in ogni stagione trovi piante verdi e fiori da appartamento. Per qualsiasi domanda, chiama o passa al vivaio.",
+    "servicesTitle": "Cosa trovi al vivaio",
+    "services": [
+      {
+        "title": "Piante da esterno",
+        "text": "Tutto quello che cerchi per il giardino, in un'ampia area espositiva: produzione propria e piante commercializzate."
+      },
+      {
+        "title": "Piante da interno",
+        "text": "Piante verdi e fiorite da appartamento, di svariate forme e dimensioni, sempre rinnovate nelle serre."
+      },
+      {
+        "title": "Composizioni",
+        "text": "Composizioni personalizzate su un ampio assortimento di piante, con accessori da scegliere dal catalogo."
+      }
+    ],
+    "ctaTitle": "Chiamaci o passa a trovarci in via Molinara"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.52,
+      "alt": "Piante verdi in vaso allineate in una serra di vivaio, con luce naturale",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 960,
+      "luma": 0.51,
+      "alt": "Foto di Azienda Agricola Zocca Natalino"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 960,
+      "luma": 0.5,
+      "alt": "Foto di Azienda Agricola Zocca Natalino"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1600,
+      "luma": 0.41,
+      "alt": "Foto di Azienda Agricola Zocca Natalino"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T14:57:20.164Z",
+    "seed": "Azienda Agricola Zocca Natalino · Bussolengo",
+    "family": "verde",
+    "concept": {
+      "id": "stagioni",
+      "frase": "Le stagioni: le sezioni cambiano tono come un giardino nel corso dell'anno, immagini larghe e foglie come segni di paragrafo.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#f3e8ed",
+      "ink": "#2d1820",
+      "accent": "#b67126",
+      "surprise": "#636fb8",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "hanken",
+      "display": "Hanken Grotesk",
+      "body": "Hanken Grotesk",
+      "heroRatio": 11,
+      "titleLh": 0.94,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "naturale",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "sipario",
+    "heads": "filetto",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Apri",
+        "tilt": 4,
+        "magnet": 8,
+        "shapes": [],
+        "widgets": "arco"
+      }
+    },
+    "motif": "foglia",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "services",
+      "trust",
+      "intro",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "indice",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "trust": "respiro",
+        "intro": "normale",
+        "gallery": "respiro",
+        "contacts": "normale",
+        "cta": "denso"
+      }
+    },
+    "dims": {
+      "font": "hanken",
+      "shape": "pillola",
+      "imageTreatment": "naturale",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "tipografia",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#b67126",
+      "font": "hanken",
+      "shape": "pillola",
+      "imageTreatment": "naturale",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "tipografia",
+      "intro": "citazione",
+      "grid": "7-5",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "key": "tipografia|hanken|30",
+    "attempt": 1,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "l-azienda",
+      "section": "intro",
+      "label": "Approfondisci: L'Azienda Agricola Zocca",
+      "title": "L'Azienda Agricola Zocca Natalino, florovivaismo",
+      "lead": "Piante verdi e fiorite da interni e da esterni per negozi di fiori, vivai e attività commerciali, nel settore florovivaistico dall'inizio degli anni '80.",
+      "paragraphs": [
+        "L'Azienda Agricola Zocca Natalino opera nel settore florovivaistico dall'inizio degli anni '80, con il fratello Renzo e il padre Angelo. Produce piante verdi e fiorite da interni e da esterni, destinate a negozi di fiori, vivai e attività commerciali.",
+        "L'offerta comprende piante da esterno, con tutto quello che serve per il giardino in un'ampia area espositiva, e piante verdi e fiorite da appartamento di svariate forme e dimensioni. C'è poi un ricco assortimento di composizioni, che possono essere personalizzate.",
+        "L'azienda propone prodotti di qualità a un prezzo concorrenziale, pensati per le esigenze dei Garden Center e degli operatori di aree verdi. Dedica continua attenzione alle nuove tecnologie e si colloca ai vertici per qualità nel proprio settore."
+      ],
+      "images": []
+    },
+    {
+      "id": "le-foto",
+      "section": "gallery",
+      "label": "Vedi tutte le foto",
+      "title": "Le foto",
+      "lead": "",
+      "paragraphs": [],
+      "images": [
+        {
+          "file": "pagina-le-foto-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.33,
+          "alt": "Foto di Azienda Agricola Zocca Natalino"
+        },
+        {
+          "file": "pagina-le-foto-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.36,
+          "alt": "Foto di Azienda Agricola Zocca Natalino"
+        },
+        {
+          "file": "pagina-le-foto-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.3,
+          "alt": "Foto di Azienda Agricola Zocca Natalino"
+        },
+        {
+          "file": "pagina-le-foto-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.46,
+          "alt": "Foto di Azienda Agricola Zocca Natalino"
+        }
+      ]
+    }
+  ]
+}

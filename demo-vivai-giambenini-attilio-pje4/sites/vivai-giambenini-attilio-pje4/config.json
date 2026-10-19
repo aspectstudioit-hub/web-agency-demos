@@ -1,0 +1,171 @@
+{
+  "design": {
+    "seed": "Vivai Giambenini Attilio · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#1fc661",
+    "font": "besley",
+    "shape": "morbido",
+    "imageTreatment": "naturale",
+    "motion": "quieta",
+    "nav": "sipario",
+    "hero": "collage",
+    "intro": "citazione",
+    "grid": "4-8",
+    "services": "scorrevole",
+    "gallery": "pila"
+  },
+  "business": {
+    "name": "Vivai Giambenini Attilio",
+    "tagline": "Giardiniere a Bussolengo",
+    "category": "giardiniere",
+    "phone": "045 715 0475",
+    "whatsapp": null,
+    "email": "info@vivai-giambenini.it",
+    "address": "Via Isonzo, 6, 37012 Bussolengo VR",
+    "mapsQuery": "Vivai Giambenini Attilio, Via Isonzo, 6, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "03988210237"
+  },
+  "copy": {
+    "heroTitle": "Il tuo giardino, curato a Bussolengo",
+    "heroSub": "Vivai Giambenini Attilio, in via Isonzo a Bussolengo. Per il tuo giardino chiama, spiega di cosa hai bisogno e ti risponde chi ci lavora.",
+    "introTitle": "Giardinieri a Bussolengo, in via Isonzo",
+    "introText": "Vivai Giambenini Attilio si occupa di giardini a Bussolengo, in provincia di Verona. Il riferimento è in via Isonzo 6: è lì che trovi l'attività.\n\nSe hai un giardino da sistemare o da seguire, parti da una telefonata. Racconti la situazione e si decide insieme il passo successivo.",
+    "servicesTitle": "",
+    "services": [],
+    "ctaTitle": "Chiama oggi per il tuo giardino"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.48,
+      "alt": "Aiuola curata con arbusti verdi, vasi in terracotta e cesoie appoggiate su una cassetta di legno",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T14:53:09.136Z",
+    "seed": "Vivai Giambenini Attilio · Bussolengo",
+    "family": "verde",
+    "concept": {
+      "id": "potatura",
+      "frase": "La potatura: tagli obliqui e puliti; le immagini perdono un angolo come un ramo tagliato, il testo resta ordinato in filari.",
+      "extra": []
+    },
+    "archetype": "collage",
+    "palette": {
+      "paper": "#e9f0eb",
+      "ink": "#152c1b",
+      "accent": "#1fc661",
+      "surprise": "#c84c96",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 10,
+      "titleLh": 0.84,
+      "track": "-0.03em",
+      "italicWord": true
+    },
+    "images": {
+      "treatment": "naturale",
+      "mask": "obliquo",
+      "ratio": "4/5"
+    },
+    "nav": "sipario",
+    "heads": "margine",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 9,
+        "shapes": [],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "foglia",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "trust",
+      "intro",
+      "services",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "scorrevole",
+      "gallery": "pila",
+      "trust": "numero",
+      "cta": "banda",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "trust": "normale",
+        "intro": "respiro",
+        "services": "denso",
+        "gallery": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "naturale",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "collage",
+      "intro": "citazione",
+      "grid": "4-8",
+      "services": "scorrevole",
+      "gallery": "pila"
+    },
+    "fingerprint": {
+      "palette": "dna:#1fc661",
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "naturale",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "collage",
+      "intro": "citazione",
+      "grid": "4-8",
+      "services": "scorrevole",
+      "gallery": "pila"
+    },
+    "key": "collage|besley|150",
+    "attempt": 29,
+    "minDistance": 6
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "design": {
+    "seed": "Carrozzeria La Carica · Pastrengo",
+    "sector": "operai",
+    "palette": "dna:#2c76d6",
+    "font": "bigshoulders",
+    "shape": "tecnico",
+    "imageTreatment": "bn",
+    "motion": "scattante",
+    "nav": "angoli",
+    "hero": "indice",
+    "intro": "citazione",
+    "grid": "4-8",
+    "services": "colonne",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Carrozzeria La Carica",
+    "tagline": "Carrozzeria a Pastrengo, Verona",
+    "category": "carrozzeria",
+    "phone": "045 717 0306",
+    "whatsapp": null,
+    "email": "info@lacarica.it",
+    "address": "Via mantovana, 19, 37010 Pastrengo VR",
+    "mapsQuery": "Carrozzeria La Carica, Via mantovana, 19, 37010 Pastrengo VR",
+    "hours": null,
+    "rating": 4.7,
+    "reviewCount": 149,
+    "reviewSource": "Google",
+    "vat": "00808260236"
+  },
+  "copy": {
+    "heroTitle": "Carrozzeria La Carica",
+    "heroSub": "Carrozzeria, officina e centro assistenza per auto e moto a Pastrengo. Soccorso stradale 24 ore su 24: chiama il 335 7739982.",
+    "introTitle": "Un riferimento per auto e moto a Pastrengo",
+    "introText": "La Carrozzeria La Carica è a Pastrengo, in provincia di Verona. È stata inaugurata nel 1970 da Antonio Valentino. Nel 1995 sono entrati in società i figli Michele e Davide, che hanno contribuito all'ampliamento e alla modernizzazione dell'attività.\n\nL'obiettivo è la sicurezza di chi guida, dall'efficienza del mezzo fino alla gestione di revisioni e pratiche automobilistiche. Per le verniciature si usano vernici idrodiluibili ed ecologiche. Se hai bisogno, chiama.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Carrozzeria",
+        "text": "Interventi di carrozzeria su auto e moto, con vernici idrodiluibili ed ecologiche."
+      },
+      {
+        "title": "Soccorso stradale",
+        "text": "Servizio di soccorso stradale attivo 24 ore su 24. In caso di bisogno, chiama il 335 7739982."
+      },
+      {
+        "title": "Revisioni auto e moto",
+        "text": "Centro revisioni con sistema computerizzato per auto, moto e autocarri fino a 35 quintali."
+      },
+      {
+        "title": "Gestione pratiche assicurative",
+        "text": "Ti seguiamo nelle pratiche con l'assicurazione. È previsto l'incasso diretto tramite delega."
+      },
+      {
+        "title": "Officina",
+        "text": "Officina e centro assistenza per auto e moto, con tecnici esperti e attrezzature aggiornate."
+      }
+    ],
+    "ctaTitle": "Hai un guasto o un danno? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.44,
+      "alt": "Pannello di carrozzeria appena verniciato con riflessi di luce sulla superficie lucida",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1200,
+      "luma": 0.46,
+      "alt": "Foto di Carrozzeria La Carica"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T14:55:15.206Z",
+    "seed": "Carrozzeria La Carica · Pastrengo",
+    "family": "motori",
+    "concept": {
+      "id": "contagiri",
+      "frase": "Il contagiri: numeri grandi e una lancetta d'accento; il ritmo accelera scendendo nella pagina.",
+      "extra": []
+    },
+    "archetype": "indice",
+    "palette": {
+      "paper": "#f3e7e7",
+      "ink": "#1f1512",
+      "accent": "#2c76d6",
+      "surprise": "#b7ae62",
+      "dark": false,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "bigshoulders",
+      "display": "Big Shoulders Display",
+      "body": "IBM Plex Sans",
+      "heroRatio": 10,
+      "titleLh": 0.79,
+      "track": "-0.005em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "nessuna",
+      "ratio": "3/4"
+    },
+    "nav": "angoli",
+    "heads": "indice",
+    "button": "cerchio",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "tondo",
+        "label": "Vedi",
+        "tilt": 4,
+        "magnet": 5,
+        "shapes": [
+          "taglio",
+          "arco",
+          "cerchio"
+        ],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "gallery",
+      "trust",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "colonne",
+      "gallery": "copertina",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "respiro",
+        "intro": "normale",
+        "gallery": "respiro",
+        "trust": "denso",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "bigshoulders",
+      "shape": "tecnico",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "indice",
+      "intro": "citazione",
+      "grid": "4-8",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#2c76d6",
+      "font": "bigshoulders",
+      "shape": "tecnico",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "angoli",
+      "hero": "indice",
+      "intro": "citazione",
+      "grid": "4-8",
+      "services": "colonne",
+      "gallery": "copertina"
+    },
+    "key": "indice|bigshoulders|210",
+    "attempt": 0,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "carrozzeria",
+      "section": "services",
+      "service": "Carrozzeria",
+      "label": "Approfondisci: Carrozzeria La Carica",
+      "title": "Carrozzeria La Carica: riparazioni e pratiche assicurative",
+      "lead": "La Carrozzeria La Carica segue la riparazione dell'auto e il disbrigo delle pratiche assicurative, con auto di cortesia e officina per auto e moto.",
+      "paragraphs": [
+        "La Carrozzeria La Carica offre servizi di carrozzeria, soccorso stradale, revisioni auto e moto, gestione delle pratiche assicurative e officina. L'attenzione è rivolta ai tempi di riparazione e al disbrigo di tutte le pratiche assicurative. È previsto anche il servizio di auto di cortesia.",
+        "L'officina si occupa di riparazione e manutenzione di auto e moto. Il danno, assicurativo e non, viene seguito interamente in ufficio, con preventivi computerizzati in tempo reale.",
+        "La carrozzeria dispone di un sistema telematico di gestione del danno attivo con le maggiori compagnie assicurative."
+      ],
+      "images": []
+    },
+    {
+      "id": "soccorso-stradale",
+      "section": "services",
+      "service": "Soccorso stradale",
+      "label": "Approfondisci: Soccorso stradale",
+      "title": "Soccorso stradale Carrozzeria La Carica",
+      "lead": "In caso di incidente o di problemi con la vettura, Carrozzeria La Carica offre soccorso stradale per mezzi leggeri e pesanti.",
+      "paragraphs": [
+        "L'obiettivo di Carrozzeria La Carica è la sicurezza dell'automobilista. Se si verifica un incidente o si presenta un problema con il proprio veicolo, è possibile contattare il personale e richiedere il soccorso stradale.",
+        "L'assistenza stradale ha una copertura capillare sul territorio nazionale e riguarda sia i mezzi leggeri sia quelli pesanti. Gli interventi sono pensati per essere rapidi ed efficienti, e il recupero dei veicoli è possibile di giorno e di notte.",
+        "Ad assistervi c'è personale esperto, al vostro fianco quando ne avete bisogno."
+      ],
+      "images": []
+    },
+    {
+      "id": "revisioni-auto-e-moto",
+      "section": "services",
+      "service": "Revisioni auto e moto",
+      "label": "Approfondisci: Revisioni per auto e moto",
+      "title": "Revisioni per auto e moto in carrozzeria",
+      "lead": "La Carrozzeria La Carica è autorizzata alla revisione di auto, cicli, motocicli e autocarri fino a 35 quintali, con rilascio del bollino blu.",
+      "paragraphs": [
+        "La carrozzeria è autorizzata a eseguire la revisione di auto, cicli, motocicli e autocarri fino a 35 quintali. Per questa operazione dispone di attrezzature all'avanguardia, pensate per garantire la massima sicurezza del veicolo.",
+        "Si occupa anche dell'analisi dei gas di scarico e rilascia il bollino blu.",
+        "La revisione è obbligatoria dopo 4 anni dalla prima immatricolazione e, in seguito, ogni 2 anni dalla prima revisione. Per i veicoli a noleggio e le vetture di linea per il trasporto passeggeri, pubbliche o private, va fatta ogni anno. Va eseguita entro il mese corrispondente a quello di rilascio della carta di circolazione o del certificato di idoneità tecnica per la prima revisione, oppure a quello dell'ultima revisione effettuata."
+      ],
+      "images": []
+    },
+    {
+      "id": "gestione-pratiche",
+      "section": "services",
+      "service": "Gestione pratiche assicurative",
+      "label": "Approfondisci: Gestione delle pratiche",
+      "title": "Gestione delle pratiche assicurative in carrozzeria",
+      "lead": "Da Carrozzeria La Carica la qualità del lavoro in officina si affianca a una gestione efficiente delle pratiche, così non devi occuparti della burocrazia.",
+      "paragraphs": [
+        "Per Carrozzeria La Carica una carrozzeria ben gestita persegue due obiettivi: qualità inappuntabile nel lavoro di officina e massima efficienza nella gestione delle pratiche.",
+        "Chi affida la propria auto alla carrozzeria può contare su una riparazione a regola d'arte e, soprattutto, non deve occuparsi degli aspetti amministrativi e burocratici. Basta consegnare le chiavi: fino al ritorno della vettura con tutti i lavori effettuati, è possibile avere un'auto di cortesia.",
+        "I tecnici sono specializzati nelle numerose normative che regolano l'attività burocratica e la gestione delle pratiche assicurative, che per il cliente diventano solo un lontano ricordo."
+      ],
+      "images": []
+    },
+    {
+      "id": "officina",
+      "section": "services",
+      "service": "Officina",
+      "label": "Approfondisci: L'officina meccanica",
+      "title": "L'officina meccanica della Carrozzeria La Carica",
+      "lead": "Oltre alla carrozzeria, La Carica ha un'officina meccanica per riparazioni, manutenzioni, diagnosi elettroniche e impianti di climatizzazione.",
+      "paragraphs": [
+        "I servizi dell'officina della Carrozzeria La Carica sono molteplici. I tecnici esperti effettuano riparazioni e manutenzioni meccaniche, diagnosi elettroniche, ricarica e riparazione degli impianti di climatizzazione, e molto altro.",
+        "La sicurezza che l'azienda riesce a garantire deriva da oltre quarant'anni di esperienza sul campo e dalla formazione continua e costante del personale. Tecnologia e innovazione nel settore sono in continua evoluzione, e la Carrozzeria La Carica le segue.",
+        "La carrozzeria è specializzata nella verniciatura e nella messa a punto di tutti i veicoli. Tra i servizi dell'attività ci sono anche il soccorso stradale, le revisioni di auto e moto e la gestione delle pratiche assicurative."
+      ],
+      "images": []
+    }
+  ]
+}
