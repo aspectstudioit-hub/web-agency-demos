@@ -1,0 +1,188 @@
+{
+  "design": {
+    "seed": "Dieffe impresa edile · Dossobuono",
+    "sector": "operai",
+    "palette": "dna:#ddc459",
+    "font": "archivo",
+    "shape": "morbido",
+    "imageTreatment": "bn",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "diviso",
+    "intro": "citazione",
+    "grid": "3-9",
+    "services": "indice",
+    "gallery": "copertina"
+  },
+  "business": {
+    "name": "Dieffe impresa edile",
+    "tagline": "Impresa edile a Dossobuono",
+    "category": "impresa edile",
+    "phone": "045 513135",
+    "whatsapp": null,
+    "email": "info@impresaediledieffe.com",
+    "address": "Via Alessandro Volta, 25, 37069 Dossobuono VR",
+    "mapsQuery": "Dieffe impresa edile, Via Alessandro Volta, 25, 37069 Dossobuono VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "03920400235"
+  },
+  "copy": {
+    "heroTitle": "Costruire e ristrutturare",
+    "heroSub": "Impianti elettrici, costruzioni e ristrutturazioni edili a Dossobuono, Villafranca di Verona. Chiamaci per parlare del tuo intervento.",
+    "introTitle": "Un'impresa edile a Dossobuono",
+    "introText": "Dieffe è un'impresa edile con sede in Via Volta, a Dossobuono, nel comune di Villafranca di Verona. Si occupa di costruzione e ristrutturazione edile e di impianti elettrici, in ambienti civili e industriali.\n\nPer ogni intervento l'azienda dispone di attrezzature e strumenti adeguati al lavoro da svolgere. Se hai un progetto o un lavoro da fare, telefona o scrivi: trovi i contatti in fondo alla pagina.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Impianti elettrici",
+        "text": "Realizzazione di impianti elettrici in ambienti civili e industriali."
+      },
+      {
+        "title": "Lavori edili",
+        "text": "Interventi di costruzione e ristrutturazione edile."
+      },
+      {
+        "title": "Preventivi personalizzati",
+        "text": "Preventivi di spesa personalizzati in base al tipo di intervento."
+      }
+    ],
+    "ctaTitle": "Chiama Dieffe, parliamo del tuo lavoro"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.35,
+      "alt": "Muro in mattoni in costruzione con cavi elettrici e tubi corrugati accanto",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T10:47:47.565Z",
+    "seed": "Dieffe impresa edile · Dossobuono",
+    "family": "cantiere",
+    "concept": {
+      "id": "piombo",
+      "frase": "Il filo a piombo: tutto cade dritto su una griglia visibile; filetti verticali come livelle e titoli pesanti come travi.",
+      "extra": []
+    },
+    "archetype": "diviso",
+    "palette": {
+      "paper": "#191a15",
+      "ink": "#f0f0e8",
+      "accent": "#ddc459",
+      "surprise": "#857ac8",
+      "dark": true,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "archivo",
+      "display": "Archivo",
+      "body": "Archivo",
+      "heroRatio": 10,
+      "titleLh": 0.9,
+      "track": "-0.03em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "nessuna",
+      "ratio": "1/1"
+    },
+    "nav": "live",
+    "heads": "filetto",
+    "button": "scorrimento",
+    "badge": "punto",
+    "motion": {
+      "signature": "maschera",
+      "label": "Reveal con maschera che si apre dal basso",
+      "ease": "cubic-bezier(.77,0,.18,1)",
+      "dur": 1000,
+      "stagger": 90,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "tondo",
+        "label": "Lavori",
+        "tilt": 3,
+        "magnet": 10,
+        "shapes": [
+          "cerchio",
+          "taglio",
+          "arco"
+        ],
+        "widgets": "arco"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "trust",
+      "services",
+      "gallery",
+      "contacts",
+      "cta"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "indice",
+      "gallery": "copertina",
+      "trust": "banda",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "trust": "normale",
+        "services": "respiro",
+        "gallery": "denso",
+        "contacts": "normale",
+        "cta": "respiro"
+      }
+    },
+    "dims": {
+      "font": "archivo",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "copertina"
+    },
+    "fingerprint": {
+      "palette": "dna:#ddc459",
+      "font": "archivo",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "diviso",
+      "intro": "citazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "copertina"
+    },
+    "key": "diviso|archivo|45",
+    "attempt": 87,
+    "minDistance": 6
+  }
+}

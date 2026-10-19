@@ -1,0 +1,250 @@
+{
+  "design": {
+    "seed": "Studio Dentistico Dottor Fabbri · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#2e71c5",
+    "font": "schibsted",
+    "shape": "morbido",
+    "imageTreatment": "naturale",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "manifesto",
+    "intro": "dichiarazione",
+    "grid": "4-8",
+    "services": "indice",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Studio Dentistico Dottor Fabbri",
+    "tagline": "Studio dentistico a Bussolengo",
+    "category": "fabbro",
+    "phone": "045 670 1177",
+    "whatsapp": null,
+    "email": "info@studiodentisticofabbri.it",
+    "address": "Via dei Salici, 5, 37012 Bussolengo VR",
+    "mapsQuery": "Studio Dentistico Dottor Fabbri, Via dei Salici, 5, 37012 Bussolengo VR",
+    "hours": {
+      "lun": [
+        "09:00-12:00",
+        "14:00-19:00"
+      ],
+      "mar": [
+        "09:00-12:00",
+        "14:00-19:00"
+      ],
+      "mer": [
+        "09:00-12:00",
+        "14:00-19:00"
+      ],
+      "gio": [
+        "09:00-12:00",
+        "14:00-19:00"
+      ],
+      "ven": [
+        "09:00-12:00",
+        "14:00-19:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": 4.6,
+    "reviewCount": 25,
+    "reviewSource": "Google",
+    "vat": null
+  },
+  "copy": {
+    "heroTitle": "Cure odontoiatriche per adulti e bambini nello studio del dottor Fabbr",
+    "heroSub": "Studio a piano terra in Via dei Salici, con parcheggio e accesso senza barriere. Per un appuntamento chiama lo 045 670 11 77.",
+    "introTitle": "Uno studio facile da raggiungere, a Bussolengo",
+    "introText": "Lo studio si trova a Bussolengo, in Via dei Salici 5, traversa di Lungadige Trento, vicino al ponte sull'Adige che collega Bussolengo e Pescantina. È a piano terra, senza barriere architettoniche, con parcheggio e posti riservati ai disabili.\n\nIl dottor Fabbri lavora insieme ad altri odontoiatri per seguire i pazienti in tutte le branche: dalla cura delle carie all'ortodonzia, fino a implantologia e protesi. Per chi è in ansia è disponibile la sedazione cosciente.",
+    "servicesTitle": "I nostri servizi",
+    "services": [
+      {
+        "title": "Implantologia",
+        "text": "Impianti in titanio con tecnica piezoelettrica: chirurgia minimamente invasiva e guarigione post-operatoria più rapida."
+      },
+      {
+        "title": "Ortodonzia",
+        "text": "Apparecchi fissi e mobili per correggere la posizione dei denti e delle ossa mascellari."
+      },
+      {
+        "title": "Pedodonzia",
+        "text": "La cura dei denti dei bambini, con sedute di avvicinamento per prendere confidenza con lo studio."
+      },
+      {
+        "title": "Protesi dentali",
+        "text": "Protesi mobili e fisse per sostituire i denti mancanti, anche con materiali estetici."
+      },
+      {
+        "title": "Endodonzia",
+        "text": "Cura dei canali interni alle radici e devitalizzazione, per recuperare il dente."
+      },
+      {
+        "title": "Sedazione cosciente",
+        "text": "Miscela di ossigeno e protossido d'azoto per pazienti ansiosi, bambini e persone con disabilità."
+      }
+    ],
+    "ctaTitle": "Chiama lo 045 670 11 77 per fissare un appuntamento"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.65,
+      "alt": "Specchietto e sonda odontoiatrica appoggiati su un vassoio bianco ben pulito",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T10:45:35.976Z",
+    "seed": "Studio Dentistico Dottor Fabbri · Bussolengo",
+    "family": "cantiere",
+    "concept": {
+      "id": "piombo",
+      "frase": "Il filo a piombo: tutto cade dritto su una griglia visibile; filetti verticali come livelle e titoli pesanti come travi.",
+      "extra": []
+    },
+    "archetype": "manifesto",
+    "palette": {
+      "paper": "#e9e9f1",
+      "ink": "#15192b",
+      "accent": "#2e71c5",
+      "surprise": "#5d3bd0",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "schibsted",
+      "display": "Schibsted Grotesk",
+      "body": "Schibsted Grotesk",
+      "heroRatio": 11,
+      "titleLh": 0.89,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "naturale",
+      "mask": "inciso",
+      "ratio": "3/2"
+    },
+    "nav": "sipario",
+    "heads": "parola",
+    "button": "cerchio",
+    "badge": "orologio",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Apri",
+        "tilt": 5,
+        "magnet": 6,
+        "shapes": [],
+        "widgets": "arco"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "gallery",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "indice",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "denso",
+        "gallery": "respiro",
+        "trust": "denso",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "schibsted",
+      "shape": "morbido",
+      "imageTreatment": "naturale",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "manifesto",
+      "intro": "dichiarazione",
+      "grid": "4-8",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#2e71c5",
+      "font": "schibsted",
+      "shape": "morbido",
+      "imageTreatment": "naturale",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "manifesto",
+      "intro": "dichiarazione",
+      "grid": "4-8",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "key": "manifesto|schibsted|210",
+    "attempt": 535,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "servizi",
+      "section": "services",
+      "label": "Approfondisci: Laser ortodonzia",
+      "title": "Laser, ortodonzia e pedodonzia dal Dottor Fabbri",
+      "lead": "Tre ambiti di cura dello Studio Dentistico Dottor Fabbri: terapia laser, ortodonzia per adulti e ragazzi e odontoiatria per i bambini.",
+      "paragraphs": [
+        "La terapia laser è usata per lo sbiancamento: l'energia del laser favorisce la penetrazione del perossido di idrogeno nei tessuti del dente e riduce i tempi del trattamento. Serve anche per la chirurgia dei tessuti molli, minimamente invasiva, con guarigione più rapida e minore edema post-operatorio. Tra le patologie trattate: sindromi dolorose dell'articolazione temporo-mandibolare, afte, herpes, desensibilizzazione e incisione dei frenuli.",
+        "L'ortodonzia studia le anomalie nella posizione dei denti e delle ossa mascellari e mandibolari. Le malocclusioni possono alterare l'equilibrio tra denti, ossa, muscoli e tendini e, a livello di colonna vertebrale e cranio, causare cefalee, squilibri posturali e dolori cervicali. Gli apparecchi sono fissi, con attacchi metallici o estetici uniti da archi di filo metallico, oppure mobili, che il paziente mette e toglie in autonomia secondo le indicazioni ricevute.",
+        "La pedodonzia si occupa dei denti dei bambini. Se serve, il trattamento è preceduto da una o più sedute di avvicinamento, perché il bambino prenda confidenza con l'ambiente. La prevenzione è fondamentale: una prima visita è consigliabile intorno ai 4 anni, per istruire bambino e genitori sull'uso dello spazzolino e su eventuali abitudini alimentari da correggere. I denti da latte cariati vengono otturati; se la carie è molto profonda si ricorre alla devitalizzazione."
+      ],
+      "images": []
+    },
+    {
+      "id": "studio-dentistico-fabbri",
+      "section": "intro",
+      "label": "Approfondisci: Studio Dentistico Dottor",
+      "title": "Studio Dentistico Dottor Fabbri a Bussolengo",
+      "lead": "Uno studio a piano terra, senza barriere architettoniche, con cure odontoiatriche in tutte le branche, prevenzione e sedazione cosciente.",
+      "paragraphs": [
+        "Lo studio del dottor Fabbri è a Bussolengo, in Via dei salici 5, traversa di Lungadige Trento, vicino al ponte sull'Adige che collega Bussolengo e Pescantina. Si parcheggia con facilità, ci sono posti riservati ai disabili e lo studio è a piano terra, privo di barriere architettoniche.",
+        "Il dottor Fabbri lavora con altri odontoiatri, per seguire i pazienti in tutte le branche: dalle semplici carie all'ortodonzia e all'odontoiatria infantile, fino ai casi più complessi di implantologia e riabilitazione protesica. Si presta attenzione alla prevenzione e ai controlli periodici: la segretaria invia un avviso di richiamo secondo un piano di scadenze personalizzato.",
+        "Per pazienti ansiosi, persone con handicap e bambini problematici è disponibile la sedazione cosciente con protossido d'azoto, che riduce ansia, paura e stress: il paziente resta sveglio e collaborante. Nei casi più complessi, su richiesta, la sedazione è eseguita da un anestesista. Per la sterilizzazione lo studio usa il sistema HYGIENIO e, per la prevenzione, lo screening orale con VELSCOPE VX."
+      ],
+      "images": []
+    }
+  ]
+}

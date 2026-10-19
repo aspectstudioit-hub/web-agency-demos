@@ -1,0 +1,276 @@
+{
+  "design": {
+    "seed": "Edilfabri S.r.l. · Bussolengo",
+    "sector": "operai",
+    "palette": "dna:#f0574e",
+    "font": "onest",
+    "shape": "morbido",
+    "imageTreatment": "contrasto",
+    "motion": "scattante",
+    "nav": "sipario",
+    "hero": "tipografia",
+    "intro": "dichiarazione",
+    "grid": "5-7",
+    "services": "indice",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Edilfabri S.r.l.",
+    "tagline": "Impresa edile a Bussolengo",
+    "category": "impresa edile",
+    "phone": "045 715 2722",
+    "whatsapp": null,
+    "email": "edilfabri@gmail.com",
+    "address": "Via Deledda, 7, 37012 Bussolengo VR",
+    "mapsQuery": "Edilfabri S.r.l., Via Deledda, 7, 37012 Bussolengo VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "01636740233"
+  },
+  "copy": {
+    "heroTitle": "Costruire e ristrutturare",
+    "heroSub": "Impresa edile a Bussolengo, in provincia di Verona. Chiama per un preventivo o per richiedere un appuntamento.",
+    "introTitle": "Impresa edile a Bussolengo e provincia",
+    "introText": "Edilfabri è un'impresa edile con sede a Bussolengo, in provincia di Verona. Si occupa di costruzioni e ristrutturazioni.\n\nHai un progetto da realizzare o un edificio da rinnovare? Chiama lo 045 715 2722 o scrivi a edilfabri@gmail.com: puoi chiedere informazioni e un preventivo, anche su appuntamento.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Costruzioni",
+        "text": "Realizzazione di nuovi edifici a Bussolengo e in provincia di Verona."
+      },
+      {
+        "title": "Ristrutturazioni",
+        "text": "Interventi di rinnovo su abitazioni e altri edifici esistenti."
+      }
+    ],
+    "ctaTitle": "Chiama per un preventivo"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.26,
+      "alt": "Mattoni in laterizio e cazzuola su un letto di malta in un cantiere edile",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 960,
+      "luma": 0.28,
+      "alt": "Foto di Edilfabri S.r.l."
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 960,
+      "luma": 0.33,
+      "alt": "Foto di Edilfabri S.r.l."
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 960,
+      "luma": 0.32,
+      "alt": "Foto di Edilfabri S.r.l."
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T10:47:20.868Z",
+    "seed": "Edilfabri S.r.l. · Bussolengo",
+    "family": "cantiere",
+    "concept": {
+      "id": "piombo",
+      "frase": "Il filo a piombo: tutto cade dritto su una griglia visibile; filetti verticali come livelle e titoli pesanti come travi.",
+      "extra": []
+    },
+    "archetype": "tipografia",
+    "palette": {
+      "paper": "#1c1613",
+      "ink": "#eae4e1",
+      "accent": "#f0574e",
+      "surprise": "#5ed0ba",
+      "dark": true,
+      "source": "foto"
+    },
+    "type": {
+      "pair": "onest",
+      "display": "Onest",
+      "body": "Onest",
+      "heroRatio": 9,
+      "titleLh": 0.93,
+      "track": "-0.04em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "contrasto",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "sipario",
+    "heads": "parola",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "rombo",
+        "label": "Lavori",
+        "tilt": 5,
+        "magnet": 10,
+        "shapes": [
+          "cerchio",
+          "foglia",
+          "arco"
+        ],
+        "widgets": "cerchio"
+      }
+    },
+    "motif": "righello",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "services",
+      "trust",
+      "gallery",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "indice",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "respiro",
+        "services": "normale",
+        "trust": "respiro",
+        "gallery": "normale",
+        "cta": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "onest",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#f0574e",
+      "font": "onest",
+      "shape": "morbido",
+      "imageTreatment": "contrasto",
+      "motion": "scattante",
+      "nav": "sipario",
+      "hero": "tipografia",
+      "intro": "dichiarazione",
+      "grid": "5-7",
+      "services": "indice",
+      "gallery": "ritmo"
+    },
+    "key": "tipografia|onest|0",
+    "attempt": 21,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "le-foto",
+      "section": "gallery",
+      "label": "Vedi tutte le foto",
+      "title": "Le foto",
+      "lead": "",
+      "paragraphs": [],
+      "images": [
+        {
+          "file": "pagina-le-foto-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1158,
+          "luma": 0.49,
+          "alt": "Foto di Edilfabri S.r.l."
+        },
+        {
+          "file": "pagina-le-foto-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1195,
+          "luma": 0.48,
+          "alt": "Foto di Edilfabri S.r.l."
+        },
+        {
+          "file": "pagina-le-foto-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1195,
+          "luma": 0.42,
+          "alt": "Foto di Edilfabri S.r.l."
+        },
+        {
+          "file": "pagina-le-foto-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 960,
+          "luma": 0.28,
+          "alt": "Foto di Edilfabri S.r.l."
+        }
+      ]
+    }
+  ]
+}

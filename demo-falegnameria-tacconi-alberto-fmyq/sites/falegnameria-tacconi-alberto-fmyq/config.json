@@ -1,0 +1,340 @@
+{
+  "design": {
+    "seed": "Falegnameria Tacconi Alberto · Palazzolo di Sona",
+    "sector": "operai",
+    "palette": "dna:#d37335",
+    "font": "bigshoulders",
+    "shape": "pillola",
+    "imageTreatment": "grana",
+    "motion": "quieta",
+    "nav": "sipario",
+    "hero": "carosello",
+    "intro": "dichiarazione",
+    "grid": "3-9",
+    "services": "indice",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "Falegnameria Tacconi Alberto",
+    "tagline": "Falegnameria a Palazzolo di Sona",
+    "category": "falegnameria",
+    "phone": "349 125 4588",
+    "whatsapp": "+393491254588",
+    "email": "info@falegnameriatacconialberto.it",
+    "address": "Via Cavecchie, 41/3, 37060 Palazzolo di Sona VR",
+    "mapsQuery": "Falegnameria Tacconi Alberto, Via Cavecchie, 41/3, 37060 Palazzolo di Sona VR",
+    "hours": {
+      "lun": [
+        "08:00-12:00",
+        "14:30-18:30"
+      ],
+      "mar": [
+        "08:00-12:00",
+        "14:30-18:30"
+      ],
+      "mer": [
+        "08:00-12:00",
+        "14:30-18:30"
+      ],
+      "gio": [
+        "08:00-12:00",
+        "14:30-18:30"
+      ],
+      "ven": [
+        "08:00-12:00",
+        "14:30-18:30"
+      ],
+      "sab": [
+        "08:00-12:00"
+      ],
+      "dom": []
+    },
+    "rating": 4.9,
+    "reviewCount": 28,
+    "reviewSource": "Google",
+    "vat": "01295320236"
+  },
+  "copy": {
+    "heroTitle": "Legno su misura",
+    "heroSub": "Serramenti, porte e arredamenti su misura a Palazzolo di Sona, in provincia di Verona. Chiamaci per chiedere informazioni.",
+    "introTitle": "Una falegnameria di Palazzolo di Sona",
+    "introText": "La Falegnameria Tacconi Alberto è stata fondata nel 1952 da Antonio Tacconi, che ha unito la sua esperienza a quella del figlio Alberto. Da allora lavora su progetti di mobile su misura e di serramento.\n\nSiamo in Via Cavecchie, a Palazzolo di Sona. Se hai un progetto o una domanda, chiamaci o scrivici: ti rispondiamo e valutiamo insieme cosa serve.",
+    "servicesTitle": "I nostri prodotti",
+    "services": [
+      {
+        "title": "Porte interne",
+        "text": "Porte per gli interni di casa, scelte in base agli ambienti e al tuo gusto."
+      },
+      {
+        "title": "Porte blindate",
+        "text": "Porte blindate per proteggere l'ingresso di casa e sentirsi più al sicuro."
+      },
+      {
+        "title": "Serramenti",
+        "text": "Serramenti per la casa, con posa in opera certificata 'posa di qualità'."
+      },
+      {
+        "title": "Scuri e schermature solari",
+        "text": "Scuri e schermature solari per gestire luce e sole negli ambienti."
+      },
+      {
+        "title": "Zanzariere",
+        "text": "Zanzariere per tenere fuori gli insetti e lasciare aperte le finestre."
+      },
+      {
+        "title": "Arredamenti su misura",
+        "text": "Mobili e arredi realizzati su misura, pensati per gli spazi di casa tua."
+      }
+    ],
+    "ctaTitle": "Chiamaci o scrivici per un progetto"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.49,
+      "alt": "Tavole di rovere, pialla e trucioli di legno su un banco da falegname",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "gallery-1",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1600,
+      "luma": 0.6,
+      "alt": "Foto di Falegnameria Tacconi Alberto"
+    },
+    {
+      "slot": "gallery-2",
+      "file": "foto-2.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1600,
+      "luma": 0.52,
+      "alt": "Foto di Falegnameria Tacconi Alberto"
+    },
+    {
+      "slot": "gallery-3",
+      "file": "foto-3.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1600,
+      "luma": 0.58,
+      "alt": "Foto di Falegnameria Tacconi Alberto"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T10:46:46.031Z",
+    "seed": "Falegnameria Tacconi Alberto · Palazzolo di Sona",
+    "family": "legno",
+    "concept": {
+      "id": "venatura",
+      "frase": "La venatura: linee lunghe e morbide guidano l'occhio come le fibre del legno; foto ravvicinate di materia, molto calde.",
+      "extra": []
+    },
+    "archetype": "carosello",
+    "palette": {
+      "paper": "#eaf2ea",
+      "ink": "#122f16",
+      "accent": "#d37335",
+      "surprise": "#bcc357",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "bigshoulders",
+      "display": "Big Shoulders Display",
+      "body": "IBM Plex Sans",
+      "heroRatio": 8,
+      "titleLh": 0.81,
+      "track": "-0.005em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "grana",
+      "mask": "nessuna",
+      "ratio": "3/2"
+    },
+    "nav": "sipario",
+    "heads": "parola",
+    "button": "parentesi",
+    "badge": "orologio",
+    "motion": {
+      "signature": "parallasse",
+      "label": "Parallasse lieve a velocità diverse sulle immagini",
+      "ease": "cubic-bezier(.16,1,.3,1)",
+      "dur": 700,
+      "stagger": 60,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "rombo",
+        "label": "Vedi",
+        "tilt": 3,
+        "magnet": 8,
+        "shapes": [
+          "cerchio",
+          "arco",
+          "foglia"
+        ],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "onda",
+    "details": [
+      "motivo",
+      "orologio",
+      "conteggio"
+    ],
+    "order": [
+      "services",
+      "intro",
+      "cta",
+      "trust",
+      "contacts"
+    ],
+    "form": {
+      "intro": "dichiarazione",
+      "services": "indice",
+      "gallery": null,
+      "trust": "numero",
+      "cta": "banda",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "intro": "respiro",
+        "cta": "denso",
+        "trust": "respiro",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "bigshoulders",
+      "shape": "pillola",
+      "imageTreatment": "grana",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "carosello",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#d37335",
+      "font": "bigshoulders",
+      "shape": "pillola",
+      "imageTreatment": "grana",
+      "motion": "quieta",
+      "nav": "sipario",
+      "hero": "carosello",
+      "intro": "dichiarazione",
+      "grid": "3-9",
+      "services": "indice",
+      "gallery": "striscia"
+    },
+    "key": "carosello|bigshoulders|30",
+    "attempt": 78,
+    "minDistance": 6
+  },
+  "pages": [
+    {
+      "id": "le-foto",
+      "section": "gallery",
+      "label": "Vedi tutte le foto",
+      "title": "Le foto",
+      "lead": "",
+      "paragraphs": [],
+      "images": [
+        {
+          "file": "pagina-le-foto-1.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.69,
+          "alt": "Foto di Falegnameria Tacconi Alberto"
+        },
+        {
+          "file": "pagina-le-foto-2.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.48,
+          "alt": "Foto di Falegnameria Tacconi Alberto"
+        },
+        {
+          "file": "pagina-le-foto-3.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.55,
+          "alt": "Foto di Falegnameria Tacconi Alberto"
+        },
+        {
+          "file": "pagina-le-foto-4.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.45,
+          "alt": "Foto di Falegnameria Tacconi Alberto"
+        },
+        {
+          "file": "pagina-le-foto-5.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.42,
+          "alt": "Foto di Falegnameria Tacconi Alberto"
+        },
+        {
+          "file": "pagina-le-foto-6.webp",
+          "widths": [
+            800,
+            1600
+          ],
+          "width": 1600,
+          "height": 1600,
+          "luma": 0.1,
+          "alt": "Foto di Falegnameria Tacconi Alberto"
+        }
+      ]
+    }
+  ]
+}
