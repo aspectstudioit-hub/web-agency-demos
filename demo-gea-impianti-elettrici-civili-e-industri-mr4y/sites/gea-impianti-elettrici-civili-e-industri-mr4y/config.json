@@ -1,0 +1,224 @@
+{
+  "design": {
+    "seed": "GEA | Impianti Elettrici Civili e Industriali · Verona",
+    "sector": "operai",
+    "palette": "dna:#cd3438",
+    "font": "besley",
+    "shape": "morbido",
+    "imageTreatment": "duotone",
+    "motion": "scattante",
+    "nav": "live",
+    "hero": "scena",
+    "intro": "citazione",
+    "grid": "5-7",
+    "services": "colonne",
+    "gallery": "striscia"
+  },
+  "business": {
+    "name": "GEA | Impianti Elettrici Civili e Industriali",
+    "tagline": "Elettricista a Verona",
+    "category": "elettricista",
+    "phone": "045 875 1754",
+    "whatsapp": null,
+    "email": "gea@impresagea.it",
+    "address": "Str. Bresciana, 70/A, 37139 Verona VR",
+    "mapsQuery": "GEA | Impianti Elettrici Civili e Industriali, Str. Bresciana, 70/A, 37139 Verona VR",
+    "hours": {
+      "lun": [
+        "08:30-12:30",
+        "15:00-18:00"
+      ],
+      "mar": [
+        "08:30-12:30",
+        "15:00-18:00"
+      ],
+      "mer": [
+        "08:30-12:30",
+        "15:00-18:00"
+      ],
+      "gio": [
+        "08:30-12:30",
+        "15:00-18:00"
+      ],
+      "ven": [
+        "08:30-12:30",
+        "15:00-18:00"
+      ],
+      "sab": [],
+      "dom": []
+    },
+    "rating": null,
+    "reviewCount": null,
+    "vat": "04271560239"
+  },
+  "copy": {
+    "heroTitle": "Impianti elettrici per casa e azienda, con un tecnico a Verona",
+    "heroSub": "Progettiamo e installiamo impianti elettrici civili e industriali, e illuminazione stradale. Chiamaci: ti risponde chi lavora sugli impianti.",
+    "introTitle": "Un'impresa elettrica con sede a Verona",
+    "introText": "Gea Impianti S.r.l. si occupa di installazione e progettazione di impianti elettrici civili e industriali e di illuminazione stradale. Lavoriamo per clienti privati e pubblici.\n\nLa sede è in Strada Bresciana, vicino all'ingresso delle tangenziali di Verona. Da qui raggiungiamo le località della provincia e delle zone limitrofe. Per informazioni, preventivi e offerte puoi contattarci quando vuoi.",
+    "servicesTitle": "Cosa facciamo",
+    "services": [
+      {
+        "title": "Impianti elettrici civili",
+        "text": "Installazione e progettazione di impianti elettrici per abitazioni e ambienti civili."
+      },
+      {
+        "title": "Impianti elettrici industriali",
+        "text": "Installazione e progettazione di impianti elettrici per aziende e realtà industriali."
+      },
+      {
+        "title": "Illuminazione stradale",
+        "text": "Realizzazione di impianti di illuminazione stradale per clienti pubblici e privati."
+      }
+    ],
+    "ctaTitle": "Hai bisogno di un elettricista? Chiama lo 045 8751754"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.31,
+      "alt": "Cavi elettrici in rame e tubi isolanti ordinati su un banco da lavoro",
+      "origine": "generata",
+      "focus": "50% 50%"
+    },
+    {
+      "slot": "intro",
+      "file": "foto-1.webp",
+      "widths": [
+        800,
+        1600
+      ],
+      "width": 1600,
+      "height": 1000,
+      "luma": 0.27,
+      "alt": "Foto di GEA | Impianti Elettrici Civili e Industriali"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T09:54:04.877Z",
+    "seed": "GEA | Impianti Elettrici Civili e Industriali · Verona",
+    "family": "elettricita",
+    "concept": {
+      "id": "interruttore",
+      "frase": "Acceso / spento: contrasti netti come uno scatto di interruttore, con lo stato \"aperto ora\" sempre in vista.",
+      "extra": []
+    },
+    "archetype": "scena",
+    "palette": {
+      "paper": "#f7eef1",
+      "ink": "#2a151d",
+      "accent": "#cd3438",
+      "surprise": "#d3a44e",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "besley",
+      "display": "Besley",
+      "body": "Atkinson Hyperlegible Next",
+      "heroRatio": 10,
+      "titleLh": 0.88,
+      "track": "-0.03em",
+      "italicWord": true
+    },
+    "images": {
+      "treatment": "duotone",
+      "mask": "nessuna",
+      "ratio": "3/4"
+    },
+    "nav": "live",
+    "heads": "parola",
+    "button": "blocco",
+    "badge": "punto",
+    "motion": {
+      "signature": "marquee",
+      "label": "Nastro di parole che scorre e accelera con lo scroll",
+      "ease": "cubic-bezier(.33,1,.68,1)",
+      "dur": 650,
+      "stagger": 50,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "anello",
+        "cursorShape": "quadrato",
+        "label": "Guarda",
+        "tilt": 4,
+        "magnet": 7,
+        "shapes": [
+          "foglia",
+          "taglio",
+          "cerchio"
+        ],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "punto",
+    "details": [
+      "motivo",
+      "orologio"
+    ],
+    "order": [
+      "services",
+      "gallery",
+      "intro",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "citazione",
+      "services": "colonne",
+      "gallery": "striscia",
+      "trust": "numero",
+      "cta": "telefono",
+      "contacts": "scheda",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "services": "denso",
+        "gallery": "respiro",
+        "intro": "normale",
+        "trust": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "fingerprint": {
+      "palette": "dna:#cd3438",
+      "font": "besley",
+      "shape": "morbido",
+      "imageTreatment": "duotone",
+      "motion": "scattante",
+      "nav": "live",
+      "hero": "scena",
+      "intro": "citazione",
+      "grid": "5-7",
+      "services": "colonne",
+      "gallery": "striscia"
+    },
+    "key": "scena|besley|360",
+    "attempt": 612,
+    "minDistance": 6
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "design": {
+    "seed": "Elettro 81 S. R. L. · Festara",
+    "sector": "operai",
+    "palette": "dna:#cbb21e",
+    "font": "barlow",
+    "shape": "morbido",
+    "imageTreatment": "bn",
+    "motion": "quieta",
+    "nav": "indice",
+    "hero": "colonne",
+    "intro": "appunto",
+    "grid": "4-8",
+    "services": "elenco",
+    "gallery": "ritmo"
+  },
+  "business": {
+    "name": "Elettro 81 S. R. L.",
+    "tagline": "Elettricista a Festara (VR)",
+    "category": "elettricista",
+    "phone": "045 608 1199",
+    "whatsapp": null,
+    "email": "info@elettro81.eu",
+    "address": "Via Veneto, 7, 37060 Festara VR",
+    "mapsQuery": "Elettro 81 S. R. L., Via Veneto, 7, 37060 Festara VR",
+    "hours": null,
+    "rating": null,
+    "reviewCount": null,
+    "vat": "01297480236"
+  },
+  "copy": {
+    "heroTitle": "Elettricisti a Festara per impianti e quadri",
+    "heroSub": "Impianti elettrici, quadri elettrici e automazioni a Festara, Sona e Verona. Se hai un guasto o un lavoro da fare, chiamaci.",
+    "introTitle": "Elettro 81, elettricisti a Festara di Sona",
+    "introText": "Elettro 81 S.r.l. si occupa di impianti elettrici, quadri elettrici e automazioni. La sede è in Via Veneto 7, a Festara, nel comune di Sona, in provincia di Verona.\n\nSe l'impianto non funziona o devi realizzarne uno nuovo, il primo passo è semplice: contattaci. Ti diciamo cosa possiamo fare per il tuo caso.",
+    "servicesTitle": "Di cosa ci occupiamo",
+    "services": [
+      {
+        "title": "Impianti elettrici",
+        "text": "Realizzazione di impianti elettrici a Verona, Sona e dintorni, per chi ha bisogno di un impianto nuovo o di un intervento."
+      },
+      {
+        "title": "Quadri elettrici",
+        "text": "Quadri elettrici per la distribuzione e la protezione dell'impianto, pensati per l'uso a cui sono destinati."
+      },
+      {
+        "title": "Automazioni",
+        "text": "Sistemi di automazione per rendere più comodo e controllato l'uso di cancelli, porte e altri impianti."
+      }
+    ],
+    "ctaTitle": "Hai bisogno di un elettricista? Chiamaci"
+  },
+  "images": [
+    {
+      "slot": "hero",
+      "file": "hero.webp",
+      "widths": [
+        960,
+        1376
+      ],
+      "width": 1376,
+      "height": 768,
+      "luma": 0.69,
+      "alt": "Cavi elettrici colorati ordinati in tubi e scatole di derivazione su una parete",
+      "origine": "generata",
+      "focus": "50% 50%"
+    }
+  ],
+  "dna": {
+    "v": 1,
+    "createdAt": "2026-10-19T09:53:27.763Z",
+    "seed": "Elettro 81 S. R. L. · Festara",
+    "family": "elettricita",
+    "concept": {
+      "id": "circuito",
+      "frase": "Il circuito: un filo sottile collega titoli e pulsanti come una traccia stampata; quando passi sopra, la corrente si accende in colore.",
+      "extra": []
+    },
+    "archetype": "colonne",
+    "palette": {
+      "paper": "#f8f4ef",
+      "ink": "#241e16",
+      "accent": "#cbb21e",
+      "surprise": "#5663b2",
+      "dark": false,
+      "source": "settore"
+    },
+    "type": {
+      "pair": "barlow",
+      "display": "Barlow Condensed",
+      "body": "Barlow",
+      "heroRatio": 11,
+      "titleLh": 0.91,
+      "track": "-0.01em",
+      "italicWord": false
+    },
+    "images": {
+      "treatment": "bn",
+      "mask": "nessuna",
+      "ratio": "4/5"
+    },
+    "nav": "indice",
+    "heads": "indice",
+    "button": "contorno",
+    "badge": "punto",
+    "motion": {
+      "signature": "lettere",
+      "label": "Il titolo si compone lettera per lettera",
+      "ease": "cubic-bezier(.2,.8,.2,1)",
+      "dur": 900,
+      "stagger": 26,
+      "reducedMotion": "nessuna animazione, contenuto subito visibile",
+      "layers": {
+        "cursor": "punto",
+        "cursorShape": "quadrato",
+        "label": "Lavori",
+        "tilt": 5,
+        "magnet": 4,
+        "shapes": [
+          "taglio",
+          "arco",
+          "cerchio"
+        ],
+        "widgets": "foglia"
+      }
+    },
+    "motif": "filo",
+    "details": [
+      "motivo"
+    ],
+    "order": [
+      "intro",
+      "gallery",
+      "services",
+      "trust",
+      "cta",
+      "contacts"
+    ],
+    "form": {
+      "intro": "appunto",
+      "services": "elenco",
+      "gallery": "ritmo",
+      "trust": "numero",
+      "cta": "banda",
+      "contacts": "colonne",
+      "footer": "wordmark"
+    },
+    "rhythm": {
+      "base": 8,
+      "sections": {
+        "intro": "normale",
+        "gallery": "respiro",
+        "services": "denso",
+        "trust": "respiro",
+        "cta": "normale",
+        "contacts": "normale"
+      }
+    },
+    "dims": {
+      "font": "barlow",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "quieta",
+      "nav": "indice",
+      "hero": "colonne",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "fingerprint": {
+      "palette": "dna:#cbb21e",
+      "font": "barlow",
+      "shape": "morbido",
+      "imageTreatment": "bn",
+      "motion": "quieta",
+      "nav": "indice",
+      "hero": "colonne",
+      "intro": "appunto",
+      "grid": "4-8",
+      "services": "elenco",
+      "gallery": "ritmo"
+    },
+    "key": "colonne|barlow|45",
+    "attempt": 11,
+    "minDistance": 6
+  }
+}
